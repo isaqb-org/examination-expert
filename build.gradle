@@ -22,7 +22,7 @@ ext {
     localVersion = "LocalBuild"
     project.version = releaseVersion == null ? localVersion : releaseVersion;
 
-    curriculumFileName = "curriculum-template"
+    curriculumFileName = "examination-regulations"
     addSuffixToCurriculum = { suffix ->
         for (extension in ["html", "pdf"]) {
             File source = new File("${buildDir}/${curriculumFileName}.${extension}")
@@ -98,7 +98,5 @@ task renderEN(type: RenderCurriculumTask,
         addSuffixToCurriculum("-en")
     }
 }
-
-apply from: 'scripts/includeLearningObjectives.gradle'
 
 defaultTasks "buildDocs"

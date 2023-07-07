@@ -1,0 +1,13 @@
+// tag::DE[]
+=== Trainingsprovider mit Themenmoderator:in bestellen
+Die Themenarbeitsgruppe holt Angebote von Trainingsprovidern ein und wählt einen für sie passenden aus.
+Der Trainingsprovider stellt eine:n Themenmoderator:in bereit.
+Diese:r begleitet die Themenarbeitsgruppe durch den gesamten Arbeitsprozess und gibt Arbeitsschritte frei.
+
+// end::DE[]
+
+// tag::EN[]
+=== Book Trainings Provider
+
+
+// end::EN[]

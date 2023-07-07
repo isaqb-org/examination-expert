@@ -1,0 +1,14 @@
+// tag::DE[]
+=== Prüfungsdauer
+Die Themenarbeitsgruppe hat ab der ersten Besprechung mit dem/der Themenmoderator:in 12 Monate Zeit, um die Ergebnisse erstmalig bei einem Zertifizierer einzureichen.
+Empfohlen wird eine Dauer von 3 bis 9 Monaten.
+Mit triftiger Begründung kann die Themenarbeitsgruppe um einzelne Monate verlängern.
+Die Begründung muss dem/der Themenmoderator:in vorliegen und diese:r muss sie akzeptieren.
+
+// end::DE[]
+
+// tag::EN[]
+=== Examination Duration
+
+
+// end::EN[]

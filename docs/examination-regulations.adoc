@@ -1,0 +1,37 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Prüfungsordnung pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
+:toc-title: Inhaltsverzeichnis
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Examination Regulations pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
+:toc: left
+endif::[]
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+<<<
+:sectnums!:
+include::../license-copyright/copyright.adoc[{include_configuration}]
+
+<<<
+toc::[]
+
+<<<
+:sectnums:
+include::01-definitions/00-structure.adoc[{include_configuration}]
+
+<<<
+include::02-examination-information/00-structure.adoc[{include_configuration}]
+
+<<<
+include::03-examination-procedure/00-structure.adoc[{include_configuration}]
+
+<<<
+include::04-certification/00-structure.adoc[{include_configuration}]

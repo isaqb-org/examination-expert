@@ -1,0 +1,14 @@
+// tag::DE[]
+=== Erhalt des Zertifikats
+Es wird das Ergebnis der gesamten Themenarbeitsgruppe zertifiziert und keine Einzelleistungen der Mitglieder.
+Das Zertifikat wird für das Thema der Themenarbeitsgruppe ausgestellt.
+Personen können mehrere Expert-Level-Zertifizierungen erlangen, indem sie in mehreren Themenarbeitsgruppen mitarbeiten.
+Die Gültigkeitsdauer der Expert-Level-Zertifizierung ist unbegrenzt.
+
+// end::DE[]
+
+// tag::EN[]
+=== Receive Certificate
+
+
+// end::EN[]

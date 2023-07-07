@@ -1,0 +1,23 @@
+// tag::DE[]
+=== Abgabe
+Ist die Roadmap erfüllt, gibt die Themenarbeitsgruppe ihre Ergebnisse bei dem/der Themenmoderator:in ab.
+Er/sie prüft die Ergebnisse auf formelle Kriterien und fordert gegebenenfalls noch Nachbesserungen ein.
+
+==== Formelle Kriterien
+[cols="<3,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+
+
+
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Submit Result
+
+
+// end::EN[]

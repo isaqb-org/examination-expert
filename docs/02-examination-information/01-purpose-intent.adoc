@@ -1,0 +1,24 @@
+// tag::DE[]
+=== Ziel und Zweck
+Beim CPSA-E tragen Sie mit anderen Bewerber:innen Erfahrungswissen aus Ihrer Projektarbeit zusammen.
+Gemeinsam ergänzen Sie dieses durch zusätzliches Expert:innenwissen, Recherchen und Austausch miteinander.
+Anschließend stellen Sie im Rahmen des CPSA-E dieses Wissen durch Veröffentlichungen vor.
+Somit tragen Sie aktiv dazu bei, dass Expert:innenwissen in die Breite getragen wird und sich die Softwarequalität durch Ihren Beitrag auch in anderen Projekten verbessert.
+Die Themen dazu wurden vorher über die Website des iSAQB eingereicht.
+Nach einer Freigabe durch den/die Themenverwalter:in stehen die Themen zur Bearbeitung zur Verfügung.
+
+==== Ziele
+- Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
+- Sie erarbeiten mit anderen Expert:innen neues Wissen.
+- Sie zeigen Teamfähigkeit.
+- Sie tauschen sich mit anderen Expert:innen aus und bauen sich so ein Netzwerk für Ihre
+berufliche Zukunft auf.
+- Sie präsentieren die Ergebnisse bei Konferenzen oder publizieren in Fachmagazinen.
+
+// end::DE[]
+
+// tag::EN[]
+=== Purpose and Intent
+
+// end::EN[]
+

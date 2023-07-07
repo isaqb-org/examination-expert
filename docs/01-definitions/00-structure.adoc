@@ -1,0 +1,9 @@
+// tag::DE[]
+== Definitionen
+// end::DE[]
+
+// tag::EN[]
+== Definitions
+// end::EN[]
+
+include::01-involved-parties.adoc[{include_configuration}]

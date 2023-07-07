@@ -1,0 +1,10 @@
+// tag::DE[]
+=== Beteiligte am Prüfungsprozess
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Involved Parties
+
+// end::EN[]

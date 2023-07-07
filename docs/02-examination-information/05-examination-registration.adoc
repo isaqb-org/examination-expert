@@ -1,0 +1,13 @@
+// tag::DE[]
+=== Anmeldung zur Prüfung
+Die Themenarbeitsgruppe sucht und beauftragt den Zertifizierer und informiert den/die Themenmoderator:in über den gewählten Zertifizierer.
+Auf der iSAQB-Webseite finden Sie die verfügbaren Zertifizierer unter dem Punkt "Zertifizierungsstellen".
+Der/Die Themenmoderator:in nimmt die Ergebnisse formell ab und leitet sie an den Zertifizierer weiter.
+
+// end::DE[]
+
+// tag::EN[]
+=== Examination Registration
+
+
+// end::EN[]

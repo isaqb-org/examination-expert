@@ -1,0 +1,13 @@
+// tag::DE[]
+=== Themenarbeitsgruppe zusammenstellen
+Der/Die Themenverwalter:in sorgt dafür, dass entsprechend der Themeneinreichung ausreichend Bewerber:innen in der Themenarbeitsgruppe sind. Diese Aufgabe muss er/sie nicht allein durch- führen, sondern kann sich die Hilfe der sich bereits in der Themenarbeitsgruppe befindlichen Be- werber:innen zunutze machen. Die Themenarbeitsgruppe darf gern für das Thema im Kolleg:in- nen- und Bekanntenkreis werben. Auch das iSAQB wird regelmäßig auf offene Themen aufmerksam machen und für eine Teilnahme werben. (_Dieser Punkt wird noch in der AG weiter diskutiert. Eventuell ändert sich Formulierung nochmal._)
+
+Sobald genug Bewerber:innen für die Themenarbeitsgruppe vorhanden sind, informiert der/die Themenverwalter:in über den Start der Themenarbeitsgruppe und schickt die Kontaktdaten aller Mitglieder an die Themenarbeitsgruppe.
+
+// end::DE[]
+
+// tag::EN[]
+=== Assemble Working Group
+
+
+// end::EN[]

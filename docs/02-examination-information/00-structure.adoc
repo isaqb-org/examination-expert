@@ -1,0 +1,13 @@
+// tag::DE[]
+== Informationen zur Prüfung
+// end::DE[]
+
+// tag::EN[]
+== Examination Information
+// end::EN[]
+
+include::01-purpose-intent.adoc[{include_configuration}]
+include::02-preconditions.adoc[{include_configuration}]
+include::03-examination-duration.adoc[{include_configuration}]
+include::04-examination-costs.adoc[{include_configuration}]
+include::05-examination-registration.adoc[{include_configuration}]

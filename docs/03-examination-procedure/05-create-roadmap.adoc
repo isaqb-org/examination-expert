@@ -1,0 +1,55 @@
+// tag::DE[]
+=== Roadmap erstellen
+Die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht.
+Der/die Themenmoderator:in kann hierbei unterstützen.
+Schließlich wird die Roadmap bei dem/der Themenmoderator:in eingereicht, welche:r diese anhand festgelegter Kriterien überprüft.
+
+==== Kriterien für die Abnahme der Roadmap
+[cols="<3,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+| Ziel, Mission
+| Muss
+| - Sind Ziel und Mission der Themenarbeitsgruppe verständlich beschrieben?
+
+| Themenarbeitsgruppe
+| Muss
+| - Sind die Kontaktdaten aller Mitglieder der Themenarbeitsgruppe angeführt?
+
+| Vorgehensweise
+| Muss
+|- Werden die Rollen und Aufgaben der Mitglieder der Themenarbeitsgruppe beschrieben?
+- Ist ein Zeitplan mit Meilensteinen vorhanden?
+- Sind die Zeiten und Orte für die optionalen persönlichen Treffen angeführt?
+- Sind die Zeiten und Mittel für die virtuellen Treffen angeführt?
+- Werden die Werkzeuge für die elektronische Kommunikation aufgelistet?
+- Sind Arbeitspakete und Zuständigkeiten definiert?
+- Ist der Review-Prozess bestimmt?
+
+| Literatur
+| Muss
+| - Gibt es eine Literaturliste?
+- Umfasst die Literaturliste mindestens 7 Quellen?
+- Sind die Quellen von wissenschaftlichem Wert?
+
+| Ergebnisse
+| Muss
+| - Wird der verpflichtende Artikel diskutiert?
+- Wird zumindest ein weiteres Ergebnis angeführt (z. B. Anleitung, Beispiel, ...)?
+- Wird für jedes Ergebnis die Form und Struktur behandelt?
+- Versucht die Themenarbeitsgruppe, die Ergebnisse bei mindestens einer Konferenz zu präsentieren?
+- Versucht die Themenarbeitsgruppe, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
+
+|===
+
+Gibt der/die Themenmoderator:in die Roadmap frei, kann die Themenarbeitsgruppe mit der Umsetzung beginnen.
+Bei Ablehnung der Roadmap hat die Themenarbeitsgruppe einen weiteren Versuch, die Roadmap zu verbessern und erneut abzugeben.
+
+// end::DE[]
+
+// tag::EN[]
+=== Create Roadmap
+
+
+// end::EN[]

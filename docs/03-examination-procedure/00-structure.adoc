@@ -1,0 +1,15 @@
+// tag::DE[]
+== Prüfungsverfahren
+// end::DE[]
+
+// tag::EN[]
+== Examination Procedure
+// end::EN[]
+
+include::01-submit-topic.adoc[{include_configuration}]
+include::02-select-topic.adoc[{include_configuration}]
+include::03-assemble-working-group.adoc[{include_configuration}]
+include::04-book-trainings-provider.adoc[{include_configuration}]
+include::05-create-roadmap.adoc[{include_configuration}]
+include::06-symposia.adoc[{include_configuration}]
+include::07-papers.adoc[{include_configuration}]

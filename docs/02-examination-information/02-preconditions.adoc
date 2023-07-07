@@ -1,0 +1,15 @@
+// tag::DE[]
+=== Prüfungsvoraussetzungen
+
+Ein:e Expert-Level-Bewerber:in muss als Eignungsvoraussetzung erfolgreich die iSAQB-Advanced-Level-Zertifizierung erlangt haben.
+Ansonsten gibt es keine Eignungsvoraussetzungen.
+Sie sollten jedoch langjährige Projekterfahrung und tiefgreifendes Wissen im Bereich Ihres gewählten Softwarearchitekturthemas haben, das Sie mit der Themenarbeitsgruppe bearbeiten möchten.
+Die Praxiserfahrung muss nicht nachgewiesen werden, da sie schon Voraussetzung für die iSAQB- Foundation- und Advanced-Level-Zertifizierungen ist. Auch eine Mindestzeit zwischen Advanced- und Expert-Level-Zertifizierung wird nicht gefordert.
+
+// end::DE[]
+
+// tag::EN[]
+=== Preconditions
+
+// end::EN[]
+
