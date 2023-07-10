@@ -1,5 +1,70 @@
 // tag::DE[]
 === Prüfungsleistungen
+Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
+
+[cols="<3,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+| Artikel
+| Muss
+| Der Artikel beschreibt die Ergebnisse der Themenarbeitsgruppe. Das iSAQB stellt eine Vorlage bereit.
+
+| Weiteres Ergebnis
+| Muss
+| Die Themenarbeitsgruppe muss mindestens ein frei wählbares weiteres Ergebnis ausarbeiten, wie z. B. Anleitungen, Best Practices, Auswertungen von Umfragen.
+
+| Einreichungen
+| Soll
+| Die Themenarbeitsgruppe soll ihre Ergebnisse auf Konferenzen einreichen oder in Fachzeitschriften publizieren. Zum Nachweis gibt die Themenarbeitsgruppe etwa ein Abstract oder eine Kopie eines veröffentlichten Artikels ab.
+
+| Erfahrungsbericht
+| Muss
+| Jedes Mitglied einer Themenarbeitsgruppe erstellt einen Erfahrungsbericht, damit das iSAQB die Prozesse weiterentwickeln kann. Das iSAQB stellt dazu eine Vorlage bereit.
+
+|===
+
+Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. _Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. (Siehe Punkt E.5 der FAQs > Formulierung wird wahrscheinlich nochmal angepasst.)_ Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
+
+==== Beurteilung
+Die gemeinsame Beurteilung der Prüfer:innen erfolgt nach dem folgenden Kriterienkatalog.
+Es müssen mindestens 20 der 30 Punkte erreicht werden.
+In jeder Kategorie müssen 4 der 10 Punkte erreicht werden.
+Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
+
+[cols="<3,<7a"]
+|===
+| Kriterium | Bewertungsschema
+
+| Bedeutung für Theorie und Praxis
+| 10 - Herausragende Bedeutung +
+08 - Bedeutsam +
+06 - Nicht unbedeutend +
+04 - Eher schwache Bedeutsamkeit 02 - Von geringer Bedeutung +
+00 - Absolut keine Relevanz
+
+| Originalität und Innovationsgrad
+| 10 - Ein wichtiger und bedeutender Beitrag zum Themengebiet +
+08 - Ein deutlicher Beitrag zum Themengebiet. +
+06 - Ein kleiner Beitrag zum Themengebiet. Vielleicht er- gibt sich daraus in Zukunft ein Mehrwert. +
+04 - Es gibt bessere Arbeiten zu diesem Thema. +
+02 - Bereits viele Male gesagt. +
+00 - Trägt wenig oder gar nichts zum Themengebiet bei.
+
+| Qualität der Darstellung
+| 10 - Exzellent geschrieben +
+08 - Gut geschrieben +
+06 - Lesbar +
+04 - Sollte überarbeitet werden +
+02 - Noch erhebliche Arbeit erforderlich +
+00 - Inakzeptabel
+
+|===
+
+Sechs Wochen nachdem die Themenarbeitsgruppe die Ergebnisse eingereicht hat, bekommen die Mitglieder über den Zertifizierer das Ergebnis mitgeteilt:
+Erfolgreiche Zertifizierung, Ablehnung oder Nachbesserung nötig.
+Die Themenarbeitsgruppe erhält Einblick in die Begründung der Prüfungsergebnisse.
+
 
 // end::DE[]
 
