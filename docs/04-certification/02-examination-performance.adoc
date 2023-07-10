@@ -40,7 +40,8 @@ Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
 | 10 - Herausragende Bedeutung +
 08 - Bedeutsam +
 06 - Nicht unbedeutend +
-04 - Eher schwache Bedeutsamkeit 02 - Von geringer Bedeutung +
+04 - Eher schwache Bedeutsamkeit +
+02 - Von geringer Bedeutung +
 00 - Absolut keine Relevanz
 
 | Originalität und Innovationsgrad
