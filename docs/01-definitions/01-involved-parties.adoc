@@ -1,6 +1,59 @@
 // tag::DE[]
 === Beteiligte am Prüfungsprozess
 
+[cols="<3,<7a"]
+|===
+| Name der Rolle | Beschreibung, Funktion, Aufgabe
+
+| Expert-Level-Bewerber:in
+| Advanced-Level-Architekt:in, der/die das Expert-Level-Zertifikat CPSA-E anstrebt
+
+| iSAQB
+| Der iSAQB e. V. stellt folgende Artefakte zur Verfügung:
+- Liste (offener) Themen, auf Website
+- Jahresbuch (sammelt, bindet, publiziert, übersetzt Papers, die in den Themenarbeitsgruppen final bearbeitet wurden)
+- abgeschlossene Themen zum Download
+- Webseite zur Anmeldung für EL-Bewerber:innen
+
+| iSAQB AG Expert Level
+| Arbeitsgruppe zum Expert Level im iSAQB. +
+Die Arbeitsgruppe organisiert und überwacht die Durchführung der Prozesse.
+
+| Prüfer:in
+| Prüfer:innen arbeiten für die Zertifizierer und prüfen die Ergebnisse einer Themenarbeitsgruppe.
+Die AG Expert Level stellt den Zertifizierern Prüfer:innen aus der eigenen Arbeitsgruppe zur Verfügung.
+Auch andere iSAQB-Mitglieder kön- nen sich als Prüfer:innen melden und werden zu diesem Zweck in die AG Expert Level aufgenommen.
+
+Prüfer:innen müssen folgende Eigenschaften haben:
+- Sie sind Mitglieder der AG Expert Level.
+- Sie sind anerkannte Expert:innen in der Softwarearchitektur.
+- Sie haben breites und tiefes Wissen im Bereich der Softwarearchitektur.
+- Sie arbeiten auf Honorarbasis als Prüfer:innen.
+- Sie verfügen über ausreichend Zeit, um ihrer Arbeit als Prüfer:innen nachzugehen.
+
+| Themenarbeitsgruppe
+| Arbeitsgruppe, die gebildet wird, um ein EL-Thema auszuarbeiten.
+Die Themenarbeitsgruppe setzt sich aus angenommenen Bewerber:innen für ein Thema zusammen.
+
+| Themeneinreicher:in
+| Reicht ein (mögliches) Thema ein, das im Rahmen einer Expert-Level-Zertifizierung bearbeitet werden soll.
+
+| Themenmoderator:in
+| Jede Themenarbeitsgruppe wird von einem/einer Themenmoderator:in begleitet.
+Er/sie begleitet die Themenarbeitsgruppe, nimmt die Roadmap ab, beantwortet Fragen und prüft die Ergebnisse auf formelle Kriterien.
+Er/sie organisiert gegebenenfalls Räume und Moderationsmaterial bei persönlichen Treffen.
+
+| Themenverwalter:in
+| Der/die Themenverwalter:in prüft neue Themen und verwaltet Themen im Themenspeicher. +
+Er/sie ist aktives Mitglied des iSAQB.
+
+| Trainingsprovider
+| Trainingsprovider sind vom iSAQB akkreditierte "Schulungsanbieter" und "Schulungsdurchführer", die den/die Themenmoderator:in stellen.
+
+| Zertifizierer
+| Zertifizierer sind vom iSAQB akkreditierte Institute, welche die Prüfung der Ergebnisse einer Themenarbeitsgruppe organisieren und das Zertifikat CPSA-Expert Level ausstellen.
+
+|===
 
 // end::DE[]
 
