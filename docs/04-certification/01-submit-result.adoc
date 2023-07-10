@@ -12,44 +12,55 @@ Er/sie prüft die Ergebnisse auf formelle Kriterien und fordert gegebenenfalls n
 | Muss
 | Hat der Artikel die folgende Struktur und folgenden Inhalt?
 
-1. Titel
-  a. Passt der Titel zum behandelten Thema?
-2. Autor:innen
-  a. Sind die Autor:innen namentlich angeführt?
-  b. Sind die E-Mail-Adressen der Autor:innen aufgelistet?
-3. Abstract
-  a. Wird die Problemstellung kurz beschrieben?
-  b. Beschreibt das Abstract die Hauptthesen oder Ergebnisse?
-  c. Ist die Beschreibung kurz und verständlich?
-4. Einleitung
-  a. Beschreibt die Einleitung den derzeitigen Wissensstand?
-  b. Wird die Motivation behandelt?
-  c. Wird beschrieben, welche Wissenslücken es gibt, die durch diesen wissenschaftlichen Artikel gefüllt werden sollen?
-  d. Werden die Fragestellungen beschrieben, die im Artikel beantwortet werden sollen?
+. Titel
+[loweralpha]
+  .. Passt der Titel zum behandelten Thema?
+. Autor:innen
+[loweralpha]
+  .. Sind die Autor:innen namentlich angeführt?
+  .. Sind die E-Mail-Adressen der Autor:innen aufgelistet?
+. Abstract
+[loweralpha]
+  .. Wird die Problemstellung kurz beschrieben?
+  .. Beschreibt das Abstract die Hauptthesen oder Ergebnisse?
+  .. Ist die Beschreibung kurz und verständlich?
+. Einleitung
+[loweralpha]
+  .. Beschreibt die Einleitung den derzeitigen Wissensstand?
+  .. Wird die Motivation behandelt?
+  .. Wird beschrieben, welche Wissenslücken es gibt, die durch diesen wissenschaftlichen Artikel gefüllt werden sollen?
+  .. Werden die Fragestellungen beschrieben, die im Artikel beantwortet werden sollen?
 
 |
 |
-| 5. Hauptteil (Kapitelname(n) sind frei wählbar)
-  a. Materialien und Methoden
-    - Werden die Informationsquellen beschrieben?
-    - Werden die Methoden beschrieben, die zur Beantwortung der Fragestellung zum Einsatz kamen?
-  b. Resultate
-    - Werden die Erkenntnisse beschrieben?
-    - Werden die Erkenntnisse mit ausreichend plausiblen Daten begründet?
-  c. Diskussion
-    - Wird beschrieben, wie die Erkenntnisse interpretiert werden?
-    - Werden Fragen behandelt, welche sich aus den Ergebnissen ergeben?
-    - Wird behandelt, welche Auswirkun- gen die Erkenntnisse auf die Praxis haben?
-6. Zusammenfassung
-  a. Werden alle Fragestellungen und deren Beantwortung kurz zusammengefasst?
-  b. Werden die Auswirkungen der Erkenntnisse kurz behandelt?
-7. Danksagung
-  a. Werden Unterstützer:innen angeführt?
-8. Interessenskonflikte
-  a. Werden Interessenskonflikte angeführt?
-9. Literaturliste
-  a. Wird die gesamte verwendete Literatur aufgelistet?
-  b. Wird korrekt zitiert?
+|[start=5]
+. Hauptteil (Kapitelname(n) sind frei wählbar)
+[loweralpha]
+  .. Materialien und Methoden
+[lowerroman]
+    ... Werden die Informationsquellen beschrieben?
+    ... Werden die Methoden beschrieben, die zur Beantwortung der Fragestellung zum Einsatz kamen?
+  .. Resultate
+[lowerroman]
+    ... Werden die Erkenntnisse beschrieben?
+    ... Werden die Erkenntnisse mit ausreichend plausiblen Daten begründet?
+  .. Diskussion
+[lowerroman]
+    ... Wird beschrieben, wie die Erkenntnisse interpretiert werden?
+    ... Werden Fragen behandelt, welche sich aus den Ergebnissen ergeben?
+    ... Wird behandelt, welche Auswirkun- gen die Erkenntnisse auf die Praxis haben?
+. Zusammenfassung
+[loweralpha]
+  .. Werden alle Fragestellungen und deren Beantwortung kurz zusammengefasst?
+  .. Werden die Auswirkungen der Erkenntnisse kurz behandelt?
+. Danksagung
+[loweralpha]
+  .. Werden Unterstützer:innen angeführt?
+. Interessenskonflikte
+  .. Werden Interessenskonflikte angeführt?
+. Literaturliste
+  .. Wird die gesamte verwendete Literatur aufgelistet?
+  .. Wird korrekt zitiert?
 
 | Weiteres Ergebnis
 | Muss
