@@ -1,0 +1,53 @@
+// tag::DE[]
+=== Kriterien für neue Bewerber:innen
+Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgruppe mitarbeiten zu dürfen:
+
+[cols="<3,<7a"]
+|===
+| Kriterium | Beschreibung
+
+|Advanced Level
+|Bewerber:innen müssen bestätigen, dass sie spätestens bis zur Einreichung der Expert-Level-Arbeit über das Advanced-Level-Zertifikat verfügen.
+
+|Wissen und Praxiserfahrung
+|Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und ihre Praxiserfahrung zusammenfassen.
+
+
+|iSAQB^®^ darf Ergebnisse veröffentlichen und verwerten
+|Bewerber:innen müssen einwilligen, dass die Ergebnisse der Themenarbeitsgruppe von iSAQB^®^ veröffentlicht und verwertet werden dürfen.
+
+|Reisebereitschaft
+|Bewerber:innen müssen sich bereit erklären, für die Arbeit in der Themenarbeitsgruppe Reisen auf eigene Kosten zu unternehmen.
+
+|Weitergabe von Kontaktdaten
+|Bewerber:innen erteilen dem iSAQB^®^ die Berechtigung, folgende Daten an andere Mitglieder der Themenarbeitsgruppe weiterleiten zu dürfen:
+
+- Vorname und Nachname
+- E-Mail-Adresse
+- Telefonnummer
+
+|===
+
+[NOTE]
+.Folgende Kriterien treten vielleicht in Zukunft in Kraft
+====
+Das iSAQB^®^ kann auch Personen ohne Advanced-Level-Zertifikat als Bewerber:innen für den Expert Level zulassen, wenn sie eine der folgenden Kriterien erfüllen:
+
+- VIPs, die als Koryphäe auf dem zu bearbeitenden Thema bekannt sind.
+- iSAQB-Mitglieder, die auf Grund ihrer Aufgabe beim iSAQB^®^ die Advanced-Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced-Level-Zertifizierung nicht machen können.
+
+Die Entscheidung, ob jemand die obigen Kriterien erfüllt wird durch einen Mehrheitsbeschluss vom iSAQB Strategie-Council und den Mitgliedern der AG-EL gefällt.
+
+Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzuarbeiten und kann ihnen dafür die Kosten erstatten.
+
+Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in einer Themenarbeitsgruppe und einer erfolgreichen Zertifizierung erhält niemand das EL-Zertifikat.
+====
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Criteria for New Applicants
+
+
+// end::EN[]

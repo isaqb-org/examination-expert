@@ -14,11 +14,11 @@ include::02-criteria-new-topic.adoc[{include_configuration}]
 
 <<<
 
-// include::02-criteria-new-topic.adoc[{include_configuration}]
+include::03-criteria-new-applicant.adoc[{include_configuration}]
 
 <<<
 
-// include::02-criteria-new-topic.adoc[{include_configuration}]
+// include::04-criteria-new-topic.adoc[{include_configuration}]
 
 <<<
 
