@@ -1,0 +1,39 @@
+// tag::DE[]
+=== Kriterien für neue Themenmoderator:innen
+Ein:e Themenmoderator:in muss diese Kriterien erfüllen:
+
+[cols="<2,1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+|iSAQB^®^ Advanced-Level-Zertifizierung
+|Muss
+|Eignungsvoraussetzung
+
+|iSAQB^®^ Expert-Level-Zertifizierung
+|Optional
+|Optionale Eignungsvoraussetzung, falls Bewerber:innen bereits über eine Expert-Level-Zertifizierung für ein anderes Thema verfügen.
+
+|Nachgewiesene Praxiserfahrung
+|Optional
+|Bewerber:innen können begründen, warum sie Wissen und Praxiserfahrung für das ausgewählte Thema haben.
+
+|Veröffentlichungen
+|Optional
+|Liste von Veröffentlichungen: Bücher, Studien, Artikel bzw. Vorträge, etwaige Trainer:innen-Aktivitäten in Workshops/Tutorials/Trainings. Die Veröffentlichungen sollen nicht älter als 4 Jahre alt sein. Abhängig vom Thema muss im Einzelfall entschieden werden, wie relevant die Veröffentlichungen für das Thema und die Gruppe sind.
+
+
+|Ausschlusskriterium
+|Pflicht
+|Es dürfen je nach Größe der Gruppe nur 1-2 Teilnehmer:innen aus einem Projektumfeld teilnehmen. Gleiches gilt für die Firmenzugehörigkeit.
+
+|===
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Criteria for New Moderators
+
+
+// end::EN[]
