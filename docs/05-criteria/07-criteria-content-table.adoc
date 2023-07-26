@@ -1,0 +1,39 @@
+// tag::DE[]
+[cols="<3,<7a"]
+|===
+| Kriterium | Bewertungsschema
+
+| Bedeutung für Theorie und Praxis
+| 10 - Herausragende Bedeutung +
+08 - Bedeutsam +
+06 - Nicht unbedeutend +
+04 - Eher schwache Bedeutsamkeit +
+02 - Von geringer Bedeutung +
+00 - Absolut keine Relevanz
+
+| Originalität und Innovationsgrad
+| 10 - Ein wichtiger und bedeutender Beitrag zum Themengebiet +
+08 - Ein deutlicher Beitrag zum Themengebiet. +
+06 - Ein kleiner Beitrag zum Themengebiet. Vielleicht er- gibt sich daraus in Zukunft ein Mehrwert. +
+04 - Es gibt bessere Arbeiten zu diesem Thema. +
+02 - Bereits viele Male gesagt. +
+00 - Trägt wenig oder gar nichts zum Themengebiet bei.
+
+| Qualität der Darstellung
+| 10 - Exzellent geschrieben +
+08 - Gut geschrieben +
+06 - Lesbar +
+04 - Sollte überarbeitet werden +
+02 - Noch erhebliche Arbeit erforderlich +
+00 - Inakzeptabel
+
+|===
+
+// end::DE[]
+
+
+
+// tag::EN[]
+
+// end::EN[]
+
