@@ -2,7 +2,7 @@
 === Kriterien für neue Themenmoderator:innen
 Ein:e Themenmoderator:in muss diese Kriterien erfüllen:
 
-[cols="<2,1,<7a"]
+[cols="<3,2,<7a"]
 |===
 | Kriterium | Pflicht | Beschreibung
 

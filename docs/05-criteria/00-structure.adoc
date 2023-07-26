@@ -22,9 +22,12 @@ include::04-criteria-new-moderator.adoc[{include_configuration}]
 
 <<<
 
-//include::05-criteria-new-topic.adoc[{include_configuration}]
+include::05-criteria-roadmap.adoc[{include_configuration}]
 
 <<<
 
-//include::05-criteria-new-topic.adoc[{include_configuration}]
+include::06-criteria-form.adoc[{include_configuration}]
 
+<<<
+
+include::07-criteria-content.adoc[{include_configuration}]
