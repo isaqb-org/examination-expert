@@ -1,6 +1,6 @@
 // handle numerous attributes. Successful include of this file
 // is ABSOLUTELY NECESSARY!!
-include::config/setup.adoc[]
+include::config/setup_regulations.adoc[]
 
 ifeval::["{language}" == "DE"]
 = Prüfungsordnung pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]

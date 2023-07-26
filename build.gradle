@@ -50,6 +50,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
         baseDir = new File ("./docs/")
         sources {
             include "index.adoc"
+            include "examination-criteria.adoc"
             include "${curriculumFileName}.adoc"
         }
         outputDir = new File("./build/")
