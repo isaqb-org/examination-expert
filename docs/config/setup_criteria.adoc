@@ -1,0 +1,12 @@
+include::setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+:curriculum-header-title: Kriterien für den iSAQB® CPSA® Expert Level
+:hyphens: de
+endif::[]
+
+ifeval::["{language}" == "EN"]
+:curriculum-name: FULL NAME OF MODULE
+:curriculum-header-title: Criteria for the iSAQB® CPSA® Expert Level
+:hyphens: en_US
+endif::[]

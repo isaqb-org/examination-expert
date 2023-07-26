@@ -1,0 +1,49 @@
+// tag::DE[]
+=== Kriterien für ein neues Thema
+
+Ein neues Thema muss folgende Kriterien erfüllen:
+
+[cols="<2,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+|Originalität
+|Muss
+| Muss die Themengruppe neues Wissen arbeiten?
+Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wikipedia)?
+
+|Relevanz
+|Muss
+|Ist das Thema für einen größeren Personenkreis interessant?
+
+|Innovation
+|Muss
+|Bringt das Thema neue Ideen und neues Wissen hervor, die von allgemeinem Interesse sind?
+
+|Kreativität
+|Soll
+|Zeigt das Thema Kreativität, z.{nbsp}B. durch Synergien, Analogien, Ideen?
+
+|Effektivität
+|Soll
+|Ist zu erwarten, dass durch die Themenbearbeitung die Arbeit in der Softwarearchitektur zukünftig vereinfacht oder beschleunigt werden kann?
+
+|Problemlösend
+|
+|Können durch die Themenbearbeitung wiederkehrende und bisher scheinbar unüberwindliche Probleme in der Softwarearchitektur gelöst werden?
+
+Beispiele:
+
+- Kommunikation zwischen Management und Softwarearchitekt:innen verbessern
+- Einführung von neuen Methoden, wie z.{nbsp}B. Architekturmanagement, DDD, ...
+
+|===
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Criteria for a new Topic
+
+
+// end::EN[]

@@ -1,0 +1,27 @@
+// tag::DE[]
+== Kriterien
+// end::DE[]
+
+// tag::EN[]
+== Criteria
+// end::EN[]
+
+include::01-accreditation.adoc[{include_configuration}]
+
+<<<
+
+include::02-criteria-new-topic.adoc[{include_configuration}]
+
+<<<
+
+// include::02-criteria-new-topic.adoc[{include_configuration}]
+
+<<<
+
+// include::02-criteria-new-topic.adoc[{include_configuration}]
+
+<<<
+
+//include::02-criteria-new-topic.adoc[{include_configuration}]
+
+

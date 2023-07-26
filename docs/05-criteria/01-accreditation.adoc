@@ -1,0 +1,51 @@
+// tag::DE[]
+=== Akkreditierung
+==== Trainingsprovider
+Trainingsprovider müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB die Akkreditierung bekommen:
+
+[cols="<4,<8,<8a"]
+|===
+| Kriterium | Details | Nachweis
+
+|iSAQB FL oder AL
+|Die Organisation hat bereits die Akkreditierung für iSAQB Foundatoin Level und/oder Advanced Level.
+|iSAQB verfügt über eine Liste aller akkreditierter Organisationen
+
+|Themenmoderator:in
+|Der Trainingsprovider muss mindestens eine:n erfolgreich zertifizierte:n Themenmoderator:in vorweisen können.
+|Die Akkreditierung einer Themenmoderatorin/eines Themenmoderators ist abgeschlossen.
+|===
+
+
+==== Trainingsmoderator:innen
+Ein akkreditierter Trainingsprovider stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
+Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
+
+[cols="<4,<8,<8a"]
+|===
+| Kriterium | Details | Nachweis
+
+|Wissen über EL-Prozesse
+|Ein:e Themenmoderator:in muss die Prozesse der Expert-Level-Zertifizierung kennen.
+|Ein Mitglied der iSAQB^®^ Arbeitsgruppe Expert Level stellt in einem Interview fest, ob die Bewerberin/der Bewerber für die Rolle das nötige Wissen hat.
+
+|Soziale Kompetenzen
+|Ein:e Themenmoderator:in muss die sozialen Kompetenzen haben, um eine Gruppe zu moderieren.
+|Bewerber:in für die Rolle listet ihre/seine Kompetenzen auf. Diese können einen der folgenden Punkte umfassen:
+
+- Bewerber:in hält Schulungen oder Seminare ab (z.{nbsp}B. iSAQB^®^-Seminare oder an einer Universität)
+- Bewerber:in kann nachweisen, dass sie/er seit mindestens einem Jahr eine Gruppe leitet (z.{nbsp}B. Verein, Entwicklungsteam).
+
+|Wissen
+|Ein:e Themenmoderator:in muss über ausreichend Wissen zum Thema Softwarearchitektur verfügen.
+|- Bewerber:in hat mindestens das Zertifikat CPSA^(R)^ Foundation Level.
+- Bewerber:in arbeitet bereits seit mindestens 5 Jahren als Softwareentwickler:in oder Softwarearchitekt:in.
+
+|===
+// end::DE[]
+
+// tag::EN[]
+=== Accreditation
+
+
+// end::EN[]

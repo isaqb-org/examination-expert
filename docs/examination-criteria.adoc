@@ -1,0 +1,28 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup_criteria.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Kriterien für pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
+:toc-title: Inhaltsverzeichnis
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Criteria for pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
+:toc: left
+endif::[]
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+<<<
+:sectnums!:
+include::../license-copyright/copyright.adoc[{include_configuration}]
+
+<<<
+toc::[]
+
+<<<
+:sectnums:
+include::05-criteria/00-structure.adoc[{include_configuration}]
