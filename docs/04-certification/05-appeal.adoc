@@ -2,7 +2,7 @@
 === Einspruch
 Themenarbeitsgruppen, deren abgegebene Arbeit die Prüfung nicht besteht, haben das Recht, innerhalb eines Monats nach Bekanntgabe des Ergebnisses einen schriftlichen Einspruch gegen die Bewertung einzulegen.
 Der Einspruch muss innerhalb von zwei Monaten nach Bekanntgabe des Ergebnisses schriftlich begründet werden.
-Es werden nur sachliche Einwände (z. B. Verstöße gegen die Prüfungsordnung oder sachliche Fehler bei der Bewertung) berücksichtigt.
+Es werden nur sachliche Einwände (z.{nbsp}B. Verstöße gegen die Prüfungsordnung oder sachliche Fehler bei der Bewertung) berücksichtigt.
 Einsprüche, die auf Meinungen beruhen, werden abgelehnt.
 Die Zertifizierungsstelle prüft die Einhaltung der formalen Anforderungen für die Einreichung und Begründung eines Einspruchs und kann den Einspruch als unzulässig zurückweisen, wenn die Frist für die Einreichung und/oder Begründung des Einspruchs nicht eingehalten wurde.
 Wenn alle Anforderungen erfüllt sind, leitet die Zertifizierungsstelle die Beanstandungsgründe an die Prüfer:innen weiter, die den Antrag überprüft haben.

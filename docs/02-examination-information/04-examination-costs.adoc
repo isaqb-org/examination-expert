@@ -7,7 +7,7 @@ Ungefähre Kostenschätzung für die gesamte Themenarbeitsgruppe:
 - Kosten für Zertifizierungsstelle: 2600,- €
 - Kosten für Themenmoderator:in: circa 8000,- € (Angebote der für das EL akkreditierten
 Trainingsprovider können unterschiedlich ausfallen)
-- Eventuell zusätzlich anfallende Kosten, z.B. für Reisen im Rahmen der Zusammenarbeit
+- Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zusammenarbeit
 oder Extrakosten durch Nachbesserungen, sind nicht inkludiert und selbstorganisatorisch von der Themenarbeitsgruppe zu tragen.
 
 // end::DE[]

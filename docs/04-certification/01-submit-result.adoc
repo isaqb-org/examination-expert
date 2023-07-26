@@ -64,7 +64,7 @@ Er/sie prüft die Ergebnisse auf formelle Kriterien und fordert gegebenenfalls n
 
 | Weiteres Ergebnis
 | Muss
-| - Erfüllen Form und Inhalt den Zweck des Ergebnisses (z. B. ein neues Muster nach der Mustersprache Kon- text, Problem, Lösung)?
+| - Erfüllen Form und Inhalt den Zweck des Ergebnisses (z.{nbsp}B. ein neues Muster nach der Mustersprache Kon- text, Problem, Lösung)?
 - Ist das Ergebnis verständlich beschrieben?
 - Ist ersichtlich, dass zur Erarbeitung des weiteren Ergebnisses mindestens zwei Personenwochen notwendig waren?
 

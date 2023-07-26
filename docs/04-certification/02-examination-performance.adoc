@@ -12,7 +12,7 @@ Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
 
 | Weiteres Ergebnis
 | Muss
-| Die Themenarbeitsgruppe muss mindestens ein frei wählbares weiteres Ergebnis ausarbeiten, wie z. B. Anleitungen, Best Practices, Auswertungen von Umfragen.
+| Die Themenarbeitsgruppe muss mindestens ein frei wählbares weiteres Ergebnis ausarbeiten, wie z.{nbsp}B. Anleitungen, Best Practices, Auswertungen von Umfragen.
 
 | Einreichungen
 | Soll

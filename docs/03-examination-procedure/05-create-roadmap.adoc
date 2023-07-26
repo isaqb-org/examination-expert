@@ -36,7 +36,7 @@ Schließlich wird die Roadmap bei dem/der Themenmoderator:in eingereicht, welche
 | Ergebnisse
 | Muss
 | - Wird der verpflichtende Artikel diskutiert?
-- Wird zumindest ein weiteres Ergebnis angeführt (z. B. Anleitung, Beispiel, ...)?
+- Wird zumindest ein weiteres Ergebnis angeführt (z.{nbsp}B. Anleitung, Beispiel, ...)?
 - Wird für jedes Ergebnis die Form und Struktur behandelt?
 - Versucht die Themenarbeitsgruppe, die Ergebnisse bei mindestens einer Konferenz zu präsentieren?
 - Versucht die Themenarbeitsgruppe, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
