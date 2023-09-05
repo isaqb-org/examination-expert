@@ -10,6 +10,5 @@ Sollte ein Thema abgelehnt werden, kann es nachgebessert und dem/der Themenverwa
 
 // tag::EN[]
 === Submit Topic
-
-
+The submission of a topic takes place on the iSAQB website via a form. The topic administrator assesses the submitted topic formally and in terms of content within one month. On acceptance, they approve the topic. The topic is then available for application on the iSAQB website. If a topic is rejected, it can be improved and submitted to the topic administrator again.
 // end::EN[]

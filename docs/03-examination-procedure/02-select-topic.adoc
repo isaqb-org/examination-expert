@@ -5,6 +5,6 @@ Bewerber:innen können sich auf freigegebene Themen bewerben. Die Bewerbung erfo
 
 // tag::EN[]
 === Select Topic
-
+Candidates can apply for approved topics. The application takes place via the iSAQB website and must fulfill the minimum requirements for participation in the CPSA-E. Once the topic working group has reached its target group size, it can begin its work.
 
 // end::EN[]

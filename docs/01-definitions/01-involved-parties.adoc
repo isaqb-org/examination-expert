@@ -9,11 +9,12 @@
 | Advanced-Level-Architekt:in, der/die das Expert-Level-Zertifikat CPSA-E anstrebt
 
 | iSAQB
-| Der iSAQB e. V. stellt folgende Artefakte zur Verfügung:
-- Liste (offener) Themen, auf Website
-- Jahresbuch (sammelt, bindet, publiziert, übersetzt Papers, die in den Themenarbeitsgruppen final bearbeitet wurden)
-- abgeschlossene Themen zum Download
-- Webseite zur Anmeldung für EL-Bewerber:innen
+a| Der iSAQB e. V. stellt folgende Artefakte zur Verfügung:
+
+* Liste (offener) Themen, auf Website
+* Jahresbuch (sammelt, bindet, publiziert, übersetzt Papers, die in den Themenarbeitsgruppen final bearbeitet wurden)
+* abgeschlossene Themen zum Download
+* Webseite zur Anmeldung für EL-Bewerber:innen
 
 | iSAQB AG Expert Level
 | Arbeitsgruppe zum Expert Level im iSAQB. +
@@ -59,5 +60,55 @@ Er/sie ist aktives Mitglied des iSAQB.
 
 // tag::EN[]
 === Involved Parties
+People involved in the examination process
+
+[cols="<3,<7a"]
+|===
+|Name of the role | Description, position, task
+
+| Expert Level Candidate
+|Advanced-Level architect aiming for the Expert Level certificate CPSA-E
+
+| iSAQB
+| iSAQB e. V. makes the following artifacts available:
+
+- List of (open) topics, on the website
+- Yearbook (collects, binds, publishes, and translates papers that were finally worked on in the topic working groups)
+- Completed topics for download
+- Website for registration for EL candidates
+
+| iSAQB Expert Level WG
+| Working group for the Expert Level at iSAQB
+The working group organizes and oversees the implementation of the processes.
+
+| Examiner
+| Examiners work for the certifying body and assess the results of a topic working group The Expert Level WG provides the certifying body with examiners from its own working group. Other iSAQB members can also register as examiners and are included in the Expert Level WG for this purpose.
+Examiners must have the following characteristics:
+
+- They are members of the Expert Level WG.
+- They are recognized experts in software architecture.
+- They have extensive and in-depth knowledge in the field of software architecture.
+- They work as examiners on a fee basis.
+- They have sufficient time to perform their work as examiners.
+
+| Topic working group
+| Working group formed to work on an EL topic. The topic working group is composed of accepted candidates for a topic.
+
+| Person submitting a topic
+| Submits a (possible) topic, which should be worked on within the scope of an Expert Level certification.
+
+| Topic moderator
+| Each topic working group is guided by a topic moderator. They guide the topic working group, take delivery of the roadmap, answer questions, and assess the results based on formal criteria. They may organize rooms and presentation materials for in-person meetings.
+
+| Topic administrator
+| The topic administrator checks new topics and manages topics in the list of topics. They are an active member of iSAQB.
+
+| Training provider
+| Training providers are “training facilitators” accredited by iSAQB who appoint the topic moderator.
+
+| Certifying body
+| Certifying bodies are institutes accredited by iSAQB that organize the examination of a topic working group’s results and issue the CPSA Expert Level certificate.
+
+|===
 
 // end::EN[]

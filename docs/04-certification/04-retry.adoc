@@ -6,6 +6,6 @@ Sollte die abgegebene Arbeit nicht zufriedenstellend sein, kann die Themenarbeit
 
 // tag::EN[]
 === Retry
-
+If the submitted work is not satisfactory, the topic working group can rectify shortcomings and resubmit the work within a maximum of 6 months.
 
 // end::EN[]

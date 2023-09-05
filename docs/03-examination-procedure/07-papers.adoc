@@ -8,7 +8,7 @@ Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 // end::DE[]
 
 // tag::EN[]
-=== Papers
-
+=== Work
+The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes writing, surveys, or literature research. It is recommended that topic working groups publish their results at conferences or in trade publications. iSAQB will support and promote the publications.
 
 // end::EN[]

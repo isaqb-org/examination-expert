@@ -42,7 +42,40 @@ Die Themenarbeitsgruppe erhält Einblick in die Begründung der Prüfungsergebni
 // end::DE[]
 
 // tag::EN[]
-=== Examination Performance
+=== Examination Components
+For certification, a topic working group must submit the following results:
 
+[cols="<3,<1,<7a"]
+|===
+
+| Result | Requirement | Description
+
+| Article
+| Essential
+| The article describes the results of the topic working group.  iSAQB provides a template.
+
+| Additional result
+| Essential
+| The topic working group must create at least one freely selectable additional result, such as instructions, best practices, and evaluations of surveys.
+
+| Submissions
+| Desired
+| The topic working group should submit their results to conferences or publish them in trade publications. As evidence, the topic working group submits an abstract or a copy of the published article.
+
+| Experience report
+| Essential
+| Each member of a topic working group creates an experience report to enable iSAQB to further develop the processes. iSAQB provides a template for this.
+
+|===
+
+The topic working group permits iSAQB to publish their results. Each member of the topic working group can also use the results freely, stating the collaborators and iSAQB. iSAQB publishes the article on its pages, naming all of those involved, and translates it into various languages.
+
+
+==== Assessment
+The joint assessment of the examiners takes place according to the following catalog of criteria. At least 20 of the 30 points must be achieved. 4 out of 10 points must be achieved in each category. The examiners can provide justification for each criterion.
+
+include::../05-criteria/07-criteria-content-table.adoc[{include_configuration}]
+
+Six weeks after the topic working group has submitted the results, the members are informed of the result by the certifying body: Successful certification, rejection, or correction required. The topic working group gains insight into the justification for the examination results.
 
 // end::EN[]

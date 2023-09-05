@@ -7,7 +7,6 @@ Sobald genug Bewerber:innen für die Themenarbeitsgruppe vorhanden sind, informi
 // end::DE[]
 
 // tag::EN[]
-=== Assemble Working Group
-
-
+=== Assemble Topic Working Group
+The topic administrator ensures that there are sufficient candidates in the topic working group according to the topic submission. They do not need to perform this task alone, but can take advantage of assistance from the candidates already in the topic working group. The topic working group is welcome to promote the topic among colleagues and acquaintances. iSAQB will also regularly draw attention to open topics and encourage participation. As soon as enough candidates for the topic working group are available, the topic administrator informs about the start of the topic working group and sends all the members` contact details to the topic working group.
 // end::EN[]

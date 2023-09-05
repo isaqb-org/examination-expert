@@ -83,9 +83,95 @@
 
 // end::DE[]
 
-
-
 // tag::EN[]
+
+[cols="<3,<1,<7a"]
+|===
+| Criterion | Requirement | Description
+
+| Article
+| Essential
+| Does the article have the following structure and content?
+
+. Title
+[loweralpha]
+.. Does the title suit the topic discussed?
+. Authors
+[loweralpha]
+.. Are the authors named?
+.. Are the authors’ e-mail addresses listed?
+. Abstract
+[loweralpha]
+.. Is the problem described briefly?
+.. Does the abstract describe the main theses or results?
+.. Is the description short and understandable?
+. Introduction
+[loweralpha]
+.. Does the introduction describe the current state of knowledge?
+.. Is the motivation discussed?
+.. Is there a description of the existing knowledge gaps that are to be filled by this academic article?
+.. Is there a description of the research questions that are to be answered in the article?
+
+|
+|
+|[start=5]
+. Main section (chapter name(s) can be chosen freely)
+[loweralpha]
+.. Materials and methods
+[lowerroman]
+... Is there a description of the information sources?
+... Is there a description of the methodsused to answer the  research question?
+[loweralpha]
+.. Results
+[lowerroman]
+... Is there a description of the findings?
+... Are the findings substantiated with sufficient plausible data?
+[loweralpha]
+.. Discussion
+[loweralpha]
+... Is there a description of how the findings are interpreted?
+... Is there a discussion of questions that arise from the results?
+... Is there a discussion of the impacts
+that the findings have in practice?
+. Summary
+[loweralpha]
+.. Is there a brief summary of all of the research questions and their answers?
+.. Is there a brief discussion of the effects of the findings?
+. Acknowledgments
+[loweralpha]
+.. Are supporters mentioned?
+. Conflicts of interest
+[loweralpha]
+.. Are conflicts of interest mentioned?
+. Bibliography
+[loweralpha]
+.. Is there a list of all of the literature used?
+.. Is the literature cited correctly?
+
+| Additional result
+| Essential
+| - Do the form and content fulfill the purpose of the result (e.g., a new pattern according to the pattern language context, problem, solution)?
+- Is there a comprehensible description of the result?
+- Is it evident that at least two person weeks were necessary for the creation of the additional result?
+
+| Submissions
+| Desired
+| - Has the topic working group submitted a talk or a workshop to at least one conference?
+- Has the topic working group attempted to publish the results in at least one trade publication?
+
+| Experience report
+| Essential
+| - Has each member of the topic working group submitted an experience report?
+- Are all the points in the experience report completed?
+
+| Collaboration
+| Essential
+| - The topic moderator confirms that, according to their perception, all members of the topic working group have contributed to approximately the same degree.
+- All members of the topic working group each present a work log, in which they have logged their activities.
+
+|===
+
+If the formal criteria are fulfilled, the topic moderator passes the results on to the certifying body selected by the topic working group.
 
 // end::EN[]
 

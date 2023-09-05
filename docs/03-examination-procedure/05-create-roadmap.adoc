@@ -50,6 +50,48 @@ Bei Ablehnung der Roadmap hat die Themenarbeitsgruppe einen weiteren Versuch, di
 
 // tag::EN[]
 === Create Roadmap
+The topic working group creates a roadmap, in which they put down in writing their plan for their procedure in terms of content and timescale. The topic moderator can provide assistance here. The roadmap is ultimately submitted to the topic moderator, who assesses this based on specified criteria.
+
+[cols="<3,<1,<7a"]
+|===
+
+| Criterion | Requirement | Description
+
+| Objective, mission
+| Essential
+| - Are the objective and mission of the topic working group described comprehensibly?
+
+| Topic working group
+| Essential
+| - Are the contact details of all members of the topic working group stated?
+
+| Procedure
+| Essential
+| - Are the roles and tasks of the members of the topic working group described?
+- Is a timetable with milestones provided?
+- Are the times and venues for the optional in-person meetings stated?
+- Are the times and resources for the virtual meetings stated?
+- Are the tools for electronic communication listed?
+- Are work packages and responsibilities defined?
+- Is the review process determined?
+
+| Literature
+| Essential
+| - Is there a bibliography?
+- Does the bibliography comprise at least 7 sources?
+- Are the sources of academic value?
+
+| Results
+| Essential
+| - Is the mandatory article discussed?
+- Is at least one additional result stated (e.g., instructions, example, ...)?
+- Are the form and structure discussed for each result?
+- Does the topic working group attempt to presentthe results at at least one conference?
+- Does the topic working group attempt to publish the results in at least one trade publication?
+
+|===
+
+If the topic moderator approves the roadmap, the topic working group can begin with implementation. If the roadmap is rejected, the topic working group has one further attempt to improve and re-submit the roadmap.
 
 
 // end::EN[]

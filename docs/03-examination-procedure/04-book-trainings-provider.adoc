@@ -7,7 +7,7 @@ Diese:r begleitet die Themenarbeitsgruppe durch den gesamten Arbeitsprozess und 
 // end::DE[]
 
 // tag::EN[]
-=== Book Trainings Provider
-
+=== Appoint Trainings Provider with Topic Moderator
+The topic working group obtains offers from training providers and selects an appropriate one for them. The training provider makes a topic moderator available. This topic moderator guides the topic working group through the entire working process and approves working steps.
 
 // end::EN[]

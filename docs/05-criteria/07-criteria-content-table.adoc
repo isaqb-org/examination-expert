@@ -32,8 +32,38 @@
 // end::DE[]
 
 
-
 // tag::EN[]
+[cols="<3,<7a"]
+|===
+
+| Criterion
+| Assessment scheme
+
+| Importance for theory and practice
+| 10 - Outstanding importance +
+08 - Important + 
+06 - Not unimportant +
+04 - Rather weak importance +
+02 - Of low importance +
+00 - Absolutely no relevance
+
+| Originality and degree of innovation
+| 10 - An important and meaningful contribution to the topic area +
+08 - A clear contribution to the topic area. +
+06 - A small contribution to the topic area. Added value may result from it in the future. +
+04 - There is better work on this topic. +
+02 - Already said many times. +
+00 - Contributes little or nothing at all to the topic area.
+
+| Quality of the presentation
+| 10 - Excellently written +
+08 - Well written +
+06 - Readable +
+04 - Should be edited +
+02 - Still significant work required +
+00 - Unacceptable
+
+|===
 
 // end::EN[]
 

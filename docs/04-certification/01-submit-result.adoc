@@ -9,7 +9,11 @@ include::../05-criteria/06-criteria-form-table.adoc[{include_configuration}]
 // end::DE[]
 
 // tag::EN[]
-=== Submit Result
+=== Submission
+Once the roadmap has been fulfilled, the topic working group submits its results to the topic moderator. They assess the results according to formal criteria and, if necessary, request corrections.
+
+==== Formal criteria
+include::../05-criteria/06-criteria-form-table.adoc[{include_configuration}]
 
 
 // end::EN[]

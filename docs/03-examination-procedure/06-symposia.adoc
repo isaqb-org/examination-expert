@@ -6,7 +6,7 @@ Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können au
 // end::DE[]
 
 // tag::EN[]
-=== Symposia
-
+=== Meetings
+The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
 // end::EN[]
