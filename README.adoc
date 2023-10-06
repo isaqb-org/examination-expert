@@ -20,13 +20,23 @@ This is <<copyrighted,copyrighted work>>.
 == Content
 This repository contains the examination regulations and criteria for the iSAQB^®^ CPSA^®^ Expert Level in AsciiDoc.
 
+== How to clone the project
+The project uses Git Modules. So, don't forget to clone the repository with the option --recursive.
+
+If you forgot the option --recursive, you can load the Git Modules with this command
+[source,console]
+$ git submodule update --init
+
 == How to contribute or participate
 Create an issue, a merge- or pull-request
 
 == How to build the documents
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle.
+You build the output documents with gradle:
+[source,console]
+$ ./gradlew buildDocs
+
 That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
 In case you want to change that, adjust the following part of `build.gradle`:
