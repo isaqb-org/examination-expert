@@ -68,7 +68,7 @@ The topic working group creates a roadmap, in which they put down in writing the
 | Essential
 | - Are the roles and tasks of the members of the topic working group described?
 - Is a timetable with milestones provided?
-- Are the times and venues for the optional in-person meetings stated?
+- Are the times and locations for the optional in-person meetings stated?
 - Are the times and resources for the virtual meetings stated?
 - Are the tools for electronic communication listed?
 - Are work packages and responsibilities defined?

@@ -47,7 +47,6 @@ For certification, a topic working group must submit the following results:
 
 [cols="<3,<1,<7a"]
 |===
-
 | Result | Requirement | Description
 
 | Article

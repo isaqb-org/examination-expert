@@ -14,7 +14,7 @@
 | Originalität und Innovationsgrad
 | 10 - Ein wichtiger und bedeutender Beitrag zum Themengebiet +
 08 - Ein deutlicher Beitrag zum Themengebiet. +
-06 - Ein kleiner Beitrag zum Themengebiet. Vielleicht er- gibt sich daraus in Zukunft ein Mehrwert. +
+06 - Ein kleiner Beitrag zum Themengebiet. Vielleicht ergibt sich daraus in Zukunft ein Mehrwert. +
 04 - Es gibt bessere Arbeiten zu diesem Thema. +
 02 - Bereits viele Male gesagt. +
 00 - Trägt wenig oder gar nichts zum Themengebiet bei.
@@ -35,9 +35,7 @@
 // tag::EN[]
 [cols="<3,<7a"]
 |===
-
-| Criterion
-| Assessment scheme
+| Criterion | Assessment Scheme
 
 | Importance for theory and practice
 | 10 - Outstanding importance +
