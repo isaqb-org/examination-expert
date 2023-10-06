@@ -25,7 +25,7 @@ The topics were submitted in advance via the iSAQB website. Following approval b
 istrator, the topics are available to be worked on.
 
 === Objectives:
--  You show that you are an expert in a specialist field of software architecture.
+- You show that you are an expert in a specialist field of software architecture.
 - You develop new knowledge with other experts.
 - You show the ability to work in a team.
 - You interact with other experts, thereby building a network for your professional future.

@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Thema einreichen
+=== Thema einreichen (optional)
 Die Einreichung eines Themas erfolgt auf der Website des iSAQB mittels eines Formulars.
 Der/die Themenverwalter:in prüft das eingereichte Thema inhaltlich und formell innerhalb eines Monats.
 Bei Akzeptanz gibt er/sie das Thema frei.
@@ -9,6 +9,6 @@ Sollte ein Thema abgelehnt werden, kann es nachgebessert und dem/der Themenverwa
 // end::DE[]
 
 // tag::EN[]
-=== Submit Topic
+=== Submit Topic (optional)
 The submission of a topic takes place on the iSAQB website via a form. The topic administrator assesses the submitted topic formally and in terms of content within one month. On acceptance, they approve the topic. The topic is then available for application on the iSAQB website. If a topic is rejected, it can be improved and submitted to the topic administrator again.
 // end::EN[]

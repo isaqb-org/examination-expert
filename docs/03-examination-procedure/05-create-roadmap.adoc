@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Roadmap erstellen
+=== Schritt 4: Roadmap erstellen
 Die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht.
 Der/die Themenmoderator:in kann hierbei unterstützen.
 Schließlich wird die Roadmap bei dem/der Themenmoderator:in eingereicht, welche:r diese anhand festgelegter Kriterien überprüft.
@@ -49,12 +49,11 @@ Bei Ablehnung der Roadmap hat die Themenarbeitsgruppe einen weiteren Versuch, di
 // end::DE[]
 
 // tag::EN[]
-=== Create Roadmap
+=== Step 4: Create Roadmap
 The topic working group creates a roadmap, in which they put down in writing their plan for their procedure in terms of content and timescale. The topic moderator can provide assistance here. The roadmap is ultimately submitted to the topic moderator, who assesses this based on specified criteria.
 
 [cols="<3,<1,<7a"]
 |===
-
 | Criterion | Requirement | Description
 
 | Objective, mission

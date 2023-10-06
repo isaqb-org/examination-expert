@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Ausarbeitungen
+=== Schritt 6: Ausarbeitungen
 Die Themenarbeitsgruppe trägt ihre Erfahrung zu dem gewählten Thema zusammen, konsolidiert dieses und leitet daraus neue Erkenntnisse ab.
 Zu den nötigen Ausarbeitungen gehören Verschriftlichungen, Erhebungen oder Literaturrecherchen.
 Themenarbeitsgruppen wird empfohlen, ihre Ergebnisse auf Konferenzen oder Fachzeitschriften zu veröffentlichen.
@@ -8,7 +8,7 @@ Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 // end::DE[]
 
 // tag::EN[]
-=== Work
+=== Step 6: Work
 The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes writing, surveys, or literature research. It is recommended that topic working groups publish their results at conferences or in trade publications. iSAQB will support and promote the publications.
 
 // end::EN[]

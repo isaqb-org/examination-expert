@@ -1,12 +1,12 @@
 // tag::DE[]
-=== Symposien
+=== Schritt 5: Symposien
 Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmt und Aufgaben aus der Roadmap erarbeitet.
 Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können auch online durchgeführt werden.
 
 // end::DE[]
 
 // tag::EN[]
-=== Meetings
+=== Step 5: Meetings
 The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
 // end::EN[]

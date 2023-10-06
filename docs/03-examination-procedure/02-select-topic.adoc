@@ -1,10 +1,10 @@
 // tag::DE[]
-=== Thema auswählen
+=== Schritt 1: Thema auswählen
 Bewerber:innen können sich auf freigegebene Themen bewerben. Die Bewerbung erfolgt über die Website des iSAQB und erfordert die Mindestvoraussetzungen für die Teilnahme am CPSA-E. Wenn die Themenarbeitsgruppe ihre Ziel-Gruppengröße erreicht hat, kann sie ihre Arbeit aufnehmen.
 // end::DE[]
 
 // tag::EN[]
-=== Select Topic
+=== Step 1: Select Topic
 Candidates can apply for approved topics. The application takes place via the iSAQB website and must fulfill the minimum requirements for participation in the CPSA-E. Once the topic working group has reached its target group size, it can begin its work.
 
 // end::EN[]

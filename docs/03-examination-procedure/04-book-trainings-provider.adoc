@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Trainingsprovider mit Themenmoderator:in bestellen
+=== Schritt 3: Trainingsprovider mit Themenmoderator:in bestellen
 Die Themenarbeitsgruppe holt Angebote von Trainingsprovidern ein und wählt einen für sie passenden aus.
 Der Trainingsprovider stellt eine:n Themenmoderator:in bereit.
 Diese:r begleitet die Themenarbeitsgruppe durch den gesamten Arbeitsprozess und gibt Arbeitsschritte frei.
@@ -7,7 +7,7 @@ Diese:r begleitet die Themenarbeitsgruppe durch den gesamten Arbeitsprozess und 
 // end::DE[]
 
 // tag::EN[]
-=== Appoint Trainings Provider with Topic Moderator
+=== Step 3: Appoint Trainings Provider with Topic Moderator
 The topic working group obtains offers from training providers and selects an appropriate one for them. The training provider makes a topic moderator available. This topic moderator guides the topic working group through the entire working process and approves working steps.
 
 // end::EN[]
