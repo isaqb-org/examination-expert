@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Kriterien für ein neues Thema
+==== Kriterien für ein neues Thema
 
 Ein neues Thema muss folgende Kriterien erfüllen:
 
@@ -30,7 +30,7 @@ Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wik
 |Ist zu erwarten, dass durch die Themenbearbeitung die Arbeit in der Softwarearchitektur zukünftig vereinfacht oder beschleunigt werden kann?
 
 |Problemlösend
-|Must
+|Muss
 |Können durch die Themenbearbeitung wiederkehrende und bisher scheinbar unüberwindliche Probleme in der Softwarearchitektur gelöst werden?
 
 Beispiele:
@@ -44,7 +44,7 @@ Beispiele:
 // end::DE[]
 
 // tag::EN[]
-=== Criteria for a new Topic
+==== Criteria for a new Topic
 
 A new topic must meet the following criteria:
 

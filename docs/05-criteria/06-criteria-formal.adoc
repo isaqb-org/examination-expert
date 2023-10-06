@@ -1,5 +1,7 @@
 // tag::DE[]
 
+==== Formelle Kriterien
+
 [cols="<3,<1,<7a"]
 |===
 | Kriterium | Pflicht | Beschreibung
@@ -84,6 +86,9 @@
 // end::DE[]
 
 // tag::EN[]
+
+
+==== Formal Criteria
 
 [cols="<3,<1,<7a"]
 |===

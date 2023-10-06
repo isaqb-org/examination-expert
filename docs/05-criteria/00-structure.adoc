@@ -26,7 +26,7 @@ include::05-criteria-roadmap.adoc[{include_configuration}]
 
 <<<
 
-include::06-criteria-form.adoc[{include_configuration}]
+include::06-criteria-formal.adoc[{include_configuration}]
 
 <<<
 
