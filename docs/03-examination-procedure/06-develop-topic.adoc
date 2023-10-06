@@ -1,5 +1,8 @@
 // tag::DE[]
-=== Schritt 6: Ausarbeitungen
+=== Schritt 5: Thema ausarbeiten
+Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmt und Aufgaben aus der Roadmap erarbeitet.
+Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können auch online durchgeführt werden.
+
 Die Themenarbeitsgruppe trägt ihre Erfahrung zu dem gewählten Thema zusammen, konsolidiert dieses und leitet daraus neue Erkenntnisse ab.
 Zu den nötigen Ausarbeitungen gehören Verschriftlichungen, Erhebungen oder Literaturrecherchen.
 Themenarbeitsgruppen wird empfohlen, ihre Ergebnisse auf Konferenzen oder Fachzeitschriften zu veröffentlichen.
@@ -8,7 +11,9 @@ Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 // end::DE[]
 
 // tag::EN[]
-=== Step 6: Work
+=== Step 5: Develop Topic
+The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
+
 The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes writing, surveys, or literature research. It is recommended that topic working groups publish their results at conferences or in trade publications. iSAQB will support and promote the publications.
 
 // end::EN[]
