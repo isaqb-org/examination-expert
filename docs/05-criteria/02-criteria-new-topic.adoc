@@ -9,7 +9,8 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 
 |Originalität
 |Muss
-| Muss die Themengruppe neues Wissen arbeiten?
+| Muss die Themengruppe neues Wissen oder Ergenntnisse erarbeiten?
+
 Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wikipedia)?
 
 |Relevanz
@@ -29,13 +30,13 @@ Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wik
 |Ist zu erwarten, dass durch die Themenbearbeitung die Arbeit in der Softwarearchitektur zukünftig vereinfacht oder beschleunigt werden kann?
 
 |Problemlösend
-|
+|Must
 |Können durch die Themenbearbeitung wiederkehrende und bisher scheinbar unüberwindliche Probleme in der Softwarearchitektur gelöst werden?
 
 Beispiele:
 
 - Kommunikation zwischen Management und Softwarearchitekt:innen verbessern
-- Einführung von neuen Methoden, wie z.{nbsp}B. Architekturmanagement, DDD, ...
+- Einführung von neuen Methoden, wie z.{nbsp}B. Architekturmanagement, Domain-Driven Design, Green-IT, ...
 
 |===
 
@@ -45,5 +46,42 @@ Beispiele:
 // tag::EN[]
 === Criteria for a new Topic
 
+A new topic must meet the following criteria:
 
+[cols="<2,<1,<7a"]
+|===
+| Criterion | Requirement | Description
+
+|Originality
+|Must
+| Will the topic group provide new knowledge or insights to the community?
+
+Is the topic not yet completely and publicly worked on (e.{nbsp}B. Wikipedia)?
+
+|Relevance
+|Must
+|Is the topic interesting for a larger group of people?
+
+|Innovation
+|Must
+|Does the topic generate new ideas and new knowledge that are of general interest?
+
+|Creativity
+|Shall
+|Does the topic show creativity, e.g. through synergies, analogies, ideas?
+
+|Effectiveness
+|Shall
+|Is it to be expected that the work in software architecture can be simplified or accelerated in the future by working on the topic?
+
+|Problem solving
+|Must
+|Can recurring and previously insurmountable problems in the software architecture be solved by topic processing?
+
+Examples:
+
+- Improve communication between management and software architects
+- Introduction of new methods, like e.g. architecture management, Domain-Driven Design, Green-IT, ...
+
+|===
 // end::EN[]
