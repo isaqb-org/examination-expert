@@ -24,7 +24,7 @@ Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
 
 |===
 
-Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. _Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. (Siehe Punkt E.5 der FAQs > Formulierung wird wahrscheinlich nochmal angepasst.)_ Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
+Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. _Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
 
 ==== Beurteilung
 Die gemeinsame Beurteilung der Prüfer:innen erfolgt nach dem folgenden Kriterienkatalog. Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müssen 4 der 10 Punkte erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
@@ -56,7 +56,7 @@ For certification, a topic working group must submit the following results:
 
 | Submissions
 | Desired
-| The topic working group should submit their results to conferences or publish them in trade publications. As evidence, the topic working group submits an abstract or a copy of the published article.
+| The topic working group should submit their results to conferences or publish them in professional journals. As evidence, the topic working group submits an abstract or a copy of the published article.
 
 | Experience report
 | Essential

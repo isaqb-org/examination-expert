@@ -24,7 +24,7 @@ During the CPSA-E, you and other candidates bring together experience-based know
 The topics were submitted in advance via the iSAQB website. Following approval by the topic admin-
 istrator, the topics are available to be worked on.
 
-=== Objectives:
+=== Objectives
 - You show that you are an expert in a specialist field of software architecture.
 - You develop new knowledge with other experts.
 - You show the ability to work in a team.
