@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Kriterien für neue Themenmoderator:innen
+==== Kriterien für neue Themenmoderator:innen
 Ein:e Themenmoderator:in muss diese Kriterien erfüllen:
 
 [cols="<3,2,<7a"]
@@ -33,7 +33,7 @@ Ein:e Themenmoderator:in muss diese Kriterien erfüllen:
 // end::DE[]
 
 // tag::EN[]
-=== Criteria for New Moderators
-
+==== Criteria for New Moderators
+TODO
 
 // end::EN[]

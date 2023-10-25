@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Kriterien für neue Bewerber:innen
+==== Kriterien für neue Bewerber:innen
 Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgruppe mitarbeiten zu dürfen:
 
 [cols="<3,<7a"]
@@ -43,11 +43,10 @@ Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzu
 Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in einer Themenarbeitsgruppe und einer erfolgreichen Zertifizierung erhält niemand das EL-Zertifikat.
 ====
 
-
 // end::DE[]
 
 // tag::EN[]
-=== Criteria for New Applicants
-
+==== Criteria for New Applicants
+TODO
 
 // end::EN[]

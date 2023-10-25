@@ -7,7 +7,7 @@ Der/Die Themenmoderator:in nimmt die Ergebnisse formell ab und leitet sie an den
 // end::DE[]
 
 // tag::EN[]
-=== Examination Registration
-
+=== Registration for the Examination
+The topic working group seeks and engages the certifying body and informs the topic moderator about the chosen certifying body. You can find available certifying bodies under “Certification bodies” on the iSAQB website. The topic moderator formally accepts the results and passes them on to the certifying body.
 
 // end::EN[]

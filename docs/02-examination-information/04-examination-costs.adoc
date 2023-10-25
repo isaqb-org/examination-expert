@@ -14,6 +14,12 @@ oder Extrakosten durch Nachbesserungen, sind nicht inkludiert und selbstorganisa
 
 // tag::EN[]
 === Examination Costs
+The costs of certification at the Expert Level comprise the costs for the selected topic moderator and the certification body. The prices can vary depending on the size of the group. Rough cost estimate for the whole topic working group:
+
+- Costs for certification body: € 2600
+- Costs for the topic moderator: approx. € 8000 (quotations for the training providers accredited for the EL can vary)
+- Possible additional costs, e.g., for travel within the scope of the collaboration or extra costs due to corrections are not included and are to be borne by the topic working group itself.
+
 
 
 // end::EN[]

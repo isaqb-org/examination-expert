@@ -3,13 +3,18 @@
 Ist die Roadmap erfüllt, gibt die Themenarbeitsgruppe ihre Ergebnisse bei dem/der Themenmoderator:in ab.
 Er/sie prüft die Ergebnisse auf formelle Kriterien und fordert gegebenenfalls noch Nachbesserungen ein.
 
-==== Formelle Kriterien
-include::../05-criteria/06-criteria-form-table.adoc[{include_configuration}]
+Mit den nachfolgenden Kriterien prüft der/die Themenmoderator:in die Ergebnisse einer Themenarbeitsgruppe.
+
+include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
 // end::DE[]
 
 // tag::EN[]
-=== Submit Result
+=== Submission
+Once the roadmap has been fulfilled, the topic working group submits its results to the topic moderator. They assess the results according to formal criteria and, if necessary, request corrections.
 
+With the following criteria the topic moderator checks the results of a topic working group.
+
+include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
 // end::EN[]

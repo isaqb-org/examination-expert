@@ -8,7 +8,7 @@ Die Gültigkeitsdauer der Expert-Level-Zertifizierung ist unbegrenzt.
 // end::DE[]
 
 // tag::EN[]
-=== Receive Certificate
-
+=== Receipt of the certificate
+The result of the whole topic working group is certified and not the individual performance of its members. The certificate is issued for the topic working group’s topic. People can  obtain several Expert Level certifications by collaborating in several topic working groups. The Expert Level certification  is valid for an indefinite period.
 
 // end::EN[]
