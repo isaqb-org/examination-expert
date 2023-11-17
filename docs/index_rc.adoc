@@ -9,30 +9,26 @@ The international Software Architecture Qualification Board (link:https://isaqb.
 The **Release Candidates** of the **Expert Level Regulations and Criteria** are currently maintained and published in both English (EN) and German (DE).
 Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
 
-== Current Release Candidate v2023.1
+== Current Release Candidate {document-version}
 
 image:https://img.shields.io/github/last-commit/isaqb-org/examination-expert/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/examination-expert.svg["Contributors",link="https://github.com/isaqb-org/examination-expert/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/examination-expert.svg["Issues",link="https://github.com/isaqb-org/examination-expert/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-expert.svg["Issues closed",link="https://github.com/isaqb-org/examination-expert/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 image:https://img.shields.io/github/commits-since/isaqb-org/examination-expert/latest.svg[]
-[cols="<,<,<"]
+[cols="<,<"]
 |===
-| Document | German | English
+| German | English
 
-| Regulations
 | link:examination-regulations-de.pdf[Prüfungsordnung (PDF)]
-| link:examination-regulations--en.pdf[Examination Regulations (PDF)]
+| link:examination-regulations-en.pdf[Examination Regulations (PDF)]
 
-| Criteria
 | link:examination-criteria-de.pdf[Kriterien (PDF)]
 | link:examination-criteria-en.pdf[Examination Criteria (PDF)]
 
-| Roadmap Template
 | link:iSAQB_CPSA_Expert_Level_Template_Roadmap_DE.docx[Vorlage für eine Roadmap (DOCX)]
 | link:iSAQB_CPSA_Expert_Level_Template_Roadmap_DE.docx[Roadmap Template (DOCX)]
 
-| Field Report
 | link:iSAQB_CPSA_Expert_Level_Field_Report_DE.docx[Erfahrungsbericht zum Expert Level (DOCX)]
 | link:iSAQB_CPSA_Expert_Level_Field_Report_EN.docx[Field Report Expert Level (DOCX)]
 
