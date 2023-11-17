@@ -13,10 +13,10 @@ endif::[]
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 
-<<<
 :sectnums!:
+
+<<<
 include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
-:sectnums!:
 include::05-criteria/00-structure.adoc[{include_configuration}]
