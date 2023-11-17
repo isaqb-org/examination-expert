@@ -6,7 +6,6 @@ ifeval::["{language}" == "DE"]
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
 :curriculum-header-title: Criteria for the iSAQB® CPSA® Expert Level
 :hyphens: en_US
 endif::[]
