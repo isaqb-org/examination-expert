@@ -1,5 +1,4 @@
 // tag::DE[]
-=== Akkreditierung
 ==== Trainingsprovider
 Trainingsprovider müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB die Akkreditierung bekommen:
 
@@ -45,7 +44,10 @@ Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 // end::DE[]
 
 // tag::EN[]
-=== Accreditation
+==== Training Provider
 TODO
+
+==== Training Facilitators
+
 
 // end::EN[]
