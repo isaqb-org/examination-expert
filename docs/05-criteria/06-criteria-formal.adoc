@@ -90,7 +90,7 @@
 
 ==== Formal Criteria
 
-[cols="<3,<1,<7a"]
+[cols="<3,<2,<7a"]
 |===
 | Criterion | Requirement | Description
 

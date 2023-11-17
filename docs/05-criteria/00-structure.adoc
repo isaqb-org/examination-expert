@@ -1,9 +1,15 @@
+// we have to adjust the heading levels of all included files, as this structure file
+// is used as the only include for the examination-criteria, and thus requires a different
+// heading structure. Some of the files included below are also included in examination-regulations,
+// which is why they should follow the regular heading style of all the other files.
+// therefore, we also do not need a specific German/English section. To remove warnings, we'll just
+// add empty blocks.
+:leveloffset: -2
+
 // tag::DE[]
-== Kriterien
 // end::DE[]
 
 // tag::EN[]
-== Criteria
 // end::EN[]
 
 include::01-accreditation.adoc[{include_configuration}]
