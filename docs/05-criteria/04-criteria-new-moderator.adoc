@@ -22,18 +22,42 @@ Ein:e Themenmoderator:in muss diese Kriterien erfüllen:
 |Optional
 |Liste von Veröffentlichungen: Bücher, Studien, Artikel bzw. Vorträge, etwaige Trainer:innen-Aktivitäten in Workshops/Tutorials/Trainings. Die Veröffentlichungen sollen nicht älter als 4 Jahre alt sein. Abhängig vom Thema muss im Einzelfall entschieden werden, wie relevant die Veröffentlichungen für das Thema und die Gruppe sind.
 
-
 |Ausschlusskriterium
 |Pflicht
 |Es dürfen je nach Größe der Gruppe nur 1-2 Teilnehmer:innen aus einem Projektumfeld teilnehmen. Gleiches gilt für die Firmenzugehörigkeit.
 
 |===
 
-
 // end::DE[]
 
 // tag::EN[]
-==== Criteria for New Moderators
-TODO
+==== Criteria for New Topic Moderators
+A topic moderator must meet the following criteria:
+
+
+[cols="<3,2,<7a"]
+|===
+| Criterion | Requirement | Description
+
+|iSAQB^®^ Advanced-Level Certification
+|Essential
+|Qualification
+
+|iSAQB^®^ Expert-Level-Zertifizierung
+|Optional criteria. It is possible that the applicant already has an expert level certification for another topic.
+
+|Proven practical experience
+|Optional
+|The applicant may explain why he has knowledge and practical experience of the chosen topic.
+
+|Publications
+|Optional
+|List of publications: books, studies, articles, conference talks and activities as a trainer. The age limit for publications is four years. The chosen topic will be used to determine the relevance of the publications.
+
+|Criterion for exclusion
+|Essential
+|The number of team members who have worked together on a project or who currently work together in a company depends on the size of the topic group.
+
+|===
 
 // end::EN[]

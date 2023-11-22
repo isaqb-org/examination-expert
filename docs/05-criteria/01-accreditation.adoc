@@ -16,7 +16,7 @@ Trainingsprovider müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB 
 |===
 
 
-==== Trainingsmoderator:innen
+==== Themenmoderator:innen
 Ein akkreditierter Trainingsprovider stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
 Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 
@@ -45,9 +45,48 @@ Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 
 // tag::EN[]
 ==== Training Provider
-TODO
+A training provider must fulfill the following criteria to get the accreditation from iSAQB:
 
-==== Training Facilitators
+[cols="<4,<8,<8a"]
+|===
+| Criterion | Details | Evidence
 
+|iSAQB FL or AL
+|The organization must be accredited for the Foundation Level and/or the Advanced Level of the iSAQB^®^.
+|iSAQB^®^ has a list of all the organizations that are accredited.
+
+|Topic moderator
+|The training provider must have at least one accredited topic moderator.
+|The topic moderator has been accredited successfully.
+|===
+
+==== Topic Moderator
+The training provider provides a topic moderator for the topic working group.
+
+A topic moderator must fullfill the following criteria to get the accreditation by iSAQB^®^.
+
+[cols="<4,<8,<8a"]
+|===
+| Criterion | Details | Evidence
+
+|Process knowledge
+|A topic moderator must have knowledge of the process of expert level certification.
+|A member of the iSAQB^®^ working group "Expert Level" cunducts an inverview with the applicant and checks the requested knowledge.
+
+|Social skills
+|A topic moderator must have social skills to be able to manage a group.
+|The applicant must prove one or more of the following competences:
+
+- The applicant has taken training courses or seminars, such as iSAQB® trainings or lectures at a university.
+- The applicant must substantiate that he has held the position of group leader for a minimum of one year, such as in an association, club, or development team.
+
+|Knowledge
+|A topic moderator must know enough about software architecture.
+|The applicant must meet the following requirements:
+
+- The applicant has at least the CPSA^(R)^ Foundation Level certification.
+- The applicant has been working as software developer or software architect for five years.
+
+|===
 
 // end::EN[]
