@@ -20,11 +20,7 @@ Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgr
 |Bewerber:innen müssen sich bereit erklären, für die Arbeit in der Themenarbeitsgruppe Reisen auf eigene Kosten zu unternehmen.
 
 |Weitergabe von Kontaktdaten
-|Bewerber:innen erteilen dem iSAQB^®^ die Berechtigung, folgende Daten an andere Mitglieder der Themenarbeitsgruppe weiterleiten zu dürfen:
-
-- Vorname und Nachname
-- E-Mail-Adresse
-- Telefonnummer
+|Bewerber:innen erteilen dem iSAQB^®^ die Berechtigung, folgende Daten an andere Mitglieder der Themenarbeitsgruppe weiterleiten zu dürfen: Vorname, Nachname, E-Mail-Adresse, Telefonnummer.
 
 |===
 
@@ -33,10 +29,10 @@ Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgr
 ====
 Das iSAQB^®^ kann auch Personen ohne Advanced-Level-Zertifikat als Bewerber:innen für den Expert Level zulassen, wenn sie eine der folgenden Kriterien erfüllen:
 
-- VIPs, die als Koryphäe auf dem zu bearbeitenden Thema bekannt sind.
+- Personen, die als Koryphäe auf dem zu bearbeitenden Thema bekannt sind.
 - iSAQB-Mitglieder, die auf Grund ihrer Aufgabe beim iSAQB^®^ die Advanced-Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced-Level-Zertifizierung nicht machen können.
 
-Die Entscheidung, ob jemand die obigen Kriterien erfüllt wird durch einen Mehrheitsbeschluss vom iSAQB Strategie-Council und den Mitgliedern der AG-EL gefällt.
+Die Entscheidung, ob jemand die obigen Kriterien erfüllt, wird durch einen Mehrheitsbeschluss vom iSAQB Strategie-Council und den Mitgliedern der AG-EL gefällt.
 
 Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzuarbeiten und kann ihnen dafür die Kosten erstatten.
 
@@ -47,6 +43,43 @@ Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in e
 
 // tag::EN[]
 ==== Criteria for New Applicants
-TODO
+To be eligible to participate in a topic group, applicants must satisfy the following criteria:
+
+
+[cols="<3,<7a"]
+|===
+| Criterion | Description
+
+|Advanced Level Certifications
+|Applicants must confirm that they have the expert level certification, or they will get it until the topic group submits their results.
+
+|Knowledge and practical experience
+|Applicants must prove that they have knowledge and practical experience of the chosen topic.
+
+|iSAQB^®^ can publish results
+|Applicants must agree that iSAQB^®^ is allowed to publish and exploit the results of the topic group.
+
+|Willingness to travel
+|Applicants must confirm that they are willing to travel at their own expense to work together in the topic group.
+
+|Disclosure of contact data
+|The applicants grant permission to iSAQB^®^ to forward the following contact details to the other members of the topic groups: first name, second name, e-mail address, and telephone number.
+
+|===
+
+[NOTE]
+.The following criteria may come into operation in the future
+====
+iSAQB® may accept individuals as candidates for the expert level if they meet one of the following requirement:
+
+- People who are distinguished experts on the topic.
+- Members of iSAQB^®^ who are not permitted to participate in the iSAQB^®^ Advanced Level Certification since they know the examination question.
+
+The iSAQB^®^ strategy council and the members of the iSAQB^®^ working group "Expert Level" make a majority decision on whether or not a person meets one of the stated requirements.
+
+iSAQB^®^ is able to actively invite luminaries to participate in a topic group and refund the cost.
+
+The experts must work in the chosen topic group as well. Nobody gets a certification without active and successful work in a topic group.
+====
 
 // end::EN[]
