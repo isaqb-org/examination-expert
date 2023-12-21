@@ -21,7 +21,7 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve those docum
 | link:examination-criteria-en.pdf[Examination Criteria (PDF)]
 
 | link:iSAQB_CPSA_Expert_Level_Template_Roadmap_DE.docx[Vorlage für eine Roadmap (DOCX)]
-| link:iSAQB_CPSA_Expert_Level_Template_Roadmap_DE.docx[Roadmap Template (DOCX)]
+| link:iSAQB_CPSA_Expert_Level_Template_Roadmap_EN.docx[Roadmap Template (DOCX)]
 
 | link:iSAQB_CPSA_Expert_Level_Field_Report_DE.docx[Erfahrungsbericht zum Expert Level (DOCX)]
 | link:iSAQB_CPSA_Expert_Level_Field_Report_EN.docx[Field Report Expert Level (DOCX)]
