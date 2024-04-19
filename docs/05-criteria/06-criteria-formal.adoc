@@ -1,0 +1,182 @@
+// tag::DE[]
+
+==== Formelle Kriterien
+
+[cols="<3,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+| Artikel
+| Muss
+| Hat der Artikel die folgende Struktur und folgenden Inhalt?
+
+. Titel
+[loweralpha]
+.. Passt der Titel zum behandelten Thema?
+. Autor:innen
+[loweralpha]
+.. Sind die Autor:innen namentlich angeführt?
+.. Sind die E-Mail-Adressen der Autor:innen aufgelistet?
+. Abstract
+[loweralpha]
+.. Wird die Problemstellung kurz beschrieben?
+.. Beschreibt das Abstract die Hauptthesen oder Ergebnisse?
+.. Ist die Beschreibung kurz und verständlich?
+. Einleitung
+[loweralpha]
+.. Beschreibt die Einleitung den derzeitigen Wissensstand?
+.. Wird die Motivation behandelt?
+.. Wird beschrieben, welche Wissenslücken es gibt, die durch diesen wissenschaftlichen Artikel gefüllt werden sollen?
+.. Werden die Fragestellungen beschrieben, die im Artikel beantwortet werden sollen?
+
+|
+|
+|[start=5]
+. Hauptteil (Kapitelname(n) sind frei wählbar)
+[loweralpha]
+.. Materialien und Methoden
+[lowerroman]
+... Werden die Informationsquellen beschrieben?
+... Werden die Methoden beschrieben, die zur Beantwortung der Fragestellung zum Einsatz kamen?
+.. Resultate
+[lowerroman]
+... Werden die Erkenntnisse beschrieben?
+... Werden die Erkenntnisse mit ausreichend plausiblen Daten begründet?
+.. Diskussion
+[lowerroman]
+... Wird beschrieben, wie die Erkenntnisse interpretiert werden?
+... Werden Fragen behandelt, welche sich aus den Ergebnissen ergeben?
+... Wird behandelt, welche Auswirkun- gen die Erkenntnisse auf die Praxis haben?
+. Zusammenfassung
+[loweralpha]
+.. Werden alle Fragestellungen und deren Beantwortung kurz zusammengefasst?
+.. Werden die Auswirkungen der Erkenntnisse kurz behandelt?
+. Danksagung
+[loweralpha]
+.. Werden Unterstützer:innen angeführt?
+. Interessenskonflikte
+.. Werden Interessenskonflikte angeführt?
+. Literaturliste
+.. Wird die gesamte verwendete Literatur aufgelistet?
+.. Wird korrekt zitiert?
+
+| Weiteres Ergebnis
+| Muss
+| - Erfüllen Form und Inhalt den Zweck des Ergebnisses (z.{nbsp}B. ein neues Muster nach der Mustersprache Kontext, Problem, Lösung)?
+- Ist das Ergebnis verständlich beschrieben?
+- Ist ersichtlich, dass zur Erarbeitung des weiteren Ergebnisses mindestens zwei Personenwochen notwendig waren?
+
+| Einreichungen
+| Soll
+| - Hat die Themenarbeitsgruppe zumindest bei einer Konferenz einen Vortrag oder einen Workshop eingereicht?
+- Hat die Themenarbeitsgruppe versucht, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
+
+| Erfahrungsbericht
+| Muss
+| - Hat jedes Mitglied der Themenarbeitsgruppe einen Erfahrungsbericht abgegeben?
+- Sind alle Punkte in den Erfahrungsberichten ausgefüllt?
+
+| Mitarbeit
+| Muss
+| - Der/die Themenmoderator:in bestätigt, dass sich nach seiner / ihrer Wahrnehmung alle Mitglieder der Themenarbeitsgruppe ungefähr gleich intensiv eingebracht haben.
+- Alle Mitglieder der Themenarbeitsgruppe legen jeweils ein Arbeitsprotokoll vor, in dem sie ihre Tätigkeiten protokolliert haben.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+
+
+==== Formal Criteria
+
+[cols="<3,<2,<7a"]
+|===
+| Criterion | Requirement | Description
+
+| Article
+| Essential
+| Does the article have the following structure and content?
+
+. Title
+[loweralpha]
+.. Does the title suit the topic discussed?
+. Authors
+[loweralpha]
+.. Are the authors named?
+.. Are the authors’ e-mail addresses listed?
+. Abstract
+[loweralpha]
+.. Is the problem described briefly?
+.. Does the abstract describe the main theses or results?
+.. Is the description short and understandable?
+. Introduction
+[loweralpha]
+.. Does the introduction describe the current state of knowledge?
+.. Is the motivation discussed?
+.. Is there a description of the existing knowledge gaps that are to be filled by this academic article?
+.. Is there a description of the research questions that are to be answered in the article?
+
+|
+|
+|[start=5]
+. Main section (chapter name(s) can be chosen freely)
+[loweralpha]
+.. Materials and methods
+[lowerroman]
+... Is there a description of the information sources?
+... Is there a description of the methodsused to answer the  research question?
+[loweralpha]
+.. Results
+[lowerroman]
+... Is there a description of the findings?
+... Are the findings substantiated with sufficient plausible data?
+[loweralpha]
+.. Discussion
+[loweralpha]
+... Is there a description of how the findings are interpreted?
+... Is there a discussion of questions that arise from the results?
+... Is there a discussion of the impacts
+that the findings have in practice?
+. Summary
+[loweralpha]
+.. Is there a brief summary of all of the research questions and their answers?
+.. Is there a brief discussion of the effects of the findings?
+. Acknowledgments
+[loweralpha]
+.. Are supporters mentioned?
+. Conflicts of interest
+[loweralpha]
+.. Are conflicts of interest mentioned?
+. Bibliography
+[loweralpha]
+.. Is there a list of all of the literature used?
+.. Is the literature cited correctly?
+
+| Additional result
+| Essential
+| - Do the form and content fulfill the purpose of the result (e.g., a new pattern according to the pattern language context, problem, solution)?
+- Is there a comprehensible description of the result?
+- Is it evident that at least two person weeks were necessary for the creation of the additional result?
+
+| Submissions
+| Desired
+| - Has the topic working group submitted a talk or a workshop to at least one conference?
+- Has the topic working group attempted to publish the results in at least one trade publication?
+
+| Experience report
+| Essential
+| - Has each member of the topic working group submitted an experience report?
+- Are all the points in the experience report completed?
+
+| Collaboration
+| Essential
+| - The topic moderator confirms that, according to their perception, all members of the topic working group have contributed to approximately the same degree.
+- All members of the topic working group each present a work log, in which they have logged their activities.
+
+|===
+
+If the formal criteria are fulfilled, the topic moderator passes the results on to the certifying body selected by the topic working group.
+
+// end::EN[]
+

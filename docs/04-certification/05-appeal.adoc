@@ -13,6 +13,6 @@ Die Stellungnahme bestätigt die Bewertung oder gibt eine neue Bewertung ab, die
 
 // tag::EN[]
 === Appeal
-
+Topic working groups whose submitted work does not pass the examination have the right to submit a written appeal against the assessment within one month of the announcement of the result. The appeal must be justified in writing within two months of the announcement of the result. Only factual objections (e.g., violations of the examination rules and regulations or objective mistakes during the assessment) are taken into consideration. Appeals based on opinions are rejected. The certification body assesses compliance with the formal requirements for the submission and justification of an appeal and can reject the appeal as inadmissible if the deadline for the submission and/or justification of the appeal has not been observed. If all the requirements are fulfilled, the certification body passes on the grounds for the appeal to the examiners who assessed the application. They assess the grounds and submit a written statement. The statement confirms the assessment or delivers a new assessment, which is final and binding and cannot be contested any further.
 
 // end::EN[]

@@ -19,6 +19,17 @@ berufliche Zukunft auf.
 
 // tag::EN[]
 === Purpose and Intent
+During the CPSA-E, you and other candidates bring together experience-based knowledge from your project work. Together, you supplement this with additional expert knowledge, research, and a discussion between yourselves. You then present this knowledge via publications within the scope of the CPSA-E. You thus actively help to disseminate expert knowledge and improve software quality through your contribution, even in other projects.
+
+The topics were submitted in advance via the iSAQB website. Following approval by the topic admin-
+istrator, the topics are available to be worked on.
+
+=== Objectives
+- You show that you are an expert in a specialist field of software architecture.
+- You develop new knowledge with other experts.
+- You show the ability to work in a team.
+- You interact with other experts, thereby building a network for your professional future.
+- You present the results at conferences or publish them in trade magazines.
 
 // end::EN[]
 

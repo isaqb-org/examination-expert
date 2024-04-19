@@ -1,14 +1,11 @@
 include::setup.adoc[]
 
-:curriculum-short: MODULKUERZEL
-
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: Prüfungsordnung iSAQB® CPSA® Expert Level
 :hyphens: de
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
 :curriculum-header-title: Examination Regulations iSAQB® CPSA® Expert Level
 :hyphens: en_US
 endif::[]

@@ -9,6 +9,6 @@ Die Begründung muss dem/der Themenmoderator:in vorliegen und diese:r muss sie a
 
 // tag::EN[]
 === Examination Duration
-
+The topic working group has 12 months from the first meeting with the topic moderator to submit the results to the certifying body for the first time. A period of 3 to 9 months is recommended. With valid justification, the topic working group can extend the period by individual months. The justification must be submitted to and accepted by the topic moderator.
 
 // end::EN[]

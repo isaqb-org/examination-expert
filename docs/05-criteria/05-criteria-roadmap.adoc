@@ -1,22 +1,21 @@
 // tag::DE[]
-=== Kriterien für eine Roadmap
 
-
-[cols="<2,1,<7a"]
+==== Kriterien für die Abnahme der Roadmap
+[cols="<3,<1,<7a"]
 |===
 | Kriterium | Pflicht | Beschreibung
 
-|Ziel, Mission
-|Muss
-|Sind Ziel und Mission der Themenarbeitsgruppe verständlich beschrieben?
+| Ziel, Mission
+| Muss
+| - Sind Ziel und Mission der Themenarbeitsgruppe verständlich beschrieben?
 
-|Themenarbeitsgruppe
-|Muss
-|Sind die Kontaktdaten aller Bewerber:innen angeführt?
+| Themenarbeitsgruppe
+| Muss
+| - Sind die Kontaktdaten aller Mitglieder der Themenarbeitsgruppe angeführt?
 
-|Vorgehensweise
-|Muss
-|- Werden die Rollen und Aufgaben der Bewerber:innen beschrieben?
+| Vorgehensweise
+| Muss
+|- Werden die Rollen und Aufgaben der Mitglieder der Themenarbeitsgruppe beschrieben?
 - Ist ein Zeitplan mit Meilensteinen vorhanden?
 - Sind die Zeiten und Orte für die optionalen persönlichen Treffen angeführt?
 - Sind die Zeiten und Mittel für die virtuellen Treffen angeführt?
@@ -24,27 +23,64 @@
 - Sind Arbeitspakete und Zuständigkeiten definiert?
 - Ist der Review-Prozess bestimmt?
 
-|Literatur
-|Muss
-|- Gibt es eine Literaturliste?
-- Umfasst die Literaturliste mindestens sieben Quellen?
+| Literatur
+| Muss
+| - Gibt es eine Literaturliste?
+- Umfasst die Literaturliste mindestens 7 Quellen?
 - Sind die Quellen von wissenschaftlichem Wert?
 
-|Ergebnisse
-|Muss
-|- Wird der verpflichtende Artikel diskutiert?
-- Wird zumindest ein weiteres Ergebnis angeführt (z. B. Anleitung, Beispiel, Muster, Vorlesung an einer Hochschule, ...)?
+| Ergebnisse
+| Muss
+| - Wird der verpflichtende Artikel diskutiert?
+- Wird zumindest ein weiteres Ergebnis angeführt (z.{nbsp}B. Anleitung, Beispiel, ...)?
 - Wird für jedes Ergebnis die Form und Struktur behandelt?
 - Versucht die Themenarbeitsgruppe, die Ergebnisse bei mindestens einer Konferenz zu präsentieren?
 - Versucht die Themenarbeitsgruppe, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
 
 |===
 
-
 // end::DE[]
 
 // tag::EN[]
-=== Criteria for a Roadmap
+==== Criteria for a Roadmap
+
+[cols="<3,<2,<7a"]
+|===
+| Criterion | Requirement | Description
+
+| Objective, mission
+| Essential
+| - Are the objective and mission of the topic working group described comprehensibly?
+
+| Topic working group
+| Essential
+| - Are the contact details of all members of the topic working group stated?
+
+| Procedure
+| Essential
+| - Are the roles and tasks of the members of the topic working group described?
+- Is a timetable with milestones provided?
+- Are the times and locations for the optional in-person meetings stated?
+- Are the times and resources for the virtual meetings stated?
+- Are the tools for electronic communication listed?
+- Are work packages and responsibilities defined?
+- Is the review process determined?
+
+| Literature
+| Essential
+| - Is there a bibliography?
+- Does the bibliography comprise at least 7 sources?
+- Are the sources of academic value?
+
+| Results
+| Essential
+| - Is the mandatory article discussed?
+- Is at least one additional result stated (e.g., instructions, example, ...)?
+- Are the form and structure discussed for each result?
+- Does the topic working group attempt to presentthe results at at least one conference?
+- Does the topic working group attempt to publish the results in at least one trade publication?
+
+|===
 
 
 // end::EN[]

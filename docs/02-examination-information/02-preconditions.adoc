@@ -10,6 +10,10 @@ Die Praxiserfahrung muss nicht nachgewiesen werden, da sie schon Voraussetzung f
 
 // tag::EN[]
 === Preconditions
+As a qualification requirement, an Expert Level candidate must have successfully acquired the iSAQB Advanced-Level certification. There are no other qualification requirements. However, you should have extensive project experience and in-depth knowledge in the field of your chosen software architecture
+topic, which you would like to work on with the topic working group.
+
+The practical experience does not need to be proven as it is already a requirement for the iSAQB Foundation and Advanced-Level certifications. There is also no minimum amount of time that must have passed between the Advanced and the Expert Level certification.
 
 // end::EN[]
 

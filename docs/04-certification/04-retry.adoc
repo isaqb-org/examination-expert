@@ -1,11 +1,11 @@
 // tag::DE[]
 === Wiederholung
-Sollte die abgegebene Arbeit nicht zufriedenstellend sein, kann die Themenarbeitsgruppe Mängel abschaffen und die Arbeit erneut innerhalb von maximal 6 Monaten einreichen.
+Sollte die abgegebene Arbeit nicht zufriedenstellend sein, kann die Themenarbeitsgruppe Mängel beheben und die Arbeit erneut innerhalb von maximal 6 Monaten einreichen.
 
 // end::DE[]
 
 // tag::EN[]
 === Retry
-
+If the submitted work is not satisfactory, the topic working group can rectify shortcomings and resubmit the work within a maximum of 6 months.
 
 // end::EN[]
