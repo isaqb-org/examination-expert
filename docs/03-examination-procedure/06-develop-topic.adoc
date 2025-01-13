@@ -8,6 +8,10 @@ Zu den nötigen Ausarbeitungen gehören Erhebungen von Daten, Literaturrecherche
 Themenarbeitsgruppen wird empfohlen, ihre Ergebnisse auf Konferenzen oder Fachzeitschriften zu veröffentlichen.
 Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 
+Damit sich jedes Mitglied ungefähr im gleichen Umfang in die Themenarbeitsgruppe einbringt, müssen alle Mitglieder ihre Tätigkeiten aufzeichnen. Dafür gelten diese Kriterien:
+
+include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
+
 // end::DE[]
 
 // tag::EN[]
@@ -15,5 +19,9 @@ Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
 The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes collection of data, literature research or writing. It is recommended that topic working groups publish their results at conferences or in professional journals. iSAQB will support and promote the publications.
+
+To ensure that each member contributes to the working group to approximately the same extent, all members must record their activities. These criteria must be met:
+
+include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
 // end::EN[]
