@@ -8,7 +8,7 @@
 
 | Zeitaufzeichnung
 | Muss
-| Die Mitglieder einer Themenarbeitsgruppe müssen ein zentrales Zeitaufzeichnungssystem aufsetzen und zumindest diese Informationen für jede Tätigkeit dokumentieren:
+| Die Mitglieder einer Themenarbeitsgruppe müssen ihre Tätigkeiten in einer zentralen und für alle einsehbaren Liste aufzeichen und dabei zumindest diese Informationen für jede Tätigkeit dokumentieren:
 
 - Datum und Zeit (von, bis)
 - Tätigkeit
@@ -61,7 +61,7 @@
 
 | Time tracking
 | Mandatory
-| The members of a working group must set up a central time tracking system and document at least this information for each activity:
+| The members of a working group must record their activities in a central list that can be viewed by every group member and must at least document this information for each activity:
 
 - Date and time (from and to)
 - Activity
