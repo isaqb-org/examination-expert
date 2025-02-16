@@ -24,6 +24,10 @@ Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
 
 |===
 
+Die Prüfer führen ein 30-minütiges Interview mit jedem einzelnen Mitglied der Themenarbeitsgruppe durch, um zu überprüfen, ob es die Inhalte verstanden und sich entsprechend in die Themenarbeitsgruppe eingebracht hat. Um die Zertifizierung zu erhalten, muss ein Mitglied die Beurteilung "Herausragend" oder "Verstanden" erhalten. Dabei gelten diese Kriterien:
+
+include::../05-criteria/08-criteria-interview.adoc[{include_configuration}]
+
 Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. _Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
 
 ==== Beurteilung
@@ -63,6 +67,10 @@ For certification, a topic working group must submit the following results:
 | Each member of a topic working group creates an experience report to enable iSAQB to further develop the processes. iSAQB provides a template for this.
 
 |===
+
+The examiners interview each member of the working group to make sure they understand the topic and worked sufficiently on the results. A member must get the rating "Outstanding" or "Understood" to get the certification. The following criteria are used to determine the rating.
+
+include::../05-criteria/08-criteria-interview.adoc[{include_configuration}]
 
 The topic working group permits iSAQB to publish their results. Each member of the topic working group can also use the results freely, stating the collaborators and iSAQB. iSAQB publishes the article on its pages, naming all of those involved, and translates it into various languages.
 

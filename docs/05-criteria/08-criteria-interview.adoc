@@ -1,0 +1,43 @@
+// tag::DE[]
+
+==== Kriterien für Einzelinterviews
+
+[cols="<3,<7a"]
+|===
+| Beurteilung | Kriterien
+
+| Herausragend
+| ...
+
+| Verstanden
+| ...
+
+| Nicht verstanden
+| ...
+
+|===
+
+// end::DE[]
+
+
+// tag::EN[]
+
+==== Criteria for Individual Interviews
+
+[cols="<3,<7a"]
+|===
+| Rating | Criteria
+
+| Outstanding
+| ...
+
+| Unserstood
+| ...
+
+| Not unserstood
+| ...
+
+|===
+
+// end::EN[]
+
