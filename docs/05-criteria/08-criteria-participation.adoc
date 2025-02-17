@@ -10,7 +10,7 @@
 | Muss
 | Die Mitglieder einer Themenarbeitsgruppe müssen ihre Tätigkeiten in einer zentralen und für alle einsehbaren Liste aufzeichen und dabei zumindest diese Informationen für jede Tätigkeit dokumentieren:
 
-- Datum und Zeit (von, bis)
+- Datum und Dauer
 - Tätigkeit
 - Arbeitsergebnis
 - Namen der Mitglieder, die an der Tätigkeit beteiligt waren.
@@ -33,7 +33,7 @@
 
 | Drei Tätigkeitsarten
 | Muss
-| Jedes Mitglied muss mindestens drei verschiedene Tätigkeitsarten gemacht haben, u. a.
+| Jedes Mitglied muss mindestens drei verschiedene Tätigkeitsarten ausgeführt haben, u. a.
 
 - Organisation
 - Recherche
@@ -63,7 +63,7 @@
 | Mandatory
 | The members of a working group must record their activities in a central list that can be viewed by every group member and must at least document this information for each activity:
 
-- Date and time (from and to)
+- Date and duration
 - Activity
 - Work result
 - Names of members involved in the activity.
