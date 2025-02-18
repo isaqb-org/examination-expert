@@ -3,7 +3,7 @@
 Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmt und Aufgaben aus der Roadmap erarbeitet.
 Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können auch online durchgeführt werden.
 
-Die Themenarbeitsgruppe muss einen Speicher einrichten, um ihre Arbeitsergebnisse versioniert abzulegen (z. B. Git-Repository, Wiki). Die Themenmoderatoren, Prüfer und auf Anfrage auch der Zertifizierer müssen auf den Speicher zugreifen können, um zu überprüfen, ob jeder konform mitgearbeitet hat.
+Die Themenarbeitsgruppe muss einen Speicher einrichten, um ihre Arbeitsergebnisse abzulegen (z. B. Git-Repository, Wiki). Die Themenmoderatoren, Prüfer und auf Anfrage auch der Zertifizierer müssen auf den Speicher zugreifen können.
 
 Die Themenarbeitsgruppe trägt ihre Erfahrung zu dem gewählten Thema zusammen, konsolidiert dieses und leitet daraus neue Erkenntnisse ab.
 Zu den nötigen Ausarbeitungen gehören Erhebungen von Daten, Literaturrecherchen oder Verschriftlichungen.
@@ -20,7 +20,7 @@ include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 === Step 5: Develop Topic
 The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
-The topic working group must set up a central repository where it saves all working results in a versioned way, for example a GIT repository or a Wiki. The topic moderator, the examiner and, on request, also the certifying body must have access to this repository so they can check if everyone worked on the results as needed.
+The topic working group must set up a central repository where it saves all working results, for example a GIT repository or a Wiki. The topic moderator, the examiner and, on request, also the certifying body must have access to this repository.
 
 The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes collection of data, literature research or writing. It is recommended that topic working groups publish their results at conferences or in professional journals. iSAQB will support and promote the publications.
 
