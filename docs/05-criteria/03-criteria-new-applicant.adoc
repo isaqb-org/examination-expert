@@ -1,6 +1,13 @@
 // tag::DE[]
 ==== Kriterien für neue Bewerber:innen
+
+Das CPSA-Expert Level (CPSA-E) ist die höchste Qualifizierungsstufe des iSAQB und richtet sich an äußerst erfahrene Softwarearchitekt:innen. Die Anforderungen und Voraussetzungen sind entsprechend anspruchsvoll und fokussieren sich auf fundierte Erfahrung, tiefgehende Expertise sowie die Fähigkeit, neue Lösungswege zu entwickeln und die Community zu bereichern.
+
 Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgruppe mitarbeiten zu dürfen:
+
+===== Wissen und Praxiserfahrung
+
+Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und ihre Praxiserfahrung zusammenfassen.
 
 [cols="<3,<7a"]
 |===
@@ -9,9 +16,25 @@ Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgr
 |Advanced Level
 |Bewerber:innen müssen bestätigen, dass sie spätestens bis zur Einreichung der Expert-Level-Arbeit über das Advanced-Level-Zertifikat verfügen.
 
-|Wissen und Praxiserfahrung
-|Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und ihre Praxiserfahrung zusammenfassen.
+|Praxiserfahrung
+|Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle Softwarearchitekt in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrung in der system-, domänen- oder organisationsübergreifende Archiekturarbeit notwendig.
 
+|Wissen
+|Beherrschung und Praxisanwendung aller grundlegenden und fortgeschrittenen Konzepte der Softwarearchitektur, wie sie in den iSAQB-Lehrplänen für das Foundation- und Advanced-Level vermittelt werden.
+
+|Wissensvermittlung und Community-Beitrag
+|Nachweis über die Weitergabe von Wissen oder eines Community-Beitrag, beispielsweise durch die Schulung und Betreuung von weniger erfahrenen Entwickler:innen oder Architekt:innen, die fachliche Leitung von Architektur- oder Entwicklungsteams, Mitentwicklung in Open-Source-Projekten sowie durch Publikationen oder Vorträge.
+
+|Kommunikative Fähigkeiten
+|Bewerber:innen müssen in der Lage sein, komplexe Sachverhalte klar und verständlich zu kommunizieren.
+
+|===
+
+===== Organisation und Rahmenbedingungen
+
+[cols="<3,<7a"]
+|===
+| Kriterium | Beschreibung
 
 |iSAQB^®^ darf Ergebnisse veröffentlichen und verwerten
 |Bewerber:innen müssen einwilligen, dass die Ergebnisse der Themenarbeitsgruppe von iSAQB^®^ veröffentlicht und verwertet werden dürfen.
@@ -23,6 +46,10 @@ Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgr
 |Bewerber:innen erteilen dem iSAQB^®^ die Berechtigung, folgende Daten an andere Mitglieder der Themenarbeitsgruppe weiterleiten zu dürfen: Vorname, Nachname, E-Mail-Adresse, Telefonnummer.
 
 |===
+
+==== Warum sind diese Voraussetzungen wichtig?
+
+Das CPSA-Expert Level bescheinigt nicht nur technisches Wissen, sondern auch die Fähigkeit, als Vordenker:in und Leader:in in der Softwarearchitektur-Community zu agieren. Die Bewerber:innen müssen zeigen, dass sie über die reine Architekturarbeit hinaus zur Weiterentwicklung des Berufsstandes beitragen können und in der Lage sind, auch schwierige Herausforderungen in komplexen Umfeldern zu meistern.
 
 [NOTE]
 .Folgende Kriterien treten vielleicht in Zukunft in Kraft
@@ -38,6 +65,8 @@ Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzu
 
 Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in einer Themenarbeitsgruppe und einer erfolgreichen Zertifizierung erhält niemand das EL-Zertifikat.
 ====
+
+
 
 // end::DE[]
 
