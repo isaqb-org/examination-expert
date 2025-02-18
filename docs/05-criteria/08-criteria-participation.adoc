@@ -1,0 +1,106 @@
+// tag::DE[]
+
+==== Kriterien für Mitarbeit
+
+[cols="<3,<1,<7a"]
+|===
+| Kriterium | Pflicht | Beschreibung
+
+| Zeitaufzeichnung
+| Muss
+| Die Mitglieder einer Themenarbeitsgruppe müssen ihre Tätigkeiten in einer zentralen und für alle einsehbaren Liste aufzeichen und dabei zumindest diese Informationen für jede Tätigkeit dokumentieren:
+
+- Datum und Dauer
+- Tätigkeit
+- Arbeitsergebnis
+- Namen der Mitglieder, die an der Tätigkeit beteiligt waren.
+
+| Validierung
+| Muss
+| Bei gemeinsamen Treffen validieren die Mitglieder, ob die aufgezeichneten Tätigkeiten plausibel sind.
+
+| Gesamtarbeitszeit
+| Muss
+| Jedes Mitglied einer Themenarbeitsgruppe muss zumindest 40 Stunden in der Themenarbeitsgruppe mitgearbeitet haben.
+
+| Abweichung vom Gruppenmittelwert
+| Muss
+| Ein Mittelwert gibt Auskunft, wie viele Stunden im Durchschnitt jedes Mitglied in der Themenarbeitsgruppe mitgearbeitet hat. Jedes Mitglied muss mindestens 60 % des Gruppenmittelwertes mitgearbeitet haben.
+
+| Unterschiedliche Tätigkeitsarten
+| Muss
+| Ein Mitglied darf nur bis zu 20 % der Stunden für organisatorische Tätigkeiten anrechnen.
+
+| Drei Tätigkeitsarten
+| Muss
+| Jedes Mitglied muss mindestens drei verschiedene Tätigkeitsarten ausgeführt haben, u. a.
+
+- Organisation
+- Recherche
+- Ergebnis erstellen
+- Präsentation erstellen
+- Beitrag für Fachzeitschrift erstellen
+- Konferenzbeitrag erstellen
+- Präsentation bei Konferenz
+
+ | Reisezeiten zählen nicht
+ | Muss
+ | Reisezeiten zählen nicht als Tätigkeit.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+==== Criteria for Participation
+
+[cols="<3,<2,<7a"]
+|===
+| Criterion | Requirement | Description
+
+
+| Time tracking
+| Mandatory
+| The members of a working group must record their activities in a central list that can be viewed by every group member and must at least document this information for each activity:
+
+- Date and duration
+- Activity
+- Work result
+- Names of members involved in the activity.
+
+| Validation
+| Mandatory
+| At meetings, the members validate whether the recorded activities are plausible.
+
+| Total working time
+| Mandatory
+| Each member of a working group must have worked at least 40 hours in the working group.
+
+| Deviation from the group average
+| Mandatory
+| A mean value provides information on how many hours on average each member has worked in the working group. Each member must have worked at least 60% of the group average.
+
+| Different types of activity
+| Mandatory
+| A member may only count up to 20% of the hours for organizational activities.
+
+| Three types of activity
+| Mandatory
+| Each member must have performed at least three different types of activity, including
+
+- Organization
+- Research
+- Creating a result
+- Creating a presentation
+- Writing an article for a specialist journal
+- Create conference contribution
+- Presentation at conference
+
+ | Travel time does not count
+ | Must
+ | Travel time does not count as an activity.
+
+|===
+
+
+// end::EN[]
