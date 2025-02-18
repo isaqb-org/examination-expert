@@ -1,6 +1,9 @@
 // tag::DE[]
 === Abgabe
 Ist die Roadmap erfüllt, gibt die Themenarbeitsgruppe ihre Ergebnisse bei dem/der Themenmoderator:in ab.
+
+Der/die Themenmoderator:in lässt nur jende Mitglieder zur Zertifizierung zu, welche die Kriterien zur Mitarbeit erfüllt haben. Hat ein Mitglied die Kriterien nicht erfüllt, bekommt er/sie die Kosten nicht zurückerstattet.
+
 Er/sie prüft die Ergebnisse auf formelle Kriterien und fordert gegebenenfalls noch Nachbesserungen ein.
 
 Mit den nachfolgenden Kriterien prüft der/die Themenmoderator:in die Ergebnisse einer Themenarbeitsgruppe.
@@ -11,7 +14,11 @@ include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
 // tag::EN[]
 === Submission
-Once the roadmap has been fulfilled, the topic working group submits its results to the topic moderator. They assess the results according to formal criteria and, if necessary, request corrections.
+Once the roadmap has been fulfilled, the topic working group submits its results to the topic moderator.
+
+The topic moderator only accepts those members for certification who have fulfilled the criteria for participation. If a member fails to meet the criteria, they will not be reimbursed.
+
+The topic moderator assesses the results according to formal criteria and, if necessary, request corrections.
 
 With the following criteria the topic moderator checks the results of a topic working group.
 
