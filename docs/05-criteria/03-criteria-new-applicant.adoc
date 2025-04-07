@@ -111,6 +111,10 @@ Applicants justify their suitability for the topic by summarizing their knowledg
 
 ===== Organization and General Conditions
 
+[cols="<3,<7a"]
+|===
+| Criterion | Description
+
 |iSAQB^®^ can publish results
 |Applicants must agree that iSAQB^®^ is allowed to publish and exploit the results of the topic group.
 
