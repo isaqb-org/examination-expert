@@ -20,7 +20,7 @@ Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und 
 |Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle Softwarearchitekt in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrung in der system-, domänen- oder organisationsübergreifende Archiekturarbeit notwendig.
 
 |Wissen
-|Beherrschung und Praxisanwendung aller grundlegenden und fortgeschrittenen Konzepte der Softwarearchitektur, wie sie in den iSAQB-Lehrplänen für das Foundation- und Advanced-Level vermittelt werden.
+|Solides Verständnis und praktische Anwendung der grundlegenden Konzepte der Softwarearchitektur gemäß den iSAQB-Lehrplänen für das Foundation- und ausgewählte Advanced-Level-Themen. Vertiefung erfolgt typischerweise in spezifischen Schwerpunktbereichen wie z.B. Domain-Driven Design, Cloud-Architektur, Architekturbewertung, -dokumentation oder -modernisierung, je nach individuellem Profil und Projektkontext.
 
 |Wissensvermittlung und Community-Beitrag
 |Nachweis über die Weitergabe von Wissen oder eines Community-Beitrag, beispielsweise durch die Schulung und Betreuung von weniger erfahrenen Entwickler:innen oder Architekt:innen, die fachliche Leitung von Architektur- oder Entwicklungsteams, Mitentwicklung in Open-Source-Projekten sowie durch Publikationen oder Vorträge.
@@ -49,7 +49,10 @@ Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und 
 
 ==== Warum sind diese Voraussetzungen wichtig?
 
-Das CPSA-Expert Level bescheinigt nicht nur technisches Wissen, sondern auch die Fähigkeit, als Vordenker:in und Leader:in in der Softwarearchitektur-Community zu agieren. Die Bewerber:innen müssen zeigen, dass sie über die reine Architekturarbeit hinaus zur Weiterentwicklung des Berufsstandes beitragen können und in der Lage sind, auch schwierige Herausforderungen in komplexen Umfeldern zu meistern.
+Das CPSA-Expert Level bescheinigt nicht nur technisches Wissen, sondern auch die Fähigkeit, als Vordenker:in 
+und Expert:in in der Softwarearchitektur-Community zu agieren. Die Bewerber:innen müssen zeigen, dass sie über 
+die reine Architekturarbeit hinaus zur Weiterentwicklung des Berufsstandes beitragen können und in der Lage sind, 
+auch schwierige Herausforderungen in komplexen Umfeldern zu meistern.
 
 [NOTE]
 .Folgende Kriterien treten vielleicht in Zukunft in Kraft
@@ -72,8 +75,18 @@ Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in e
 
 // tag::EN[]
 ==== Criteria for New Applicants
+
+The CPSA-Expert Level (CPSA-E) is the highest qualification level awarded by the iSAQB.
+It is aimed at highly skilled and experienced software architects.
+The requirements for applicants are demanding: they must demonstrate long-term experience,
+have a clear area of expertise, be capable of developing innovative approaches and solution strategies,
+and actively contribute to the professional community.
+
 To be eligible to participate in a topic group, applicants must satisfy the following criteria:
 
+==== Knowledge and Practical Experience
+
+Applicants justify their suitability for the topic by summarizing their knowledge and practical experience.
 
 [cols="<3,<7a"]
 |===
@@ -82,8 +95,21 @@ To be eligible to participate in a topic group, applicants must satisfy the foll
 |Advanced Level Certifications
 |Applicants must confirm that they have the expert level certification, or they will get it until the topic group submits their results.
 
-|Knowledge and practical experience
-|Applicants must prove that they have knowledge and practical experience of the chosen topic.
+|Practical Experience
+|Applicants can demonstrate at least 7 years of professional experience in the role of software architect within complex software projects. In particular, experience in architecture work that spans systems, domains, or organizational boundaries is required.
+
+|Knowledge
+|A solid understanding and practical application of the core concepts of software architecture, as outlined in the iSAQB curricula for the Foundation and selected Advanced-Level topics. Specialization typically takes place in specific focus areas such as Domain-Driven Design, Cloud Architecture, Architecture Evaluation, Documentation, or Modernization, depending on the individual's expertise and project context.
+
+|Knowledge Transfer and Community Contribution
+|Proof of knowledge transfer or community contribution, such as training and mentoring less experienced developers or architects, leading architecture or development teams, co-developing in open-source projects, as well as through publications or presentations.
+
+|Communication Skills
+|Applicants must be able to communicate complex matters clearly and understandably.
+
+|===
+
+===== Organization and General Conditions
 
 |iSAQB^®^ can publish results
 |Applicants must agree that iSAQB^®^ is allowed to publish and exploit the results of the topic group.
@@ -95,6 +121,13 @@ To be eligible to participate in a topic group, applicants must satisfy the foll
 |The applicants grant permission to iSAQB^®^ to forward the following contact details to the other members of the topic groups: first name, second name, e-mail address, and telephone number.
 
 |===
+
+===== Why Are These Requirements Important?
+
+The CPSA-Expert Level not only validates technical expertise but also recognizes the ability to serve as a
+thought leader and expert within the software architecture community. Applicants must demonstrate their capacity to
+contribute to the evolution of the profession, going beyond architectural practice, and show that they can tackle
+complex challenges in dynamic and demanding environments.
 
 [NOTE]
 .The following criteria may come into operation in the future
