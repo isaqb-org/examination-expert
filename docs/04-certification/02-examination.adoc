@@ -1,6 +1,7 @@
 // tag::DE[]
 === Prüfungsleistungen
-Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
+
+Die Themenarbeitsgruppe muss zur Zertifizierung folgende Ergebnisse beim Zertifizierer einreichen:
 
 [cols="<3,<1,<7a"]
 |===
@@ -24,23 +25,24 @@ Zur Zertifizierung muss eine Themenarbeitsgruppe folgende Ergebnisse abgeben:
 
 |===
 
-Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. _Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
+Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
 
 ==== Beurteilung
 Die gemeinsame Beurteilung der Prüfer:innen erfolgt nach dem folgenden Kriterienkatalog. Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müssen 4 der 10 Punkte erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
-Sechs Wochen nachdem die Themenarbeitsgruppe die Ergebnisse eingereicht hat, bekommen die Mitglieder über den Zertifizierer das Ergebnis mitgeteilt:
-Erfolgreiche Zertifizierung, Ablehnung oder Nachbesserung nötig.
-Die Themenarbeitsgruppe erhält Einblick in die Begründung der Prüfungsergebnisse.
+Wenn die Prüfer feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, eine zusätzliche Gebühr dafür zu erheben.
 
+Jedes Mitglied der Themenarbeitsgruppe muss in einem Einzelgespräch mit den Prüfern die Ergebnisse verteidigen und sein/ihr Wissen unter Beweis stellen.
+
+Die ganze Prüfungsprozedur soll innerhalb von sechs Wochen abgeschlossen sein (ohne Nachbesserung). Der Zertifizierer informiert die Mitglieder der Themenarbeitsgruppe über die Ergebnisse und die Begründung.
 
 // end::DE[]
 
 // tag::EN[]
 === Examination Components
-For certification, a topic working group must submit the following results:
+A topic working group must submit the following results to the certification body:
 
 [cols="<3,<1,<7a"]
 |===
@@ -72,6 +74,13 @@ The joint assessment of the examiners takes place according to the following cat
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
-Six weeks after the topic working group has submitted the results, the members are informed of the result by the certifying body: Successful certification, rejection, or correction required. The topic working group gains insight into the justification for the examination results.
+All members of the topic working group must hold an individual interview with the examiners in order to defend their results and prove their knowledge.
 
+If the examiners determine that the results don't meet the criteria, the topic working group can improve them once and send them to the certification body again. The certifier is free to charge an additional fee for this.
+
+If the examiner find out that the results don't meet the criteria, the topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
+
+The whole certification procedure should be finished within six weeks (without rework). The certification body informs each member of the topic working group about the result and the reasoning.
+
+The certification body informs each member of the topic working group about the result and rational.
 // end::EN[]
