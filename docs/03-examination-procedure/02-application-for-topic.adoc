@@ -1,0 +1,22 @@
+// tag::DE[]
+=== Schritt 1: Für Thema bewerben
+iSAQB publiziert eine Liste mit verfügbaren Themen und akkreditierten Zertifizierern.
+
+Bewerber:innen melden sich bei einem Zertifizierer zu einem Thema an.
+
+Der Zertifizierer überprüft die Mindestvoraussetzungen für die Teilnahme am CPSA-E.
+
+include::../05-criteria/03-criteria-new-applicant.adoc[{include_configuration}]
+
+// end::DE[]
+
+// tag::EN[]
+=== Step 1: Application for a Topic
+iSAQB publishes the list of available topics and accredited certification bodies.
+
+Candidates can apply to a certification body for a topic.
+
+The certification body checks the minimum requirements for participation in the CPSA-E.
+
+include::../05-criteria/03-criteria-new-applicant.adoc[{include_configuration}]
+// end::EN[]

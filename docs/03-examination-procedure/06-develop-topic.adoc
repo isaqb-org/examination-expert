@@ -1,6 +1,6 @@
 // tag::DE[]
 === Schritt 5: Thema ausarbeiten
-Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmt und Aufgaben aus der Roadmap erarbeitet.
+Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmen und Aufgaben aus der Roadmap erarbeiten.
 Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können auch online durchgeführt werden.
 
 Die Themenarbeitsgruppe muss einen Speicher einrichten, um ihre Arbeitsergebnisse abzulegen (z. B. Git-Repository, Wiki). Die Themenmoderatoren, Prüfer und auf Anfrage auch der Zertifizierer müssen auf den Speicher zugreifen können.

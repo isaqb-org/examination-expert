@@ -7,7 +7,7 @@
 // end::EN[]
 
 include::01-submit-result.adoc[{include_configuration}]
-include::02-examination-performance.adoc[{include_configuration}]
+include::02-examination.adoc[{include_configuration}]
 include::03-receive-certificate.adoc[{include_configuration}]
 include::04-retry.adoc[{include_configuration}]
 include::05-appeal.adoc[{include_configuration}]
