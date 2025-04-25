@@ -1,9 +1,9 @@
 // tag::DE[]
-== Prüfungsverfahren
+== Ablauf
 // end::DE[]
 
 // tag::EN[]
-== Examination Procedure
+== Procedure
 // end::EN[]
 
 include::01-submit-topic.adoc[{include_configuration}]

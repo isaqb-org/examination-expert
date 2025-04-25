@@ -1,9 +1,9 @@
 // tag::DE[]
-== Informationen zur Prüfung
+== Überblick
 // end::DE[]
 
 // tag::EN[]
-== Examination Information
+== Overview
 // end::EN[]
 
 include::01-purpose-intent.adoc[{include_configuration}]
