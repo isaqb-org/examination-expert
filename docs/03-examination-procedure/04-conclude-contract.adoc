@@ -1,0 +1,20 @@
+// tag::DE[]
+=== Schritt 3: Vertrag mit Zertifizierer abschließen
+Der Zertifizierer schließt einen Vertrag mit dem Trainingsprovider ab.
+
+Danach schließt der Zertifizierer mit jedem Mitglied der Themenarbeitsgruppe einen Vertrag.
+
+Die Themenarbeitsgruppe kann anschließend mit der Arbeit beginnen.
+
+// end::DE[]
+
+// tag::EN[]
+=== Step 3: Contract Certifying Body and Training Provider
+
+The certifying body concludes a contract with the training provider.
+
+The certification body concludes a contract with each member of the working group.
+
+Now, the topic working group can start working.
+
+// end::EN[]

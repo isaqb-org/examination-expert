@@ -10,6 +10,8 @@ Mit den nachfolgenden Kriterien prüft der/die Themenmoderator:in die Ergebnisse
 
 include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
+Wenn der/die Themenmoderator:in die Ergebnisse freigibt, reicht die Themenarbeitsgruppe die Ergebnisse beim Zertifizierer ein.
+
 // end::DE[]
 
 // tag::EN[]
@@ -23,5 +25,7 @@ The topic moderator assesses the results according to formal criteria and, if ne
 With the following criteria the topic moderator checks the results of a topic working group.
 
 include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
+
+If the topic moderator accepts the results, the topic working group can send them to the certification body.
 
 // end::EN[]
