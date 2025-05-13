@@ -1,14 +1,28 @@
 // tag::DE[]
 === Schritt 2: Themenarbeitsgruppe zusammenstellen
-Der/Die Themenverwalter:in sorgt dafür, dass entsprechend der Themeneinreichung ausreichend Bewerber:innen in der Themenarbeitsgruppe sind. Diese Aufgabe muss er/sie nicht allein durchführen, sondern kann sich die Hilfe der sich bereits in der Themenarbeitsgruppe befindlichen Bewerber:innen zunutze machen. Die Themenarbeitsgruppe darf gern für das Thema im Kolleg:innen- und Bekanntenkreis werben. Auch das iSAQB wird regelmäßig auf offene Themen aufmerksam machen und für eine Teilnahme werben.
 
-Sobald genug Bewerber:innen für die Themenarbeitsgruppe vorhanden sind, informiert der/die Themenverwalter:in über den Start der Themenarbeitsgruppe und schickt die Kontaktdaten aller Mitglieder an die Themenarbeitsgruppe.
+Damit eine Themenarbeitsgruppe zustande kommt, müssen sich ausreichend Bewerber für ein Thema beim Zertifizierer anmelden.
+
+Die Bewerber:innen können in ihrem Bekanntenkreis nach weiteren Teilnehmern werben. Auch der iSAQB wird für offene Themen werben.
+
+Sobald die Mindestanzahl von Bewerber:innen für ein Thema erreicht wurde, informiert der Zertifizierer die Bewerber:innen über den Start der Themenarbeitsgruppe und sendet ihnen die Kontaktdaten der anderen Bewerber:innen.
+
+Die Themenarbeitsgruppe wählt einen Trainingsprovider aus und informiert den Zertifizierer über die Auswahl. iSAQB veröffentlicht dazu eine List von akkreditierten Trainingsprovidern.
+
+Der Trainingsprovider stellt der Themenarbeitsgruppe eine:n Themenmoderator:in zur Verfügung.
 
 // end::DE[]
 
 // tag::EN[]
 === Step 2: Assemble Topic Working Group
-The topic administrator ensures that there are sufficient candidates in the topic working group according to the topic submission. They do not need to perform this task alone, but can take advantage of assistance from the candidates already in the topic working group. The topic working group is welcome to promote the topic among colleagues and acquaintances. iSAQB will also regularly draw attention to open topics and encourage participation.
 
-As soon as enough candidates for the topic working group are available, the topic administrator informs about the start of the topic working group and sends all the members` contact details to the topic working group.
+The certification body ensures that there are sufficient candidates in the topic working group.
+
+The candidates are welcome to promote the topic among colleagues and acquaintances. iSAQB will also regularly draw attention to open topics and encourage participation.
+
+As soon as enough candidates for the topic working group are available, the certification body will inform the candidates about the start of the topic working group and send all the members` contact details to the topic working group.
+
+The topic working group chooses a training provider and informs the certification body about the selection. iSAQB publishes a list of accredited training provider.
+
+The training provider will provide a topic moderator for the topic working group.
 // end::EN[]
