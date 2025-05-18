@@ -2,9 +2,9 @@
 === Übersicht
 Die Zertifizierung setzt sich aus diesen Schritten zusammen:
 
-1. Der Themenmoderator stellt sicher, dass die Ergebnisse formelle Kriterien erfüllen.
+1. Der/die Themenmoderator:in stellt sicher, dass die Ergebnisse formelle Kriterien erfüllen.
 2. Zwei Prüfer:innen bewerten die Ergebnisse der Themenarbeitsgruppe inhaltlich. Die Themenarbeitsgruppe kann eimmalig nachbessern.
-3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Einzelinterview durch.
+3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Prüfungsgespräch durch.
 4. Der Zertifizierer stellt die Zertifikate aus.
 
 Die gesamte Zertifizierung soll in sechs Wochen abgeschlossen (ohne Nachbesserugn und Einspruch).

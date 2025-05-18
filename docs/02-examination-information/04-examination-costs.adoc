@@ -4,7 +4,7 @@ Die Kosten für eine Zertifizierung im Expert Level setzen sich aus dem Aufwand 
 
 Die Kosten können je nach Gruppengröße schwanken, betragen aber mindestens 2.800 € pro Person.
 
-Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zusammenarbeit oder Extrakosten durch Nachbesserungen, sind nicht inkludiert und selbstorganisatorisch von der Themenarbeitsgruppe zu tragen.
+Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zusammenarbeit oder Extrakosten durch Nachbesserungen oder Einsprüche, sind nicht inkludiert und selbstorganisatorisch von der Themenarbeitsgruppe zu tragen.
 
 // end::DE[]
 
@@ -12,6 +12,6 @@ Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zu
 === Costs
 The costs of certification at the Expert Level comprise the costs for the selected topic moderator, the certification body and the two examiners. The prices can vary depending on the size of the group. The minimum cost per member of a working group is 2,800 €.
 
-Possible additional costs, such as travel costs within the scope of the collaboration or extra costs due to corrections, are not included and are to be borne by the topic working group itself.
+Possible additional costs, such as travel costs within the scope of the collaboration or e  xtra costs due to rework or objections, are not included and are to be borne by the topic working group itself.
 
 // end::EN[]

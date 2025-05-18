@@ -1,7 +1,7 @@
 // tag::DE[]
 === Prüfungsgespräch
 
-Nachdem die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewerten haben, laden sie alle Mitglieder der Themenarbeitsgruppe zu einem Einzelgespräch ein. Das Gespräch dauert etwa 30 Minuten und kann auch online durchgeführt werden. 
+Nachdem die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewerten haben, laden sie alle Mitglieder der Themenarbeitsgruppe zu einem individuellem Prüfungsgespräch ein. Das Prüfungsgespräch dauert zwischen 30 und 60 Minuten und kann auch online durchgeführt werden. 
 
 In dem Gespräch muss der Prüfling die Ergebnisse verteidigen und sein/ihr Wissen zu diesem Thema unter Beweis stellen.
 
@@ -10,7 +10,7 @@ In dem Gespräch muss der Prüfling die Ergebnisse verteidigen und sein/ihr Wiss
 // tag::EN[]
 === Oral Exam
 
-If the examiners have assessed the results positively, they invite each member of the topic working group to an individual oral exam (interview). The oral exam can be done online and lasts for thirty minutes.
+If the examiners have assessed the results positively, they invite each member of the topic working group to an individual oral exam (interview). The oral exam takes thirty to sixty minutes and can be done online.
 
 The examinee has to defend the results and must show that he/she has sufficient understanding of the topic
 

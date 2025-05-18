@@ -2,7 +2,7 @@
 === Zertifikat
 
 ==== Ausstellung
-Der Zertifizierer informiert den Prüfling über die Ergebnisse der Prüfung. Das Zertifikat erhält jemand, wenn folgende Bedingungen erfüllt sind:
+Der Zertifizierer informiert die Prüflinge über die Ergebnisse der Zertifizierung. Das Zertifikat erhält jemand, wenn folgende Bedingungen erfüllt sind:
 
 - Die Prüfer haben die Ergebnisse der Themenarbeitsgruppe als positiv beurteilt.
 - Die Prüfer haben das Prüfungsgespräch mit dem Bewerber als positiv beurteilt.
@@ -27,10 +27,12 @@ Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüf
 // tag::EN[]
 
 === Certificate
-The certifying body informs each member of the topic working group about the result and the reasoning. The following criteria must be satisfied for a member of the topic working group to receive the certificate:
+
+==== Issuing
+The certifying body informs the examinees about the results of the certification. The following criteria must be satisfied to receive the certificate:
 
 - The examiners have assessed the results of the subject working group as positive.
-- The examiners assessed the examination interview with the applicant as positive.
+- The examiners assessed the oral exam as positive.
 
 The certificate is issued for the working group’s topic.
 
@@ -38,7 +40,7 @@ People can obtain several Expert Level certifications by collaborating in severa
 
 The Expert Level certification is valid for an indefinite period.
 
-=== Objection
+==== Objection
 
 The examinee may object to the assessment within four weeks. The objection must be justified in writing and submitted to the certifying body.
 

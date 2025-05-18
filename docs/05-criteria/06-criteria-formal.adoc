@@ -166,7 +166,5 @@ that the findings have in practice?
 
 |===
 
-If the formal criteria are fulfilled, the topic moderator passes the results on to the certifying body selected by the topic working group.
-
 // end::EN[]
 

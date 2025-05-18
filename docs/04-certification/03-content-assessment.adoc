@@ -29,17 +29,17 @@ Die Themenarbeitsgruppe muss zur Zertifizierung folgende Ergebnisse beim Zertifi
 
 Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
 
-==== Bewertung durch zwei Prüfer
+==== Bewertung durch zwei Prüfer:innen
 
-Der Zertifizierer beauftragt zwei Prüfer:innen mit der Beurteilung der Ergebnisse. Die Prüfer:innen bewerten die Ergebnisse anhand der nachfolgenden inhaltlichen Kriterien. Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müssen 4 der 10 Punkte erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
+Der Zertifizierer beauftragt zwei Prüfer:innen mit der Beurteilung der Ergebnisse. Die Prüfer:innen bewerten die Ergebnisse anhand der nachfolgenden inhaltlichen Kriterien. 
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
+
+Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müssen 4 der 10 Punkte erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
 
 ==== Einmalige Nachbesserung
 
 Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, der Themenarbeitsgruppe die Zusatzkosten für die Prüfer in Rechnung stellen.
-
-Die ganze Prüfungsprozedur soll innerhalb von sechs Wochen abgeschlossen sein (ohne Nachbesserung). Der Zertifizierer informiert die Mitglieder der Themenarbeitsgruppe über die Ergebnisse und die Begründung.
 
 // end::DE[]
 
@@ -74,9 +74,11 @@ The topic working group permits iSAQB to publish their results. Each member of t
 
 ==== Assessment by Two Examiners
 
-The certifying body orders two examiners. The examiners use the subsequent content criteria to assess the results. At least 20 of the 30 points must be achieved. 4 out of 10 points must be achieved in each category. The examiners can provide justification for each criterion.
+The certifying body orders two examiners. The examiners use the subsequent content criteria to assess the results.
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
+
+At least 20 of the 30 points must be achieved. 4 out of 10 points must be achieved in each category. The examiners can provide justification for each criterion.
 
 ==== One-Time Retry
 
