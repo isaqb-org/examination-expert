@@ -1,0 +1,51 @@
+// tag::DE[]
+=== Zertifikat
+
+==== Ausstellung
+Der Zertifizierer informiert den Prüfling über die Ergebnisse der Prüfung. Das Zertifikat erhält jemand, wenn folgende Bedingungen erfüllt sind:
+
+- Die Prüfer haben die Ergebnisse der Themenarbeitsgruppe als positiv beurteilt.
+- Die Prüfer haben das Prüfungsgespräch mit dem Bewerber als positiv beurteilt.
+
+Das Zertifikat wird für das Thema der Themenarbeitsgruppe ausgestellt.
+
+Personen können mehrere Expert-Level-Zertifizierungen erlangen, indem sie in mehreren Themenarbeitsgruppen mitarbeiten.
+
+Die Gültigkeitsdauer der Expert-Level-Zertifizierung ist unbegrenzt.
+
+==== Einspruch
+Ein Prüfling kann innerhalb von vier Wochen beim Zertifizierer schriftlich Einspruch gegen die Bewertung erheben.
+
+Der Zertifizierer lost zwei neue Prüfer:innen aus und stellt ihnen die Protokolle zum Prüfungsverfahren und die Ergebnisse der Themenarbeitsgruppe zur Verfügung.
+
+Die Prüfer:innen des Einspruchs bestätigen die Bewertung oder sprechen eine neue Bewertung aus. Das Ergebnis des Einspruchsverfahrens ist nicht mehr anfechtbar.
+
+Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüfungsgespräch mit den neuen Prüfern:innen durchführen. Dafür hebt der Zertifizierer eine Gebühr von 1500 € zzgl. MwSt. ein.
+
+// end::DE[]
+
+// tag::EN[]
+
+=== Certificate
+The certifying body informs each member of the topic working group about the result and the reasoning. The following criteria must be satisfied for a member of the topic working group to receive the certificate:
+
+- The examiners have assessed the results of the subject working group as positive.
+- The examiners assessed the examination interview with the applicant as positive.
+
+The certificate is issued for the working group’s topic.
+
+People can obtain several Expert Level certifications by collaborating in several topic working groups.
+
+The Expert Level certification is valid for an indefinite period.
+
+=== Objection
+
+The examinee may object to the assessment within four weeks. The objection must be justified in writing and submitted to the certifying body.
+
+The certifying body picks two new examiners at random. The certifying body gives the new examiners access to the assessment protocols and topic working group outcomes.
+
+The objection examiners confirm the assessment or issue a new one. The result of the objection procedure cannot be contested.
+
+If the examiner issues a new assessment, the examinee can apply for a new oral exam for a fee of €1500 plus VAT.
+
+// end::EN[]

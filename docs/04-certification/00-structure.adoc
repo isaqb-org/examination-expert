@@ -1,14 +1,13 @@
 // tag::DE[]
-== Prüfung
+== Zertifizierung
 // end::DE[]
 
 // tag::EN[]
-== Examination
+== Certification
 // end::EN[]
 
-include::01-submit-result.adoc[{include_configuration}]
-include::02-examination.adoc[{include_configuration}]
-include::03-receive-certificate.adoc[{include_configuration}]
-include::04-retry.adoc[{include_configuration}]
-include::05-appeal.adoc[{include_configuration}]
-
+include::01-overview.adoc[{include_configuration}]
+include::02-formal-check.adoc[{include_configuration}]
+include::03-content-assessment.adoc[{include_configuration}]
+include::04-oral-exam.adoc[{include_configuration}]
+include::05-certification.adoc[{include_configuration}]
