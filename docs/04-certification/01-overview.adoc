@@ -1,0 +1,28 @@
+// tag::DE[]
+=== Übersicht
+Die Zertifizierung setzt sich aus diesen Schritten zusammen:
+
+1. Der/die Themenmoderator:in stellt sicher, dass die Ergebnisse formelle Kriterien erfüllen.
+2. Zwei Prüfer:innen bewerten die Ergebnisse der Themenarbeitsgruppe inhaltlich. Die Themenarbeitsgruppe kann eimmalig nachbessern.
+3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Prüfungsgespräch durch.
+4. Der Zertifizierer stellt die Zertifikate aus.
+
+Die gesamte Zertifizierung soll in sechs Wochen abgeschlossen (ohne Nachbesserugn und Einspruch).
+
+Die Details zu den Schritten werden in den folgenden Abschnitten beschrieben.
+
+// end::DE[]
+
+// tag::EN[]
+=== Overview
+The certification process comprises the subsequent steps:
+
+1. The topic moderator verifies that the results of the topic working group meet formal criteria.
+2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once.
+3. Two examiners conduct one-on-one verbal exams with each topic working group member.
+4. The certifying body issues the certificates.
+
+The entire certification process should be completed within six weeks, excluding rework and appeals.
+
+The following sections provide a more thorough description of the steps.
+// end::EN[]

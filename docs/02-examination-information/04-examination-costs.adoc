@@ -1,25 +1,17 @@
 // tag::DE[]
-=== Prüfungskosten
-Die Kosten für eine Zertifizierung im Expert Level setzen sich aus dem Aufwand für den/die gewählte:n Themenmoderator:in und die Zertifizierungsstelle zusammen.
-Die Preise können je nach Gruppengröße schwanken.
-Ungefähre Kostenschätzung für die gesamte Themenarbeitsgruppe:
+=== Kosten
+Die Kosten für eine Zertifizierung im Expert Level setzen sich aus dem Aufwand für den/die gewählte:n Themenmoderator:in, die Zertifizierungsstelle und den beiden Prüfern zusammen.
 
-- Kosten für Zertifizierungsstelle: 2600,- €
-- Kosten für Themenmoderator:in: circa 8000,- € (Angebote der für das EL akkreditierten
-Trainingsprovider können unterschiedlich ausfallen)
-- Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zusammenarbeit
-oder Extrakosten durch Nachbesserungen, sind nicht inkludiert und selbstorganisatorisch von der Themenarbeitsgruppe zu tragen.
+Die Kosten können je nach Gruppengröße schwanken, betragen aber mindestens 2.800 € pro Person.
+
+Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zusammenarbeit oder Extrakosten durch Nachbesserungen oder Einsprüche, sind nicht inkludiert und selbstorganisatorisch von der Themenarbeitsgruppe zu tragen.
 
 // end::DE[]
 
 // tag::EN[]
-=== Examination Costs
-The costs of certification at the Expert Level comprise the costs for the selected topic moderator and the certification body. The prices can vary depending on the size of the group. Rough cost estimate for the whole topic working group:
+=== Costs
+The costs of certification at the Expert Level comprise the costs for the selected topic moderator, the certification body and the two examiners. The prices can vary depending on the size of the group. The minimum cost per member of a working group is 2,800 €.
 
-- Costs for certification body: € 2600
-- Costs for the topic moderator: approx. € 8000 (quotations for the training providers accredited for the EL can vary)
-- Possible additional costs, e.g., for travel within the scope of the collaboration or extra costs due to corrections are not included and are to be borne by the topic working group itself.
-
-
+Possible additional costs, such as travel costs within the scope of the collaboration or e  xtra costs due to rework or objections, are not included and are to be borne by the topic working group itself.
 
 // end::EN[]

@@ -33,6 +33,9 @@ Prüfer:innen müssen folgende Eigenschaften haben:
 * Sie arbeiten auf Honorarbasis als Prüfer:innen.
 * Sie verfügen über ausreichend Zeit, um ihrer Arbeit als Prüfer:innen nachzugehen.
 
+| Prüfling
+| Ein Mitglied aus der Themenarbeitsgruppe, welche den Zertifizierungsprozess durchläuft.
+
 | Themenarbeitsgruppe
 | Arbeitsgruppe, die gebildet wird, um ein EL-Thema auszuarbeiten.
 Die Themenarbeitsgruppe setzt sich aus angenommenen Bewerber:innen für ein Thema zusammen.
@@ -53,7 +56,7 @@ Er/sie ist aktives Mitglied des iSAQB.
 | Trainingsprovider sind vom iSAQB akkreditierte "Schulungsanbieter" und "Schulungsdurchführer", die den/die Themenmoderator:in stellen.
 
 | Zertifizierer
-| Zertifizierer sind vom iSAQB akkreditierte Institute, welche die Prüfung der Ergebnisse einer Themenarbeitsgruppe organisieren und das Zertifikat CPSA-Expert Level ausstellen.
+| Zertifizierer sind vom iSAQB akkreditierte Institute. Sie organisieren den gesamten Prüfungsprozess und stellen das Zertifikat aus.
 
 |===
 
@@ -93,6 +96,9 @@ Examiners must have the following characteristics:
 - They work as examiners on a fee basis.
 - They have sufficient time to perform their work as examiners.
 
+| Examinee
+| A member of a topic working group who is going through the certification process.
+
 | Topic working group
 | Working group formed to work on an EL topic. The topic working group is composed of accepted candidates for a topic.
 
@@ -109,7 +115,7 @@ Examiners must have the following characteristics:
 | Training providers are “training facilitators” accredited by iSAQB who appoint the topic moderator.
 
 | Certifying body
-| Certifying bodies are institutes accredited by iSAQB that organize the examination of a topic working group’s results and issue the CPSA Expert Level certificate.
+| Certifying bodies are institutes accredited by the iSAQB. They organize the entire examination process and issue the certificate.
 
 |===
 

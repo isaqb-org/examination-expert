@@ -76,11 +76,6 @@
 | - Hat jedes Mitglied der Themenarbeitsgruppe einen Erfahrungsbericht abgegeben?
 - Sind alle Punkte in den Erfahrungsberichten ausgefüllt?
 
-| Mitarbeit
-| Muss
-| - Der/die Themenmoderator:in bestätigt, dass sich nach seiner / ihrer Wahrnehmung alle Mitglieder der Themenarbeitsgruppe ungefähr gleich intensiv eingebracht haben.
-- Alle Mitglieder der Themenarbeitsgruppe legen jeweils ein Arbeitsprotokoll vor, in dem sie ihre Tätigkeiten protokolliert haben.
-
 |===
 
 // end::DE[]
@@ -169,14 +164,7 @@ that the findings have in practice?
 | - Has each member of the topic working group submitted an experience report?
 - Are all the points in the experience report completed?
 
-| Collaboration
-| Essential
-| - The topic moderator confirms that, according to their perception, all members of the topic working group have contributed to approximately the same degree.
-- All members of the topic working group each present a work log, in which they have logged their activities.
-
 |===
-
-If the formal criteria are fulfilled, the topic moderator passes the results on to the certifying body selected by the topic working group.
 
 // end::EN[]
 
