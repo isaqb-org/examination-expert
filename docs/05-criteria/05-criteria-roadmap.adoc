@@ -1,6 +1,6 @@
 // tag::DE[]
 
-==== Kriterien für die Abnahme der Roadmap
+==== Kriterien für die Roadmap
 [cols="<3,<1,<7a"]
 |===
 | Kriterium | Pflicht | Beschreibung
