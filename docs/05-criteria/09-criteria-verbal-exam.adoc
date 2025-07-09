@@ -1,0 +1,77 @@
+// tag::DE[]
+
+==== Kriterien für Prüfungsgespräch
+
+[cols="<1,<1,<7a, <7a"]
+|===
+| Agenda | Dauer | Beschreibung | Kriterien
+
+| 1
+| 10-20 min
+| Der Prüfling präsentiert das Thema mit selbst erstellten Mitteln.
+|
+- Ergebnisse und Erkenntnisse schlüssig zusammengefasst
+- Roter Faden erkennbar, Zweckmäßigkeit und Folgerichtigkeit der Schritte
+- Angemessener Einsatz von Hilfsmitteln (Charts, Diagramme, Modelle, …)
+- Vortragstil (Sprache und Ausdruck)
+- Abbildungen leserlich und verständlich
+
+
+| 2
+| 10-20 min
+| Die Prüfer fragen Inhalte der Ergebnisse der Themenarbeitsgruppe ab.
+|
+- Fähigkeit, die Inhalte zu erklären und erläutern
+- Beantwortung von mindestens drei offenen Fragen
+- Komplexität und Tiefe der Antworten
+- Fragen umfassend beantwortet, sowie klar und nachvollziehbar dargestellt
+
+| 3
+| 10-20 min
+| Die Prüfer testen, ob der Prüfling die Inhalte verstanden hat, die Hintergründe kennt und Zusammenhänge versteht.
+|
+- Die eigene Meinung in der Diskussion gut und verständlich darstellen
+- Stellungnahme zur Kritik an den Ergebnissen der Themenarbeitsgruppe.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+==== Criteria for Verbal Exam
+
+[cols="<1,<1,<7a, <7a"]
+|===
+| Agenda | Duration | Description | Criteria
+
+| 1
+| 10-20 min
+| The examinee presents the topic with self-created resources.
+|
+- Results and findings conclusively summarized
+- Recognizable common thread, expediency and consistency of the steps
+- Appropriate use of ressources (charts, diagrams, models, ...)
+- Presentation style (language and expression)
+- Illustrations are legible and understandable
+
+
+| 2
+| 10-20 min
+| The examiners ask about the content of the results of the topic working group.
+|
+- Ability to explain and clarify the content
+- Answering at least three open questions
+- Complexity and depth of answers
+- Questions answered comprehensively and presented in a clear and logical manner.
+
+| 3
+| 10-20 min
+| The examiners test whether the candidate has understood the content, knows the background and understands the context.
+|
+- Present their own opinion well and comprehensibly in the discussion
+- Statement on the criticism of the results of the topic working group.
+
+|===
+
+
+// end::EN[]
