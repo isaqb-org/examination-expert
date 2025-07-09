@@ -1,10 +1,10 @@
 // tag::DE[]
 === Übersicht
-Die Zertifizierung setzt sich aus diesen Schritten zusammen:
+Die Zertifizierung erfolgt in diesen Schritten:
 
-1. Der/die Themenmoderator:in stellt sicher, dass die Ergebnisse formelle Kriterien erfüllen.
-2. Zwei Prüfer:innen bewerten die Ergebnisse der Themenarbeitsgruppe inhaltlich. Die Themenarbeitsgruppe kann eimmalig nachbessern.
-3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Prüfungsgespräch durch.
+1. Der/die Themenmoderator:in stellt sicher, dass die Ergebnisse der Themenarbeitsgruppe formelle Kriterien erfüllen.
+2. Zwei Prüfer:innen bewerten die Ergebnisse der Themenarbeitsgruppe inhaltlich. Die Themenarbeitsgruppe kann eimmalig nachbessern. Nur wenn die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewerten, dürfen die Mitglieder der Themenarbeitsgruppe am individuellen Prüfungsgespräch teilnehmen.
+3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Prüfungsgespräch durch. Da Zertifikate individuell ausgestellt werden, hängt das Ergebnis einer Zertifizierung alleinig vom individuellen Prüfungsgespräch ab.
 4. Der Zertifizierer stellt die Zertifikate aus.
 
 Die gesamte Zertifizierung soll in sechs Wochen abgeschlossen (ohne Nachbesserugn und Einspruch).
@@ -15,11 +15,11 @@ Die Details zu den Schritten werden in den folgenden Abschnitten beschrieben.
 
 // tag::EN[]
 === Overview
-The certification process comprises the subsequent steps:
+The certification is held in these steps:
 
 1. The topic moderator verifies that the results of the topic working group meet formal criteria.
-2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once.
-3. Two examiners conduct one-on-one verbal exams with each topic working group member.
+2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once. The topic working group members are permitted to participate in the individual verbal exam only if the examiners evaluate the results of the topic working group favorably.
+3. Two examiners conduct individual verbal exams with each topic working group member. As certificates are issued individually, the result of the certification depends solely on the individual verbal exam.
 4. The certifying body issues the certificates.
 
 The entire certification process should be completed within six weeks, excluding rework and appeals.
