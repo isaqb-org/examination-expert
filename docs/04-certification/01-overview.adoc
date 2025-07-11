@@ -15,10 +15,10 @@ Die Details zu den Schritten werden in den folgenden Abschnitten beschrieben.
 
 // tag::EN[]
 === Overview
-The certification is held in these steps:
+The certification process consists of the following steps:
 
 1. The topic moderator verifies that the results of the topic working group meet formal criteria.
-2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once. The topic working group members are permitted to participate in the individual verbal exam only if the examiners evaluate the results of the topic working group favorably.
+2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once. Only if the examiners approve the topic working group's results can its members join the individual exam interview.
 3. Two examiners conduct individual verbal exams with each topic working group member. As certificates are issued individually, the result of the certification depends solely on the individual verbal exam.
 4. The certifying body issues the certificates.
 
