@@ -1,23 +1,28 @@
 // tag::DE[]
 === Schritt 4: Roadmap erstellen
-Die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht.
-Der/die Themenmoderator:in kann hierbei unterstützen.
-Schließlich wird die Roadmap bei dem/der Themenmoderator:in eingereicht, welche:r diese anhand festgelegter Kriterien überprüft.
+Die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht. Der/die Themenmoderator:in unterstützt dabei und prüft, ob die Roadmap diese Kriterien erfüllt:
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-Gibt der/die Themenmoderator:in die Roadmap frei, kann die Themenarbeitsgruppe mit der Umsetzung beginnen.
-Bei Ablehnung der Roadmap hat die Themenarbeitsgruppe einen weiteren Versuch, die Roadmap zu verbessern und erneut abzugeben.
+Hat der/die Themenmoderator:in festgestellt, dass die Roadmap diesen Kriterien entspricht, leitet er/sie die Roadmap an die Prüfer weiter. Diese überprüfen, ob die in der Roadmap beschriebenen Arbeitsergebnisse verständlich und ausreichend beschrieben, sowie messbar sind. Die Prüfer ergänzen gegebenenfalls die Roadmap.
 
+Sind die Prüfer mit der Roadmap nicht zufrieden, kann die Themenarbeitsgruppe einmalig die Roadmap nachbessern.
+
+Die Themenarbeitsgruppe kann mit der Arbeit beginnen, sobald der/die Themenmoderator:in, sowie die Prüfer die Roadmap freigegeben haben.
 // end::DE[]
 
 // tag::EN[]
 === Step 4: Create Roadmap
-The topic working group creates a roadmap, in which they put down in writing their plan for their procedure in terms of content and timescale. The topic moderator can provide assistance here. The roadmap is ultimately submitted to the topic moderator, who assesses this based on specified criteria.
+The topic working group creates a roadmap, in which they put down in writing their plan for their procedure in terms of content and timescale. The topic moderator provides support and checks whether the roadmap fulfills these criteria:
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-If the topic moderator approves the roadmap, the topic working group can begin with implementation. If the roadmap is rejected, the topic working group has one further attempt to improve and re-submit the roadmap.
+After the topic moderator confirms that the roadmap meets the criteria, he/she forwards the roadmap to the examiners.
 
+The examiners verify that the intended results are measurable and adequately and clearly described. The examiners can adapt the roadmap if needed.
+
+If the examiners are not satisfied, the topic working group has one chance to submit an improved version of the roadmap.
+
+The topic working group can start working after the topic moderator and the examiners approved the roadmap.
 
 // end::EN[]
