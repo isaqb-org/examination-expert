@@ -1,6 +1,9 @@
 # Release Notes
-## New in 2023.1
-This is the initial release of the iSAQB® CPSA®-Expert Level examination criteria
+
+## New in 2025.7
+* The examiners review and adopt the roadmap. Having clear criteria for judging the work of the topic working group will help avoid disagreements.
+* The certification result is solely determined by the individual verbal exam.
+
 
 ## New in 2025.5
 * Added criteria that an applicant must meet in order to participate in the expert-level program.
@@ -12,4 +15,5 @@ This is the initial release of the iSAQB® CPSA®-Expert Level examination crite
 * Topic working group can improve the results once.
 * The examinee may object to the certification result.
 
-
+## New in 2023.1
+This is the initial release of the iSAQB® CPSA®-Expert Level examination criteria
