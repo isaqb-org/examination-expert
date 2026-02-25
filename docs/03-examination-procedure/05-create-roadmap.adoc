@@ -23,6 +23,6 @@ The examiners verify that the intended results are measurable and adequately and
 
 If the examiners are not satisfied, the topic working group has one chance to submit an improved version of the roadmap.
 
-The topic working group can start working after the topic moderator and the examiners approved the roadmap.
+The topic working group can start working after the topic moderator and the examiners approve the roadmap.
 
 // end::EN[]

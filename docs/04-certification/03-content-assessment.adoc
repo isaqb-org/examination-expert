@@ -39,7 +39,7 @@ Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müss
 
 ==== Einmalige Nachbesserung
 
-Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, der Themenarbeitsgruppe die Zusatzkosten für die Prüfer in Rechnung stellen.
+Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, der Themenarbeitsgruppe die Zusatzkosten für die Prüfer in Rechnung zu stellen.
 
 // end::DE[]
 
@@ -82,7 +82,7 @@ At least 20 of the 30 points must be achieved. 4 out of 10 points must be achiev
 
 ==== One-Time Retry
 
-If the examiner find out that the results don't meet the criteria, the topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
+If the examiner finds out that the results don't meet the criteria, the topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
 
 
 // end::EN[]

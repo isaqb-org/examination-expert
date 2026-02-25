@@ -1,7 +1,7 @@
 // tag::DE[]
 === Prüfungsgespräch
 
-Nachdem die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewerten haben, laden sie alle Mitglieder der Themenarbeitsgruppe zu einem individuellem Prüfungsgespräch ein. Das Prüfungsgespräch dauert zwischen 30 und 60 Minuten und kann auch online durchgeführt werden. 
+Nachdem die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewertet haben, laden sie alle Mitglieder der Themenarbeitsgruppe zu einem individuellen Prüfungsgespräch ein. Das Prüfungsgespräch dauert zwischen 30 und 60 Minuten und kann auch online durchgeführt werden. 
 
 In dem Gespräch muss der Prüfling die Ergebnisse verteidigen und sein/ihr Wissen zu diesem Thema unter Beweis stellen.
 

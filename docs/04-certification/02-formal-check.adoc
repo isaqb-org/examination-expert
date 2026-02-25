@@ -9,7 +9,7 @@ include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
 Wenn der/die Themenmoderator:in die Ergebnisse freigibt, reicht die Themenarbeitsgruppe die Ergebnisse beim Zertifizierer ein.
 
-Der Zertifizierer lässt nur jende Mitglieder zur Zertifizierung zu, welche die Kriterien zur Mitarbeit erfüllt haben. Hat ein Mitglied die Kriterien nicht erfüllt, bekommt er/sie die Kosten nicht zurückerstattet.
+Der Zertifizierer lässt nur jene Mitglieder zur Zertifizierung zu, welche die Kriterien zur Mitarbeit erfüllt haben. Hat ein Mitglied die Kriterien nicht erfüllt, bekommt er/sie die Kosten nicht zurückerstattet.
 
 // end::DE[]
 

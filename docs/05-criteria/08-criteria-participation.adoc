@@ -8,7 +8,7 @@
 
 | Zeitaufzeichnung
 | Muss
-| Die Mitglieder einer Themenarbeitsgruppe müssen ihre Tätigkeiten in einer zentralen und für alle einsehbaren Liste aufzeichen und dabei zumindest diese Informationen für jede Tätigkeit dokumentieren:
+| Die Mitglieder einer Themenarbeitsgruppe müssen ihre Tätigkeiten in einer zentralen und für alle einsehbaren Liste aufzeichnen und dabei zumindest diese Informationen für jede Tätigkeit dokumentieren:
 
 - Datum und Dauer
 - Tätigkeit

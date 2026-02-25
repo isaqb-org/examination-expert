@@ -11,8 +11,7 @@ Nach einer Freigabe durch den/die Themenverwalter:in stehen die Themen zur Bearb
 - Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
 - Sie erarbeiten mit anderen Expert:innen neues Wissen.
 - Sie zeigen Teamfähigkeit.
-- Sie tauschen sich mit anderen Expert:innen aus und bauen sich so ein Netzwerk für Ihre
-berufliche Zukunft auf.
+- Sie tauschen sich mit anderen Expert:innen aus und bauen so ein Netzwerk für Ihre berufliche Zukunft auf.
 - Sie präsentieren die Ergebnisse bei Konferenzen oder publizieren in Fachmagazinen.
 
 // end::DE[]
@@ -21,8 +20,7 @@ berufliche Zukunft auf.
 === Purpose and Intent
 During the CPSA-E, you and other candidates bring together experience-based knowledge from your project work. Together, you supplement this with additional expert knowledge, research, and a discussion between yourselves. You then present this knowledge via publications within the scope of the CPSA-E. You thus actively help to disseminate expert knowledge and improve software quality through your contribution, even in other projects.
 
-The topics were submitted in advance via the iSAQB website. Following approval by the topic admin-
-istrator, the topics are available to be worked on.
+The topics were submitted in advance via the iSAQB website. Following approval by the topic administrator, the topics are available to be worked on.
 
 === Objectives
 - You show that you are an expert in a specialist field of software architecture.

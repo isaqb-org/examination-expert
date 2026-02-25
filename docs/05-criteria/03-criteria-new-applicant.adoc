@@ -60,7 +60,7 @@ auch schwierige Herausforderungen in komplexen Umfeldern zu meistern.
 Das iSAQB^®^ kann auch Personen ohne Advanced-Level-Zertifikat als Bewerber:innen für den Expert Level zulassen, wenn sie eine der folgenden Kriterien erfüllen:
 
 - Personen, die als Koryphäe auf dem zu bearbeitenden Thema bekannt sind.
-- iSAQB-Mitglieder, die auf Grund ihrer Aufgabe beim iSAQB^®^ die Advanced-Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced-Level-Zertifizierung nicht machen können.
+- iSAQB-Mitglieder, die aufgrund ihrer Aufgabe beim iSAQB^®^ die Advanced-Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced-Level-Zertifizierung nicht machen können.
 
 Die Entscheidung, ob jemand die obigen Kriterien erfüllt, wird durch einen Mehrheitsbeschluss vom iSAQB Strategie-Council und den Mitgliedern der AG-EL gefällt.
 
@@ -96,10 +96,10 @@ Applicants justify their suitability for the topic by summarizing their knowledg
 |Applicants must confirm that they have the expert level certification, or they will get it until the topic group submits their results.
 
 |Practical Experience
-|Applicants can demonstrate at least 7 years of professional experience in the role of software architect within complex software projects. In particular, experience in architecture work that spans systems, domains, or organizational boundaries is required.
+|Applicants can demonstrate at least 7 years of professional experience in the role of software architect within complex software projects. In particular, experience in architectural work that spans systems, domains, or organizational boundaries is required.
 
 |Knowledge
-|A solid understanding and practical application of the core concepts of software architecture, as outlined in the iSAQB curricula for the Foundation and selected Advanced-Level topics. Specialization typically takes place in specific focus areas such as Domain-Driven Design, Cloud Architecture, Architecture Evaluation, Documentation, or Modernization, depending on the individual's expertise and project context.
+|A solid understanding and practical application of the core concepts of software architecture, as outlined in the iSAQB curricula for the Foundation and selected Advanced-Level topics. Specialization typically takes place in specific focus areas such as domain driven design, cloud architecture, architecture evaluation, documentation, or modernization, depending on the individual’s expertise and project context.
 
 |Knowledge Transfer and Community Contribution
 |Proof of knowledge transfer or community contribution, such as training and mentoring less experienced developers or architects, leading architecture or development teams, co-developing in open-source projects, as well as through publications or presentations.
@@ -128,10 +128,7 @@ Applicants justify their suitability for the topic by summarizing their knowledg
 
 ===== Why Are These Requirements Important?
 
-The CPSA-Expert Level not only validates technical expertise but also recognizes the ability to serve as a
-thought leader and expert within the software architecture community. Applicants must demonstrate their capacity to
-contribute to the evolution of the profession, going beyond architectural practice, and show that they can tackle
-complex challenges in dynamic and demanding environments.
+The CPSA-Expert Level validates technical expertise and recognizes the ability to serve as a thought leader and expert within the software architecture community. Applicants must demonstrate their capacity to contribute to the evolution of the profession, going beyond  architectural practice, and show that they can tackle complex challenges in dynamic and demanding environments.
 
 [NOTE]
 .The following criteria may come into operation in the future
@@ -141,9 +138,9 @@ iSAQB® may accept individuals as candidates for the expert level if they meet o
 - People who are distinguished experts on the topic.
 - Members of iSAQB^®^ who are not permitted to participate in the iSAQB^®^ Advanced Level Certification since they know the examination question.
 
-The iSAQB^®^ strategy council and the members of the iSAQB^®^ working group "Expert Level" make a majority decision on whether or not a person meets one of the stated requirements.
+The iSAQB^®^ strategy council and the members of the iSAQB^®^ working group "Expert Level" make a majority decision on whether a person meets one of the stated requirements.
 
-iSAQB^®^ is able to actively invite luminaries to participate in a topic group and refund the cost.
+iSAQB^®^ can actively invite luminaries to participate in a topic group and refund the cost.
 
 The experts must work in the chosen topic group as well. Nobody gets a certification without active and successful work in a topic group.
 ====

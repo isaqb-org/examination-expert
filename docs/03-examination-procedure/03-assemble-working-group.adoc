@@ -22,7 +22,7 @@ The candidates are welcome to promote the topic among colleagues and acquaintanc
 
 As soon as enough candidates for the topic working group are available, the certification body will inform the candidates about the start of the topic working group and send all the members` contact details to the topic working group.
 
-The topic working group chooses a training provider and informs the certification body about the selection. iSAQB publishes a list of accredited training provider.
+The topic working group chooses a training provider and informs the certification body about the selection. iSAQB publishes a list of accredited training providers.
 
 The training provider will provide a topic moderator for the topic working group.
 // end::EN[]

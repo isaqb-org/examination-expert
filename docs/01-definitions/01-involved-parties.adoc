@@ -11,7 +11,7 @@
 | iSAQB
 a| Der iSAQB e. V. stellt folgende Artefakte zur Verfügung:
 
-* Liste (offener) Themen, auf Website
+* Liste (offener) Themen auf der Website
 * Jahresbuch (sammelt, bindet, publiziert, übersetzt Papers, die in den Themenarbeitsgruppen final bearbeitet wurden)
 * Abgeschlossene Themen zum Download
 * Webseite zur Anmeldung für EL-Bewerber:innen
@@ -53,7 +53,7 @@ Er/sie organisiert gegebenenfalls Räume und Moderationsmaterial bei persönlich
 Er/sie ist aktives Mitglied des iSAQB.
 
 | Trainingsprovider
-| Trainingsprovider sind vom iSAQB akkreditierte "Schulungsanbieter" und "Schulungsdurchführer", die den/die Themenmoderator:in stellen.
+| Trainingsprovider sind vom iSAQB akkreditierte Schulungsanbieter und Schulungsdurchführer, die den/die Themenmoderator:in stellen.
 
 | Zertifizierer
 | Zertifizierer sind vom iSAQB akkreditierte Institute. Sie organisieren den gesamten Prüfungsprozess und stellen das Zertifikat aus.
@@ -76,7 +76,7 @@ People involved in the examination process
 | iSAQB
 | iSAQB e. V. makes the following artifacts available:
 
-- List of (open) topics, on the website
+- List of (open) topics on the website
 - Yearbook (collects, binds, publishes, and translates papers that were finally worked on in the topic working groups)
 - Completed topics for download
 - Website for registration for EL candidates

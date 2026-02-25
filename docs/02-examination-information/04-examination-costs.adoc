@@ -10,8 +10,8 @@ Eventuell zusätzlich anfallende Kosten, z.{nbsp}B. für Reisen im Rahmen der Zu
 
 // tag::EN[]
 === Costs
-The costs of certification at the Expert Level comprise the costs for the selected topic moderator, the certification body and the two examiners. The prices can vary depending on the size of the group. The minimum cost per member of a working group is 2,800 €.
+The costs of certification at the Expert Level comprise the costs for the selected topic moderator, the certification body, and the two examiners. The prices can vary depending on the size of the group. The minimum cost per member of a working group is € 2,800.
 
-Possible additional costs, such as travel costs within the scope of the collaboration or e  xtra costs due to rework or objections, are not included and are to be borne by the topic working group itself.
+Possible additional costs, such as travel expenses within the scope of the collaboration or extra costs due to rework or objections, are not included and are to be borne by the topic working group itself.
 
 // end::EN[]

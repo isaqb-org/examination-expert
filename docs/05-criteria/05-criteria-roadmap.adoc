@@ -7,7 +7,7 @@
 
 | Ziel, Mission
 | Muss
-| - Sind Ziel und Mission der Themenarbeitsgruppe verständlich beschrieben?
+| - Sind Ziele und Mission der Themenarbeitsgruppe verständlich beschrieben?
 
 | Themenarbeitsgruppe
 | Muss
@@ -77,7 +77,7 @@
 | - Is the mandatory article discussed?
 - Is at least one additional result stated (e.g., instructions, example, ...)?
 - Are the form and structure discussed for each result?
-- Does the topic working group attempt to presentthe results at at least one conference?
+- Does the topic working group attempt to present the results at at least one conference?
 - Does the topic working group attempt to publish the results in at least one trade publication?
 
 |===

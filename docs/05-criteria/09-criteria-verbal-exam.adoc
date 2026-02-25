@@ -19,7 +19,7 @@
 
 | 2
 | 10-20 min
-| Die Prüfer fragen Inhalte der Ergebnisse der Themenarbeitsgruppe ab.
+| Die Prüfer fragen die Inhalte der Ergebnisse der Themenarbeitsgruppe ab.
 |
 - Fähigkeit, die Inhalte zu erklären und erläutern
 - Beantwortung von mindestens drei offenen Fragen
@@ -49,8 +49,8 @@
 | The examinee presents the topic with self-created resources.
 |
 - Results and findings conclusively summarized
-- Recognizable common thread, expediency and consistency of the steps
-- Appropriate use of ressources (charts, diagrams, models, ...)
+- Recognizable common thread, expediency, and consistency of the steps
+- Appropriate use of resources (charts, diagrams, models, ...)
 - Presentation style (language and expression)
 - Illustrations are legible and understandable
 
@@ -66,9 +66,9 @@
 
 | 3
 | 10-20 min
-| The examiners test whether the candidate has understood the content, knows the background and understands the context.
+| The examiners test whether the candidate has understood the content, knows the background, and understands the context.
 |
-- Present their own opinion well and comprehensibly in the discussion
+- Present their opinion well and comprehensibly in the discussion.
 - Statement on the criticism of the results of the topic working group.
 
 |===

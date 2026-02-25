@@ -20,9 +20,9 @@ include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 === Step 5: Develop Topic
 The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
-The topic working group must set up a central repository where it saves all working results, for example a GIT repository or a Wiki. The topic moderator, the examiner and, on request, also the certifying body must have access to this repository.
+The topic working group must set up a central repository where it saves all working results, for example, a GIT repository or a Wiki. The topic moderator, the examiner, and, on request, also the certifying body must have access to this repository.
 
-The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes collection of data, literature research or writing. It is recommended that topic working groups publish their results at conferences or in professional journals. iSAQB will support and promote the publications.
+The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes the collection of data, literature research, or writing. It is recommended that topic working groups publish their results at conferences or in professional journals. iSAQB will support and promote the publications.
 
 To ensure that each member contributes to the working group to approximately the same extent, all members must record their activities. These criteria must be met:
 

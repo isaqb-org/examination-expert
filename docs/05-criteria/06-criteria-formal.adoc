@@ -46,7 +46,7 @@
 [lowerroman]
 ... Wird beschrieben, wie die Erkenntnisse interpretiert werden?
 ... Werden Fragen behandelt, welche sich aus den Ergebnissen ergeben?
-... Wird behandelt, welche Auswirkun- gen die Erkenntnisse auf die Praxis haben?
+... Wird behandelt, welche Auswirkungen die Erkenntnisse auf die Praxis haben?
 . Zusammenfassung
 [loweralpha]
 .. Werden alle Fragestellungen und deren Beantwortung kurz zusammengefasst?
@@ -54,15 +54,15 @@
 . Danksagung
 [loweralpha]
 .. Werden Unterstützer:innen angeführt?
-. Interessenskonflikte
-.. Werden Interessenskonflikte angeführt?
+. Interessenkonflikte
+.. Werden Interessenkonflikte angeführt?
 . Literaturliste
 .. Wird die gesamte verwendete Literatur aufgelistet?
 .. Wird korrekt zitiert?
 
 | Weiteres Ergebnis
 | Muss
-| - Erfüllen Form und Inhalt den Zweck des Ergebnisses (z.{nbsp}B. ein neues Muster nach der Mustersprache Kontext, Problem, Lösung)?
+| - Erfüllen Form und Inhalt den Zweck des Ergebnisses (z.{nbsp}B. ein neues Muster: Kontext, Problem, Lösung)?
 - Ist das Ergebnis verständlich beschrieben?
 - Ist ersichtlich, dass zur Erarbeitung des weiteren Ergebnisses mindestens zwei Personenwochen notwendig waren?
 
@@ -120,7 +120,7 @@
 .. Materials and methods
 [lowerroman]
 ... Is there a description of the information sources?
-... Is there a description of the methodsused to answer the  research question?
+... Is there a description of the methods used to answer the  research question?
 [loweralpha]
 .. Results
 [lowerroman]
@@ -135,7 +135,7 @@
 that the findings have in practice?
 . Summary
 [loweralpha]
-.. Is there a brief summary of all of the research questions and their answers?
+.. Is there a brief summary of all the research questions and their answers?
 .. Is there a brief discussion of the effects of the findings?
 . Acknowledgments
 [loweralpha]
@@ -145,7 +145,7 @@ that the findings have in practice?
 .. Are conflicts of interest mentioned?
 . Bibliography
 [loweralpha]
-.. Is there a list of all of the literature used?
+.. Is there a list of all the literature used?
 .. Is the literature cited correctly?
 
 | Additional result

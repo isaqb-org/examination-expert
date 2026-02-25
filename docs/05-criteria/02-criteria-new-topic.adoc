@@ -9,7 +9,7 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 
 |Originalität
 |Muss
-| Muss die Themengruppe neues Wissen oder Ergenntnisse erarbeiten?
+| Muss die Themengruppe neues Wissen oder Ergebnisse erarbeiten?
 
 Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wikipedia)?
 
@@ -19,7 +19,7 @@ Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wik
 
 |Innovation
 |Muss
-|Bringt das Thema neue Ideen und neues Wissen hervor, die von allgemeinem Interesse sind?
+|Bringt das Thema neue Ideen und neues Wissen hervor, das von allgemeinem Interesse ist?
 
 |Kreativität
 |Soll
@@ -56,7 +56,7 @@ A new topic must meet the following criteria:
 |Must
 | Will the topic group provide new knowledge or insights to the community?
 
-Is the topic not yet completely and publicly worked on (e.{nbsp}B. Wikipedia)?
+Is the topic not yet completely and publicly worked on (e.g. Wikipedia)?
 
 |Relevance
 |Must
@@ -68,7 +68,7 @@ Is the topic not yet completely and publicly worked on (e.{nbsp}B. Wikipedia)?
 
 |Creativity
 |Shall
-|Does the topic show creativity, e.g. through synergies, analogies, ideas?
+|Does the topic show creativity, e.g. through synergies, analogies, or ideas?
 
 |Effectiveness
 |Shall
