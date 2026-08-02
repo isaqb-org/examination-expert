@@ -1,0 +1,38 @@
+// tag::DE[]
+=== Kosten
+
+Die Kosten für die Zertifizierung werden durch den Zertifizierer und die Trainingsanbieter pro Leistung separat in Rechnung gestellt. Dadurch wird sichergestellt, dass Themenbearbeiter Seminare bei unterschiedlichen Trainingsanbietern besuchen können. Falls sich jemand dafür entscheidet, den Zertifizierungsprozess nicht zu beenden, fallen nur Kosten für bereits erbrachte Leistungen an.
+
+Die folgende Liste zeigt, welche Leistungserbringer welche Kosten in Rechnung stellen:
+
+* Zertifizierer:
+** Prüfung der Voraussetzungen
+** Verbesserung und Abnahme und Roadmap
+** Prüfung der Ergebnisse
+** Individuelles Prüfungsgespräch
+** Ausstellung des Zertifikats
+
+* Trainingsanbietern:
+** Teilnahme an Seminaren (mindestens 2)
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Costs
+
+The costs for certification are billed separately by the certifying body and the training providers for each service. This ensures that topic workers can attend seminars offered by different training providers. If someone decides not to complete the certification process, they will only be charged for services already used.
+
+The following list shows which services are billed::
+
+* Certifying Body:
+** Verification of prerequisites
+** Improvement and acceptance of the roadmap
+** Review of the results
+** Individual certification interview
+** Issuance of the certificate
+
+* Training Providers:
+** Participation in seminars (at least 2)
+
+// end::EN[]

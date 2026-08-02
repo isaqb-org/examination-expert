@@ -12,7 +12,7 @@
 // tag::EN[]
 // end::EN[]
 
-include::01-accreditation.adoc[{include_configuration}]
+include::01-criteria-accreditation.adoc[{include_configuration}]
 
 <<<
 
@@ -22,13 +22,10 @@ include::02-criteria-new-topic.adoc[{include_configuration}]
 
 include::03-criteria-new-applicant.adoc[{include_configuration}]
 
+
 <<<
 
 include::05-criteria-roadmap.adoc[{include_configuration}]
-
-<<<
-
-include::08-criteria-participation.adoc[{include_configuration}]
 
 <<<
 
@@ -37,3 +34,16 @@ include::06-criteria-formal.adoc[{include_configuration}]
 <<<
 
 include::07-criteria-content.adoc[{include_configuration}]
+
+<<<
+
+include::08-criteria-participation.adoc[{include_configuration}]
+
+
+<<<
+
+include::09-criteria-verbal-exam.adoc[{include_configuration}]
+
+<<<
+
+include::10-criteria-examiner.adoc[{include_configuration}]

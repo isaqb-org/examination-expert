@@ -1,0 +1,27 @@
+
+// tag::DE[]
+Prüfer:innen müssen folgende Eigenschaften haben:
+
+* Sie sind anerkannte Expert:innen in der Softwarearchitektur.
+* Sie haben breites und tiefes Wissen im Bereich der Softwarearchitektur.
+* Sie verfügen über ausreichend Zeit, um ihrer Arbeit als Prüfer:innen nachzugehen.
+
+Die iSAQB Arbeitsgruppe Expert Level ernennt die Prüfer:innen.
+
+Prüferinnen arbeiten auf Honorarbasis für die Zertifizierer.
+
+// end::DE[]
+
+// tag::EN[]
+
+Examiners must have the following characteristics:
+
+- They are recognized experts in software architecture.
+- They have extensive and in-depth knowledge in the field of software architecture.
+- They have sufficient time to perform their work as examiners.
+
+The iSAQB Expert Level Working Group appoints the examiners.
+
+They work on a freelance basis as examiners for the certification bodies.
+
+// end::EN[]

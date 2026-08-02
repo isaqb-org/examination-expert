@@ -2,10 +2,11 @@
 === Übersicht
 Die Zertifizierung erfolgt in diesen Schritten:
 
-1. Der/die Themenmoderator:in stellt sicher, dass die Ergebnisse der Themenarbeitsgruppe formelle Kriterien erfüllen.
-2. Zwei Prüfer:innen bewerten die Ergebnisse der Themenarbeitsgruppe inhaltlich. Die Themenarbeitsgruppe kann einmalig nachbessern. Nur wenn die Prüfer:innen die Ergebnisse der Themenarbeitsgruppe positiv bewerten, dürfen die Mitglieder der Themenarbeitsgruppe am individuellen Prüfungsgespräch teilnehmen.
-3. Zwei Prüfer:innen führen mit jedem Mitglied der Themenarbeitsgruppe ein Prüfungsgespräch durch. Da Zertifikate individuell ausgestellt werden, hängt das Ergebnis einer Zertifizierung alleinig vom individuellen Prüfungsgespräch ab.
-4. Der Zertifizierer stellt die Zertifikate aus.
+1. Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe stellt sicher, dass die Ziele der Roadmap erreicht wurden und die Ergebnisse die formellen Kriterien erfüllen.
+2. Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe reicht die Ergebnisse beim Zertifizierer ein, welcher diese ebenfalls auf die formellen Kriterien prüft.
+3. Zwei Prüfer:innen bewerten die Ergebnisse inhaltlich. Der/die Themenbearbeiter beziehungsweise die Themenarbeitsgruppe können einmalig nachbessern. Nur wenn die Prüfer:innen die Ergebnisse positiv bewerten, darf der/die Themenbearbeiter:in beziehungsweise dürfen die Mitglieder der Themenarbeitsgruppe am individuellen Prüfungsgespräch teilnehmen.
+4. Zwei Prüfer:innen führen ein individuelles Prüfungsgespräch durch. Da Zertifikate individuell ausgestellt werden, hängt das Ergebnis bei einer Zertifizierung von Mitgliedern von Themenarbeitsgruppen alleinig vom individuellen Prüfungsgespräch ab. 
+5. Der Zertifizierer stellt die Zertifikate aus.
 
 Die gesamte Zertifizierung soll in sechs Wochen abgeschlossen sein (ohne Nachbesserung und Einspruch).
 
@@ -17,12 +18,14 @@ Die Details zu den Schritten werden in den folgenden Abschnitten beschrieben.
 === Overview
 The certification process consists of the following steps:
 
-1. The topic moderator verifies that the results of the topic working group meet formal criteria.
-2. Two examiners evaluate the results according to the content criteria. The topic working group can improve the results once. Only if the examiners approve the topic working group's results can its members join the individual exam interview.
-3. Two examiners conduct individual verbal exams with each topic working group member. As certificates are issued individually, the result of the certification depends solely on the individual verbal exam.
-4. The certifying body issues the certificates.
+1. The topic worker or the toping working group verify that the roadmap’s objectives have been met and that the results meet the formal criteria.
+2. The topic worker or the topic working group submits the results to the certifying body, who checks them for compliance with the formal criteria.
+3. Two examiners evaluate the results according to the content criteria. The topic worker or topic working group can improve the results once. Only if the examiners evaluate the results positively may the topic coordinator or the members of the topic working group participate in the individual examination interview.
+4. Two examiners conduct an individual examination interview. Since certificates are issued individually, the outcome of certification for members of topic working groups depends solely on the individual certification interview.
+5. The certifying body issues the certificates.
 
 The entire certification process should be completed within six weeks, excluding rework and appeals.
 
 The following sections provide a more thorough description of the steps.
+
 // end::EN[]

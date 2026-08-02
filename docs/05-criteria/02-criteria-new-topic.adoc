@@ -7,11 +7,9 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 |===
 | Kriterium | Pflicht | Beschreibung
 
-|Originalität
-|Muss
-| Muss die Themengruppe neues Wissen oder Ergebnisse erarbeiten?
-
-Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wikipedia)?
+| Originalität
+| Muss
+| Können Erkenntnisse erzielt werden, die im Bereich der Software-Architektur bisher nicht allgemein bekannt sind?
 
 |Relevanz
 |Muss
@@ -54,7 +52,7 @@ A new topic must meet the following criteria:
 
 |Originality
 |Must
-| Will the topic group provide new knowledge or insights to the community?
+| Is it possible to gain insights that are not yet widely known in the field of software architecture?
 
 Is the topic not yet completely and publicly worked on (e.g. Wikipedia)?
 

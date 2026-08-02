@@ -1,13 +1,10 @@
 // tag::DE[]
 === Ziel und Zweck
-Beim CPSA-E tragen Sie mit anderen Bewerber:innen Erfahrungswissen aus Ihrer Projektarbeit zusammen.
-Gemeinsam ergänzen Sie dieses durch zusätzliches Expert:innenwissen, Recherchen und Austausch miteinander.
-Anschließend stellen Sie im Rahmen des CPSA-E dieses Wissen durch Veröffentlichungen vor.
-Somit tragen Sie aktiv dazu bei, dass Expert:innenwissen in die Breite getragen wird und sich die Softwarequalität durch Ihren Beitrag auch in anderen Projekten verbessert.
-Die Themen dazu wurden vorher über die Website des iSAQB eingereicht.
-Nach einer Freigabe durch den/die Themenverwalter:in stehen die Themen zur Bearbeitung zur Verfügung.
+Beim CPSA Expert Level (CPSA-E) verwenden Sie Ihr Wissen aus Foundation und Advanced Level sowie Ihre Erfahrungen, um ein Thema auszuarbeiten. Im Austausch mit anderen Expert:innen reift Ihr Wissen, Sie entdecken neue Bedeutungszusammenhänge und werden so zu einem/r Expert:in in einem Fachgebiet der Softwarearchitektur.
 
-==== Ziele
+Durch Veröffentlichung Ihrer Arbeitsergebnisse tragen Sie aktiv dazu bei, dass Expert:innenwissen in die Breite getragen wird und sich die Qualität der Softwarearchitekturen in anderen Organisationen verbessert.
+
+Ziele:
 - Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
 - Sie erarbeiten mit anderen Expert:innen neues Wissen.
 - Sie zeigen Teamfähigkeit.
@@ -18,11 +15,11 @@ Nach einer Freigabe durch den/die Themenverwalter:in stehen die Themen zur Bearb
 
 // tag::EN[]
 === Purpose and Intent
-During the CPSA-E, you and other candidates bring together experience-based knowledge from your project work. Together, you supplement this with additional expert knowledge, research, and a discussion between yourselves. You then present this knowledge via publications within the scope of the CPSA-E. You thus actively help to disseminate expert knowledge and improve software quality through your contribution, even in other projects.
+At the CPSA Expert Level (CPSA-E), you’ll apply the knowledge you’ve gained at the Foundation and Advanced Levels, along with your experience, to work on a specific topic. Through dialogue with other experts, your knowledge will deepen, you’ll discover new connections, and you’ll become an expert in a specialized area of software architecture.
 
-The topics were submitted in advance via the iSAQB website. Following approval by the topic administrator, the topics are available to be worked on.
+By publishing the results of your work, you actively contribute to spreading expert knowledge more widely and, through your contribution, help improve the quality of software architectures in other organisations as well.
 
-=== Objectives
+Objectives:
 - You show that you are an expert in a specialist field of software architecture.
 - You develop new knowledge with other experts.
 - You show the ability to work in a team.

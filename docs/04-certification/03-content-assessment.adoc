@@ -1,37 +1,9 @@
 // tag::DE[]
 === Inhaltliche Prüfung
 
-==== Einreichung
-
-Die Themenarbeitsgruppe muss zur Zertifizierung folgende Ergebnisse beim Zertifizierer einreichen:
-
-[cols="<3,<1,<7a"]
-|===
-| Kriterium | Pflicht | Beschreibung
-
-| Artikel
-| Muss
-| Der Artikel beschreibt die Ergebnisse der Themenarbeitsgruppe. Das iSAQB stellt eine Vorlage bereit.
-
-| Weiteres Ergebnis
-| Muss
-| Die Themenarbeitsgruppe muss mindestens ein frei wählbares weiteres Ergebnis ausarbeiten, wie z.{nbsp}B. Anleitungen, Best Practices, Auswertungen von Umfragen.
-
-| Einreichungen
-| Soll
-| Die Themenarbeitsgruppe soll ihre Ergebnisse auf Konferenzen einreichen oder in Fachzeitschriften publizieren. Zum Nachweis gibt die Themenarbeitsgruppe etwa ein Abstract oder eine Kopie eines veröffentlichten Artikels ab.
-
-| Erfahrungsbericht
-| Muss
-| Jedes Mitglied einer Themenarbeitsgruppe erstellt einen Erfahrungsbericht, damit das iSAQB die Prozesse weiterentwickeln kann. Das iSAQB stellt dazu eine Vorlage bereit.
-
-|===
-
-Die Themenarbeitsgruppe genehmigt dem iSAQB die Veröffentlichung ihrer Ergebnisse. Ebenso kann jedes Mitglied der Themenarbeitsgruppe die Ergebnisse unter Angabe der Mitwirkenden und des iSAQB frei verwerten. Das iSAQB veröffentlicht unter Benennung aller Beteiligten den Artikel auf seinen Seiten und übersetzt diesen in verschiedene Sprachen.
-
 ==== Bewertung durch zwei Prüfer:innen
 
-Der Zertifizierer beauftragt zwei Prüfer:innen mit der Beurteilung der Ergebnisse. Die Prüfer:innen bewerten die Ergebnisse anhand der nachfolgenden inhaltlichen Kriterien. 
+Der Zertifizierer beauftragt zwei Prüfer:innen mit der inhaltlichen Beurteilung der Ergebnisse. Die Prüfer:innen bewerten die Ergebnisse anhand der nachfolgenden inhaltlichen Kriterien. 
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
@@ -39,42 +11,16 @@ Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müss
 
 ==== Einmalige Nachbesserung
 
-Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, der Themenarbeitsgruppe die Zusatzkosten für die Prüfer in Rechnung zu stellen.
+Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht entsprechen, kann der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe einmalig nachbessern. Es steht dem Zertifizierer frei, die Zusatzkosten für die Prüfer in Rechnung zu stellen.
 
 // end::DE[]
 
 // tag::EN[]
 === Content Assessment
-==== Submission
-A topic working group must submit the following results to the certification body:
-
-[cols="<3,<1,<7a"]
-|===
-| Result | Requirement | Description
-
-| Article
-| Essential
-| The article describes the results of the topic working group.  iSAQB provides a template.
-
-| Additional result
-| Essential
-| The topic working group must create at least one freely selectable additional result, such as instructions, best practices, and evaluations of surveys.
-
-| Submissions
-| Desired
-| The topic working group should submit their results to conferences or publish them in professional journals. As evidence, the topic working group submits an abstract or a copy of the published article.
-
-| Experience report
-| Essential
-| Each member of a topic working group creates an experience report to enable iSAQB to further develop the processes. iSAQB provides a template for this.
-
-|===
-
-The topic working group permits iSAQB to publish their results. Each member of the topic working group can also use the results freely, stating the collaborators and iSAQB. iSAQB publishes the article on its pages, naming all of those involved, and translates it into various languages.
 
 ==== Assessment by Two Examiners
 
-The certifying body orders two examiners. The examiners use the subsequent content criteria to assess the results.
+The certifying body assigns two examiners to assess the content of the results. The examiners use the subsequent content criteria to assess the results.
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
@@ -82,7 +28,7 @@ At least 20 of the 30 points must be achieved. 4 out of 10 points must be achiev
 
 ==== One-Time Retry
 
-If the examiner finds out that the results don't meet the criteria, the topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
+If the examiner finds out that the results don't meet the criteria, the topic worker or topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
 
 
 // end::EN[]

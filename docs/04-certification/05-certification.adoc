@@ -4,14 +4,15 @@
 ==== Ausstellung
 Der Zertifizierer informiert die Prüflinge über die Ergebnisse der Zertifizierung. Das Zertifikat erhält jemand, wenn folgende Bedingungen erfüllt sind:
 
-- Die Prüfer haben die Ergebnisse der Themenarbeitsgruppe als positiv beurteilt.
-- Die Prüfer haben das Prüfungsgespräch mit dem Bewerber als positiv beurteilt.
+- Die Prüfer:innen haben die Ergebnisse (der Themenarbeitsgruppe) als positiv beurteilt.
+- Die Prüfer:innen haben das Prüfungsgespräch mit dem Bewerber als positiv beurteilt.
 
-Das Zertifikat wird für das Thema der Themenarbeitsgruppe ausgestellt.
+Das Zertifikat wird für die Sparte und das Thema ausgestellt. Die Person darf sich als iSAQB-zertifizierte(r) Expert:in für die Sparte bezeichnen.
 
-Personen können mehrere Expert-Level-Zertifizierungen erlangen, indem sie in mehreren Themenarbeitsgruppen mitarbeiten.
+Personen können mehrere Expert-Level-Zertifizierungen erlangen.
 
 Die Gültigkeitsdauer der Expert-Level-Zertifizierung ist unbegrenzt.
+
 
 ==== Einspruch
 Ein Prüfling kann innerhalb von vier Wochen beim Zertifizierer schriftlich Einspruch gegen die Bewertung erheben.
@@ -20,7 +21,7 @@ Der Zertifizierer lost zwei neue Prüfer:innen aus und stellt ihnen die Protokol
 
 Die Prüfer:innen des Einspruchs bestätigen die Bewertung oder sprechen eine neue Bewertung aus. Das Ergebnis des Einspruchsverfahrens ist nicht mehr anfechtbar.
 
-Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüfungsgespräch mit den neuen Prüfern:innen durchführen. Dafür hebt der Zertifizierer eine Gebühr von 1500 € zzgl. MwSt. ein.
+Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüfungsgespräch mit den neuen Prüfer:innen durchführen. Dafür hebt der Zertifizierer eine Gebühr von 1500 € zzgl. MwSt. ein.
 
 // end::DE[]
 
@@ -31,12 +32,12 @@ Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüf
 ==== Issuing
 The certifying body informs the examinees about the results of the certification. The following criteria must be satisfied to receive the certificate:
 
-- The examiners have assessed the results of the subject working group as positive.
+- The examiners have assessed the results (of the topic working group) as positive.
 - The examiners assessed the oral exam as positive.
 
-The certificate is issued for the working group’s topic.
+The certificate is issued for the area and the topic. The person may refer to themselves as an iSAQB-certified expert in the field.
 
-People can obtain several Expert Level certifications by collaborating in several topic working groups.
+People can obtain several Expert Level certifications.
 
 The Expert Level certification is valid for an indefinite period.
 

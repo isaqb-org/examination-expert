@@ -11,7 +11,7 @@
 
 | Themenarbeitsgruppe
 | Muss
-| - Sind die Kontaktdaten aller Mitglieder der Themenarbeitsgruppe angeführt?
+| - Nur bei Arbeit in einer Themenarbeitsgruppe: Sind die Kontaktdaten aller Mitglieder der Themenarbeitsgruppe angeführt?
 
 | Vorgehensweise
 | Muss
@@ -54,7 +54,7 @@
 
 | Topic working group
 | Essential
-| - Are the contact details of all members of the topic working group stated?
+| - Only for topic working groups: Are the contact details of all members of the topic working group stated?
 
 | Procedure
 | Essential

@@ -1,23 +1,23 @@
 // tag::DE[]
 ==== Kriterien für neue Bewerber:innen
 
-Das CPSA-Expert Level (CPSA-E) ist die höchste Qualifizierungsstufe des iSAQB und richtet sich an äußerst erfahrene Softwarearchitekt:innen. Die Anforderungen und Voraussetzungen sind entsprechend anspruchsvoll und fokussieren sich auf fundierte Erfahrung, tiefgehende Expertise sowie die Fähigkeit, neue Lösungswege zu entwickeln und die Community zu bereichern.
-
 Bewerber:innen müssen folgende Kriterien erfüllen, um in einer Themenarbeitsgruppe mitarbeiten zu dürfen:
 
 ===== Wissen und Praxiserfahrung
 
-Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und ihre Praxiserfahrung zusammenfassen.
+Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und ihre Praxiserfahrung zusammenfassen und Zertifikate einreichen.
 
 [cols="<3,<7a"]
 |===
 | Kriterium | Beschreibung
 
 |Advanced Level
-|Bewerber:innen müssen bestätigen, dass sie spätestens bis zur Einreichung der Expert-Level-Arbeit über das Advanced-Level-Zertifikat verfügen.
+|Bewerber:innen müssen bestätigen, dass sie über das Advanced-Level-Zertifikat verfügen.
+
+Das Thema der Expert-Level-Zertifizierung muss inhaltlich zur Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced-Level-Zertifizierung gewählt hat.
 
 |Praxiserfahrung
-|Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle Softwarearchitekt in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrung in der system-, domänen- oder organisationsübergreifende Archiekturarbeit notwendig.
+|Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle als Softwarearchitekt:innen in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrungen in der system-, domänen- oder organisationsübergreifende Architekturarbeit notwendig.
 
 |Wissen
 |Solides Verständnis und praktische Anwendung der grundlegenden Konzepte der Softwarearchitektur gemäß den iSAQB-Lehrplänen für das Foundation- und ausgewählte Advanced-Level-Themen. Vertiefung erfolgt typischerweise in spezifischen Schwerpunktbereichen wie z.B. Domain-Driven Design, Cloud-Architektur, Architekturbewertung, -dokumentation oder -modernisierung, je nach individuellem Profil und Projektkontext.
@@ -66,7 +66,7 @@ Die Entscheidung, ob jemand die obigen Kriterien erfüllt, wird durch einen Mehr
 
 Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzuarbeiten und kann ihnen dafür die Kosten erstatten.
 
-Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in einer Themenarbeitsgruppe und einer erfolgreichen Zertifizierung erhält niemand das EL-Zertifikat.
+Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Arbeit an einem Thema erhält niemand das EL-Zertifikat.
 ====
 
 
@@ -76,24 +76,20 @@ Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Mitarbeit in e
 // tag::EN[]
 ==== Criteria for New Applicants
 
-The CPSA-Expert Level (CPSA-E) is the highest qualification level awarded by the iSAQB.
-It is aimed at highly skilled and experienced software architects.
-The requirements for applicants are demanding: they must demonstrate long-term experience,
-have a clear area of expertise, be capable of developing innovative approaches and solution strategies,
-and actively contribute to the professional community.
-
 To be eligible to participate in a topic group, applicants must satisfy the following criteria:
 
 ==== Knowledge and Practical Experience
 
-Applicants justify their suitability for the topic by summarizing their knowledge and practical experience.
+Applicants justify their suitability for the topic by summarizing their knowledge and practical experience and submitting certificates.
 
 [cols="<3,<7a"]
 |===
 | Criterion | Description
 
 |Advanced Level Certifications
-|Applicants must confirm that they have the expert level certification, or they will get it until the topic group submits their results.
+|Applicants must confirm that they have the expert level certification.
+
+The topic of the Expert-Level certification must align in content with the specialization the applicant selected as part of the Advanced-Level certification.
 
 |Practical Experience
 |Applicants can demonstrate at least 7 years of professional experience in the role of software architect within complex software projects. In particular, experience in architectural work that spans systems, domains, or organizational boundaries is required.
@@ -142,7 +138,7 @@ The iSAQB^®^ strategy council and the members of the iSAQB^®^ working group "E
 
 iSAQB^®^ can actively invite luminaries to participate in a topic group and refund the cost.
 
-The experts must work in the chosen topic group as well. Nobody gets a certification without active and successful work in a topic group.
+The experts must work in the chosen topic group as well. Nobody gets a certification without active and successful work on a topic.
 ====
 
 // end::EN[]

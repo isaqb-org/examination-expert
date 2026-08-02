@@ -1,6 +1,6 @@
 // tag::DE[]
 
-==== Inhaltliche Kriterien
+==== Inhaltliche Kriterien für Ergebnisse
 
 [cols="<3,<7a"]
 |===
@@ -37,7 +37,7 @@
 
 // tag::EN[]
 
-==== Content Criteria
+==== Content Criteria for Results
 
 [cols="<3,<7a"]
 |===

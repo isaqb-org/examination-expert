@@ -1,23 +1,21 @@
 // tag::DE[]
 === Formelle Prüfung
 
-Ist die Roadmap erfüllt, gibt die Themenarbeitsgruppe ihre Ergebnisse bei dem/der Themenmoderator:in ab.
+Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe stellen sicher, dass die Ziele der Roadmap erreicht wurden und die Ergebnisse die formellen Kriterien erfüllen.
 
-Der/die Themenmoderator:in prüft die Ergebnisse nach den folgenden formellen Kriterien und fordert gegebenenfalls von der Themenarbeitsgruppe Nachbesserungen ein.
+Danach können die Ergebnisse beim Zertifizierer eingereicht werden, welcher diese ebenfalls auf folgende formelle Kriterien prüft.
 
 include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
-Wenn der/die Themenmoderator:in die Ergebnisse freigibt, reicht die Themenarbeitsgruppe die Ergebnisse beim Zertifizierer ein.
-
-Der Zertifizierer lässt nur jene Mitglieder zur Zertifizierung zu, welche die Kriterien zur Mitarbeit erfüllt haben. Hat ein Mitglied die Kriterien nicht erfüllt, bekommt er/sie die Kosten nicht zurückerstattet.
+Der Zertifizierer lässt nur jene Mitglieder zur Zertifizierung zu, welche die Kriterien zur Mitarbeit erfüllt haben. Hat ein Mitglied die Kriterien nicht erfüllt, bekommt er/sie die bisher angefallenen Kosten nicht zurückerstattet.
 
 // end::DE[]
 
 // tag::EN[]
 === Formal Check
-Once the roadmap has been fulfilled, the topic working group submits its results to the topic moderator.
+The topic worker or the topic working group ensures that the roadmap’s objectives have been met and that the results meet the formal criteria.
 
-The topic moderator assesses the results according to subsequent formal criteria and, if necessary, requests corrections.
+The results can then be submitted to the certifying body, which also reviews them against the following formal criteria:
 
 include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
