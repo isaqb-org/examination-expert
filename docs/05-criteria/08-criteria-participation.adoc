@@ -17,7 +17,7 @@
 
 | Gesamtarbeitszeit
 | Muss
-| Ein(e) Themenbearbeiter:in beziehungsweise jedes Mitglied einer Themenarbeitsgruppe muss zumindest 40 Stunden am Thema gearbeitet haben.
+| Ein:e Themenbearbeiter:in beziehungsweise jedes Mitglied einer Themenarbeitsgruppe muss zumindest 40 Stunden am Thema gearbeitet haben.
 |===
 
 Für Themenarbeitsgruppen gelten zusätzlich noch diese Kriterien:
@@ -33,15 +33,15 @@ Für Themenarbeitsgruppen gelten zusätzlich noch diese Kriterien:
 
 | Abweichung vom Gruppenmittelwert
 | Muss
-| Ein Mittelwert gibt Auskunft, wie viele Stunden im Durchschnitt jedes Mitglied in der Themenarbeitsgruppe mitgearbeitet hat. Jedes Mitglied muss mindestens 60 % des Gruppenmittelwertes mitgearbeitet haben.
+| Ein Mittelwert gibt an, wie viele Stunden im Durchschnitt jedes Mitglied in der Themenarbeitsgruppe mitgearbeitet hat. Jedes Mitglied muss mindestens 60 % des Gruppenmittelwerts mitgearbeitet haben.
 
 | Unterschiedliche Tätigkeitsarten
 | Muss
-| Ein Mitglied darf nur bis zu 20 % der Stunden für organisatorische Tätigkeiten anrechnen.
+| Ein Mitglied darf maximal 20 % der Stunden für organisatorische Tätigkeiten anrechnen.
 
 | Drei Tätigkeitsarten
 | Muss
-| Jedes Mitglied muss mindestens drei verschiedene Tätigkeitsarten ausgeführt haben, u. a.
+| Jedes Mitglied muss mindestens drei verschiedene Tätigkeitsarten ausgeführt haben, u. a.:
 
 * Organisation
 * Recherche

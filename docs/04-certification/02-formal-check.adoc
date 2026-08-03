@@ -1,7 +1,7 @@
 // tag::DE[]
 === Formelle Prüfung
 
-Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe stellen sicher, dass die Ziele der Roadmap erreicht wurden und die Ergebnisse die formellen Kriterien erfüllen.
+Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe stellt sicher, dass die Ziele der Roadmap erreicht wurden und die Ergebnisse die formellen Kriterien erfüllen.
 
 Danach können die Ergebnisse beim Zertifizierer eingereicht werden, welcher diese ebenfalls auf folgende formelle Kriterien prüft.
 

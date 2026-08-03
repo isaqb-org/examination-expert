@@ -8,7 +8,7 @@
 
 | Artikel
 | Muss
-| Hat der Artikel die folgende Struktur und den folgenden Inhalt?
+| Hat der Artikel folgende Struktur und folgenden Inhalt?
 
 . Titel
 [loweralpha]
@@ -57,7 +57,7 @@
 . Interessenkonflikte
 .. Werden Interessenkonflikte angeführt?
 . Literaturliste
-.. Wird die gesamte verwendete Literatur aufgelistet?
+.. Ist die verwendete Literatur aufgelistet?
 .. Wird korrekt zitiert?
 
 | Weiteres Ergebnis
@@ -73,7 +73,7 @@
 
 | Versionierte Ergebnisse
 | Muss
-| Die Ergebnisse müssen mit einer Versionshistorie abgegeben werden, damit die Prüfer:innen nachvollziehen können, dass die Ergebnisse tatsächlich von Themenbearbeiter:innen erarbeitet wurden und nicht durch künstliche Intelligenz entstanden sind.
+| Die Ergebnisse müssen versioniert abgegeben werden, damit die Prüfer:innen nachvollziehen können, dass sie tatsächlich von den Themenbearbeiter:innen erarbeitet und nicht durch künstliche Intelligenz generiert wurden.
 
 | Erfahrungsbericht
 | Muss

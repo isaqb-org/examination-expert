@@ -1,16 +1,16 @@
 // tag::DE[]
 === Schritt 4: Roadmap erstellen
 
-Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht. 
+Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlichen. 
 
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-Der/die Themenbearbeiter oder die Themenarbeitsgruppe reichen die Roadmap beim Zertifizierer ein, welcher sie an die Prüfer weiterleitet. Diese überprüfen, ob die in der Roadmap beschriebenen Arbeitsergebnisse verständlich, ausreichend beschrieben sowie messbar sind. Die Prüfer ergänzen gegebenenfalls die Roadmap.
+Der/die Themenbearbeiter oder die Themenarbeitsgruppe reicht die Roadmap beim Zertifizierer ein, welcher sie an die Prüfer weiterleitet. Diese überprüfen, ob die in der Roadmap beschriebenen Arbeitsergebnisse verständlich, ausreichend beschrieben sowie messbar sind. Die Prüfer:innen ergänzen gegebenenfalls die Roadmap.
 
-Sollten die Prüfer mit der Roadmap nicht zufrieden sein, kann der/die Themenbearbeiter:in oder die Themenarbeitsgruppe die Roadmap einmalig nachbessern.
+Sollten die Prüfer:innen mit der Roadmap nicht zufrieden sein, kann der/die Themenbearbeiter:in oder die Themenarbeitsgruppe die Roadmap einmalig nachbessern.
 
-Erst wenn die Prüfer die Roadmap freigegeben haben, kann der/die Themenbearbeiter:in bzw. die Themenarbeitsgruppe mit der Arbeit beginnen.
+Erst wenn die Prüfer:innen die Roadmap freigegeben haben, kann der/die Themenbearbeiter:in bzw. die Themenarbeitsgruppe mit der Arbeit beginnen.
 
 // end::DE[]
 

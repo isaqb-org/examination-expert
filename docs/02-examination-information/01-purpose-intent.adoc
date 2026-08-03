@@ -1,14 +1,14 @@
 // tag::DE[]
 === Ziel und Zweck
-Beim CPSA Expert Level (CPSA-E) verwenden Sie Ihr Wissen aus Foundation und Advanced Level sowie Ihre Erfahrungen, um ein Thema auszuarbeiten. Im Austausch mit anderen Expert:innen reift Ihr Wissen, Sie entdecken neue Bedeutungszusammenhänge und werden so zu einem/r Expert:in in einem Fachgebiet der Softwarearchitektur.
+Beim CPSA Expert Level (CPSA-E) verwenden Sie Ihr Wissen aus Foundation und Advanced Level sowie Ihre Erfahrungen, um ein Thema auszuarbeiten. Im Austausch mit anderen Expert:innen reift Ihr Wissen, Sie entdecken neue Bedeutungszusammenhänge und werden so zu einer Expert:in in einem Fachgebiet der Softwarearchitektur.
 
 Durch Veröffentlichung Ihrer Arbeitsergebnisse tragen Sie aktiv dazu bei, dass Expert:innenwissen in die Breite getragen wird und sich die Qualität der Softwarearchitekturen in anderen Organisationen verbessert.
 
 Ziele:
 - Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
 - Sie erarbeiten mit anderen Expert:innen neues Wissen.
-- Sie zeigen Teamfähigkeit.
-- Sie tauschen sich mit anderen Expert:innen aus und bauen so ein Netzwerk für Ihre berufliche Zukunft auf.
+- Sie zeigen, dass Sie teamfähig sind.
+- Sie tauschen sich mit anderen Expert:innen aus und bauen so ein berufliche Netzwerk auf.
 - Sie präsentieren die Ergebnisse bei Konferenzen oder publizieren in Fachmagazinen.
 
 // end::DE[]

@@ -7,7 +7,7 @@ Der Zertifizierer beauftragt zwei Prüfer:innen mit der inhaltlichen Beurteilung
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
-Es müssen mindestens 20 der 30 Punkte erreicht werden. In jeder Kategorie müssen 4 der 10 Punkte erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
+Es müssen mindestens 20 von 30 Punkten erreicht werden. In jeder Kategorie müssen mindestens 4 von 10 Punkten erreicht werden. Für jedes Kriterium können die Prüfer:innen eine Begründung angeben.
 
 ==== Einmalige Nachbesserung
 

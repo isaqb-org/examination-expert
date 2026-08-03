@@ -7,7 +7,7 @@ Der Zertifizierer informiert die Prüflinge über die Ergebnisse der Zertifizier
 - Die Prüfer:innen haben die Ergebnisse (der Themenarbeitsgruppe) als positiv beurteilt.
 - Die Prüfer:innen haben das Prüfungsgespräch mit dem Bewerber als positiv beurteilt.
 
-Das Zertifikat wird für die Sparte und das Thema ausgestellt. Die Person darf sich als iSAQB-zertifizierte(r) Expert:in für die Sparte bezeichnen.
+Das Zertifikat wird für die gewählte Sparte und das bearbeitete Thema. Die Person darf sich als iSAQB-zertifizierte Expert:in für die Sparte bezeichnen.
 
 Personen können mehrere Expert-Level-Zertifizierungen erlangen.
 
@@ -21,7 +21,7 @@ Der Zertifizierer lost zwei neue Prüfer:innen aus und stellt ihnen die Protokol
 
 Die Prüfer:innen des Einspruchs bestätigen die Bewertung oder sprechen eine neue Bewertung aus. Das Ergebnis des Einspruchsverfahrens ist nicht mehr anfechtbar.
 
-Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüfungsgespräch mit den neuen Prüfer:innen durchführen. Dafür hebt der Zertifizierer eine Gebühr von 1500 € zzgl. MwSt. ein.
+Geben die Prüfer:innen dem Einspruch statt, kann der Prüfling erneut ein Prüfungsgespräch mit den neuen Prüfer:innen führen. Dafür hebt der Zertifizierer eine Gebühr von 1500 € zzgl. MwSt. ein.
 
 // end::DE[]
 
@@ -35,7 +35,7 @@ The certifying body informs the examinees about the results of the certification
 - The examiners have assessed the results (of the topic working group) as positive.
 - The examiners assessed the oral exam as positive.
 
-The certificate is issued for the area and the topic. The person may refer to themselves as an iSAQB-certified expert in the field.
+The certificate is issued for the selected area and the topic.The person may refer to themselves as an iSAQB-certified expert in the field.
 
 People can obtain several Expert Level certifications.
 

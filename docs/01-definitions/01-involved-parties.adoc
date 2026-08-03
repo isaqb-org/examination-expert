@@ -15,10 +15,10 @@
 | Arbeitsgruppe der iSAQB, welche den Expert Level entwickelt und betreut.
 
 | Prüfer:in
-| Prüfer:innen werden von der AG Expert Level ernannt und arbeiten für die Zertifizierer.
+| Prüfer:innen werden von der AG Expert Level ernannt und arbeiten für Zertifizierer.
 
 | Prüfling
-| Ein Einzelperson, die den Zertifizierungsprozess durchläuft.
+| Einzelperson, die den Zertifizierungsprozess durchläuft.
 
 | Themenarbeitsgruppe
 | Arbeitsgruppe, die gebildet wird, um ein Thema gemeinsam auszuarbeiten.
@@ -32,7 +32,7 @@
 | Themenverwalter:in
 | Der/die Themenverwalter:in ist Mitglied der AG Expert Level, prüft neue Themen und gibt diese für Themenbearbeiter:innen und Themenarbeitsgruppen frei.
 
-| Trainingsanbieter (Trainingsprovider)
+| Trainingsanbieter (Training Provider)
 | Trainingsanbieter sind vom iSAQB akkreditierte Schulungsanbieter und -durchführer. Sie bieten Seminare für Themenbearbeiter:innen und Themenarbeitsgruppen an.
 
 | Zertifizierer

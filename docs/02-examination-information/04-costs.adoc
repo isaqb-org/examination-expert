@@ -7,12 +7,12 @@ Die folgende Liste zeigt, welche Leistungserbringer welche Kosten in Rechnung st
 
 * Zertifizierer:
 ** Prüfung der Voraussetzungen
-** Verbesserung und Abnahme und Roadmap
+** Verbesserung und Abnahme der Roadmap
 ** Prüfung der Ergebnisse
 ** Individuelles Prüfungsgespräch
 ** Ausstellung des Zertifikats
 
-* Trainingsanbietern:
+* Trainingsanbieter:
 ** Teilnahme an Seminaren (mindestens 2)
 
 

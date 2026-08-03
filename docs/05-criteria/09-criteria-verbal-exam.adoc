@@ -9,7 +9,7 @@
 | 1) Der Prüfling präsentiert das Thema mit selbst erstellten Mitteln.
 | 10-20 min
 |
-- Ergebnisse und Erkenntnisse schlüssig zusammengefasst
+- Ergebnisse und Erkenntnisse schlüssig zusammenfassen
 - Roter Faden erkennbar, Zweckmäßigkeit und Folgerichtigkeit der Schritte
 - Angemessener Einsatz von Hilfsmitteln (Charts, Diagramme, Modelle, …)
 - Vortragstil (Sprache und Ausdruck)
@@ -19,7 +19,7 @@
 | 2) Die Prüfer:innen fragen die Inhalte der Ergebnisse ab.
 | 10-20 min
 |
-- Fähigkeit, die Inhalte zu erklären und erläutern
+- Fähigkeit, die Inhalte zu erklären und zu erläutern
 - Beantwortung von mindestens drei offenen Fragen
 - Komplexität und Tiefe der Antworten
 - Fragen umfassend beantwortet, sowie klar und nachvollziehbar dargestellt

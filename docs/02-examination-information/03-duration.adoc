@@ -1,15 +1,15 @@
 // tag::DE[]
 === Prüfungsdauer
-Die Themenbearbeiter haben ab der Bestätigung der Roadmap durch die Prüfer 12 Monate Zeit, um die Ergebnisse erstmalig bei einem Zertifizierer einzureichen.
+Themenbearbeiter:innen beziehungsweise Themenarbeitsgruppen haben ab der Bestätigung der Roadmap durch die Prüfer:innen 12 Monate Zeit, um die Ergebnisse erstmalig bei einem Zertifizierer einzureichen.
 Empfohlen wird eine Dauer von 3 bis 9 Monaten.
 
-Mit triftiger Begründung können die Themenbearbeiter die Dauer um einzelne Monate verlängern. Die Entscheidung obliegt dem Zertifizierer.
+Mit triftiger Begründung können die Themenbearbeiter:innen die Dauer um einzelne Monate verlängern. Die Entscheidung obliegt dem Zertifizierer.
 
 // end::DE[]
 
 // tag::EN[]
 === Examination Duration
-The topic worker have has 12 months from the confirmation of the roadmap by the examiners to submit the results to a certifying body for the first time. A period of 3 to 9 months is recommended.
+The topic worker or topic working groups have 12 months from the confirmation of the roadmap by the examiners to submit the results to a certifying body for the first time. A period of 3 to 9 months is recommended.
 
 With valid justification, the topic working group can extend the period by individual months. The justification must be submitted to and accepted by the certifying body.
 

@@ -9,7 +9,7 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 
 | Originalität
 | Muss
-| Können Erkenntnisse erzielt werden, die im Bereich der Software-Architektur bisher nicht allgemein bekannt sind?
+| Können Erkenntnisse erzielt werden, die im Bereich der Softwarearchitektur bisher nicht allgemein bekannt sind?
 
 |Relevanz
 |Muss
@@ -21,7 +21,7 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 
 |Kreativität
 |Soll
-|Zeigt das Thema Kreativität, z.{nbsp}B. durch Synergien, Analogien, Ideen?
+|Zeigt das Thema Kreativität, z. B. durch Synergien, Analogien, Ideen?
 
 |Effektivität
 |Soll

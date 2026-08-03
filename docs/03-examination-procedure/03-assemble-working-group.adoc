@@ -3,11 +3,11 @@
 
 Dieser Schritt ist nur nötig, wenn jemand ein Thema nicht alleine, sondern in einer Themenarbeitsgruppe ausarbeiten möchte.
 
-Damit eine Themenarbeitsgruppe zustande kommt, müssen sich ausreichend Bewerber für ein Thema beim Zertifizierer anmelden.
+Damit eine Themenarbeitsgruppe zustande kommt, müssen sich ausreichend Bewerber:innen für ein Thema beim Zertifizierer anmelden.
 
-Die Bewerber:innen können in ihrem Bekanntenkreis nach weiteren Teilnehmern werben. Auch der iSAQB wird für offene Themen werben.
+Die Bewerber:innen können in ihrem Bekanntenkreis nach weiteren Teilnehmer:innen werben. Auch der iSAQB wird für offene Themen werben.
 
-Sobald die Mindestanzahl von Bewerber:innen für ein Thema erreicht wurde, informiert der Zertifizierer die Bewerber:innen über den Start der Themenarbeitsgruppe und sendet ihnen die Kontaktdaten der anderen Bewerber:innen.
+Sobald die Mindestanzahl an Bewerber:innen für ein Thema erreicht wurde, informiert der Zertifizierer die Bewerber:innen über den Start der Themenarbeitsgruppe und sendet ihnen die Kontaktdaten der anderen Bewerber:innen.
 
 // end::DE[]
 
