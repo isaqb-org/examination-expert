@@ -5,12 +5,9 @@ include::config/setup_regulations.adoc[]
 ifeval::["{language}" == "DE"]
 = Prüfungsordnung pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
 :toc-title: Inhaltsverzeichnis
-:toc: left
 endif::[]
-
 ifeval::["{language}" == "EN"]
 = Examination Regulations pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_ pass:q[<br>]
-:toc: left
 endif::[]
 
 // define terms for toc, learning-goals
