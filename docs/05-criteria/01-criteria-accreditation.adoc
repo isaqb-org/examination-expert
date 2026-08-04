@@ -17,7 +17,7 @@ Trainingsanbieter müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB 
 
 
 ==== Themenmoderator:innen
-Ein akkreditierter #Trainingsanbieter# stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
+Ein akkreditierter Trainingsanbieter stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
 Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 
 [cols="<4,<8,<8a"]
