@@ -9,8 +9,8 @@ Mit triftiger Begründung können die Themenbearbeiter:innen die Dauer um einzel
 
 // tag::EN[]
 === Examination Duration
-The topic worker or topic working groups have 12 months from the confirmation of the roadmap by the examiners to submit the results to a certifying body for the first time. A period of 3 to 9 months is recommended.
+The topic worker or a topic working group has 12 months from the confirmation of the roadmap by the examiners to submit the results to a certifying body for the first time. A period of between 3 and 9 months is recommended.
 
-With valid justification, the topic working group can extend the period by individual months. The justification must be submitted to and accepted by the certifying body.
+With valid justification, the topic working group can extend the period on a monthly basis. The justification must be submitted to and approved by the certifying body.
 
 // end::EN[]

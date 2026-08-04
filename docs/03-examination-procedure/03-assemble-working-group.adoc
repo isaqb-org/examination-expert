@@ -14,12 +14,12 @@ Sobald die Mindestanzahl an Bewerber:innen für ein Thema erreicht wurde, inform
 // tag::EN[]
 === Step 2: Assemble Topic Working Group (optional)
 
-This step is only necessary if someone wants to develop a topic not on their own, but as part of a topic working group.
+This step is only necessary if an applicant wants to develop a topic not individually but as part of a topic working group.
 
-The certification body ensures that there are sufficient candidates in the topic working group.
+The certifying body ensures that there are sufficient candidates in the topic working group.
 
-The candidates are welcome to promote the topic among colleagues and acquaintances. iSAQB will also regularly draw attention to open topics and encourage participation.
+Candidates are encouraged to promote the topic among colleagues and acquaintances. The iSAQB will also regularly draw attention to open topics and encourage participation.
 
-As soon as enough candidates for the topic working group are available, the certification body will inform the candidates about the start of the topic working group and send all the members` contact details to the topic working group.
+As soon as enough candidates for the topic working group are available, the certifying body will inform the candidates about the start of the topic working group and send all the members` contact details to the topic working group.
 
 // end::EN[]

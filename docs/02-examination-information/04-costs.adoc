@@ -21,18 +21,18 @@ Die folgende Liste zeigt, welche Leistungserbringer welche Kosten in Rechnung st
 // tag::EN[]
 === Costs
 
-The costs for certification are billed separately by the certifying body and the training providers for each service. This ensures that topic workers can attend seminars offered by different training providers. If someone decides not to complete the certification process, they will only be charged for services already used.
+Certification costs are billed separately by the certifying body and the training providers for each service. This ensures topic workers can attend seminars from different training providers. Applicants who fail to finish the certification process will only be charged for services that have already been rendered.
 
-The following list shows which services are billed::
+The following list shows which services are billed:
 
-* Certifying Body:
-** Verification of prerequisites
+* Certifying body:
+** Verification of the prerequisites
 ** Improvement and acceptance of the roadmap
 ** Review of the results
 ** Individual certification interview
 ** Issuance of the certificate
 
-* Training Providers:
+* Training providers:
 ** Participation in seminars (at least 2)
 
 // end::EN[]

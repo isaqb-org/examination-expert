@@ -15,16 +15,16 @@ Ziele:
 
 // tag::EN[]
 === Purpose and Intent
-At the CPSA Expert Level (CPSA-E), you’ll apply the knowledge you’ve gained at the Foundation and Advanced Levels, along with your experience, to work on a specific topic. Through dialogue with other experts, your knowledge will deepen, you’ll discover new connections, and you’ll become an expert in a specialized area of software architecture.
+At the CPSA Expert Level (CPSA-E), you will apply the knowledge you've gained at the Foundation and Advanced Levels, along with your experience, to work on a specific topic. Through dialogue with other experts, your knowledge will deepen, you will discover new connections, and you will become an expert in a specialized area of software architecture.
 
-By publishing the results of your work, you actively contribute to spreading expert knowledge more widely and, through your contribution, help improve the quality of software architectures in other organisations as well.
+By publishing your results, you actively contribute to the wider dissemination of expert knowledge and help improve the quality of software architectures in other organizations as well.
 
 Objectives:
-- You show that you are an expert in a specialist field of software architecture.
+- You demonstrate that you are an expert in a specialist field of software architecture.
 - You develop new knowledge with other experts.
-- You show the ability to work in a team.
-- You interact with other experts, thereby building a network for your professional future.
-- You present the results at conferences or publish them in trade magazines.
+- You demonstrate the ability to work in a team.
+- You interact with other experts, thus building a professional network for your future.
+- You present the results at conferences or publish them in professional journals.
 
 // end::EN[]
 

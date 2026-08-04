@@ -9,9 +9,9 @@ Der Zertifizierer informiert die Prüflinge über die Ergebnisse der Zertifizier
 
 Das Zertifikat wird für die gewählte Sparte und das bearbeitete Thema. Die Person darf sich als iSAQB-zertifizierte Expert:in für die Sparte bezeichnen.
 
-Personen können mehrere Expert-Level-Zertifizierungen erlangen.
+Personen können mehrere Expert Level-Zertifizierungen erlangen.
 
-Die Gültigkeitsdauer der Expert-Level-Zertifizierung ist unbegrenzt.
+Die Gültigkeitsdauer der Expert Level-Zertifizierung ist unbegrenzt.
 
 
 ==== Einspruch
@@ -35,20 +35,20 @@ The certifying body informs the examinees about the results of the certification
 - The examiners have assessed the results (of the topic working group) as positive.
 - The examiners assessed the oral exam as positive.
 
-The certificate is issued for the selected area and the topic.The person may refer to themselves as an iSAQB-certified expert in the field.
+The certificate is issued for the selected specialization and the topic. The holder may refer to themselves as an iSAQB-certified expert in the field.
 
-People can obtain several Expert Level certifications.
+Individuals can obtain multiple Expert Level certifications.
 
-The Expert Level certification is valid for an indefinite period.
+The Expert Level certification has no expiration date.
 
 ==== Objection
 
-The examinee may object to the assessment within four weeks. The objection must be justified in writing and submitted to the certifying body.
+An examinee may object to the assessment within four weeks. The objection must be submitted in writing to the certifying body.
 
-The certifying body picks two new examiners at random. The certifying body gives the new examiners access to the assessment protocols and topic working group outcomes.
+The certifying body selects two new examiners. The certifying body provides the new examiners with access to the assessment protocols and topic working group outcomes.
 
-The objection examiners confirm the assessment or issue a new one. The result of the objection procedure cannot be contested.
+The new examiners confirm the assessment or issue a new one. The result of the objection procedure is final.
 
-If the examiner issues a new assessment, the examinee can apply for a new oral exam for a fee of €1500 plus VAT.
+If the examiners issue a new assessment, the examinee may apply for a new oral exam for a fee of €1,500 plus VAT.
 
 // end::EN[]

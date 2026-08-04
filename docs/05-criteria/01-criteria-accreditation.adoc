@@ -25,7 +25,7 @@ Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 | Kriterium | Details | Nachweis
 
 |Wissen über EL-Prozesse
-|Ein:e Themenmoderator:in muss die Prozesse der Expert-Level-Zertifizierung kennen.
+|Ein:e Themenmoderator:in muss die Prozesse der Expert Level-Zertifizierung kennen.
 |Ein Mitglied der iSAQB^®^ Arbeitsgruppe Expert Level stellt in einem Interview fest, ob die Bewerberin/der Bewerber für die Rolle das nötige Wissen hat.
 
 |Soziale Kompetenzen
@@ -70,7 +70,7 @@ A topic moderator must fullfill the following criteria to get the accreditation 
 | Criterion | Details | Evidence
 
 |Process knowledge
-|A topic moderator must have knowledge of the process of expert level certification.
+|A topic moderator must have knowledge of the process of Expert Level certification.
 |A member of the iSAQB^®^ working group "Expert Level" cunducts an inverview with the applicant and checks the requested knowledge.
 
 |Social skills

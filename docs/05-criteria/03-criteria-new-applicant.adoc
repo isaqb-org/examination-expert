@@ -12,15 +12,15 @@ Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und 
 | Kriterium | Beschreibung
 
 |Advanced Level
-|Bewerber:innen müssen bestätigen, dass sie über das Advanced-Level-Zertifikat verfügen.
+|Bewerber:innen müssen bestätigen, dass sie über das Advanced Level-Zertifikat verfügen.
 
-Das Thema der Expert-Level-Zertifizierung muss inhaltlich zur Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced-Level-Zertifizierung gewählt hat.
+Das Thema der Expert Level-Zertifizierung muss inhaltlich zur Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced Level-Zertifizierung gewählt hat.
 
 |Praxiserfahrung
 |Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle der/des Softwarearchitekt:in in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrungen in der system-, domänen- oder organisationsübergreifende Architekturarbeit notwendig.
 
 |Wissen
-|Solides Verständnis und praktische Anwendung der grundlegenden Konzepte der Softwarearchitektur gemäß den iSAQB-Lehrplänen für das Foundation- und ausgewählte Advanced-Level-Themen. Vertiefung erfolgt typischerweise in spezifischen Schwerpunktbereichen wie z.B. Domain-Driven Design, Cloud-Architektur, Architekturbewertung, -dokumentation oder -modernisierung, je nach individuellem Profil und Projektkontext.
+|Solides Verständnis und praktische Anwendung der grundlegenden Konzepte der Softwarearchitektur gemäß den iSAQB-Lehrplänen für das Foundation- und ausgewählte Advanced Level-Themen. Vertiefung erfolgt typischerweise in spezifischen Schwerpunktbereichen wie z.B. Domain-Driven Design, Cloud-Architektur, Architekturbewertung, -dokumentation oder -modernisierung, je nach individuellem Profil und Projektkontext.
 
 |Wissensvermittlung und Community-Beitrag
 |Nachweis über Wissensvermittlung oder Community-Beiträge, beispielsweise durch die Schulung und Betreuung von weniger erfahrenen Entwickler:innen oder Architekt:innen, die fachliche Leitung von Architektur- oder Entwicklungsteams, Mitentwicklung in Open-Source-Projekten sowie durch Publikationen oder Vorträge.
@@ -49,23 +49,23 @@ Das Thema der Expert-Level-Zertifizierung muss inhaltlich zur Sparte passen, die
 
 ==== Warum sind diese Voraussetzungen wichtig?
 
-Das CPSA-Expert Level bescheinigt nicht nur technisches Wissen, sondern auch die Fähigkeit, als Vordenker:in 
+Das CPSA Expert Level bescheinigt nicht nur technisches Wissen, sondern auch die Fähigkeit, als Vordenker:in 
 und Expert:in in der Softwarearchitektur-Community zu agieren. Die Bewerber:innen müssen nachweisen, dass sie über die reine Architekturarbeit hinaus zur Weiterentwicklung des Berufsstandes beitragen können und in der Lage sind, 
 auch schwierige Herausforderungen in komplexen Umfeldern zu meistern.
 
 [NOTE]
 .Folgende Kriterien treten vielleicht in Zukunft in Kraft
 ====
-Das iSAQB^®^ kann auch Personen ohne Advanced-Level-Zertifikat als Bewerber:innen für den Expert Level zulassen, wenn sie eine der folgenden Kriterien erfüllen:
+Das iSAQB^®^ kann auch Personen ohne Advanced Level-Zertifikat als Bewerber:innen für den Expert Level zulassen, wenn sie eine der folgenden Kriterien erfüllen:
 
 - Personen, die als Koryphäe auf dem zu bearbeitenden Thema bekannt sind.
-- iSAQB-Mitglieder, die aufgrund ihrer Aufgabe beim iSAQB^®^ die Advanced-Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced-Level-Zertifizierung nicht machen können.
+- iSAQB-Mitglieder, die aufgrund ihrer Aufgabe beim iSAQB^®^ die Advanced Level-Prüfungsfragen (bzw. -aufgaben) kennen und daher die Advanced Level-Zertifizierung nicht machen können.
 
 Die Entscheidung, ob jemand die Kriterien erfüllt, wird durch einen Mehrheitsbeschluss vom iSAQB Strategy Council und den Mitgliedern der AG-EL gefällt.
 
 Das iSAQB^®^ kann aktiv Koryphäen einladen, in einer Themenarbeitsgruppe mitzuarbeiten und kann ihnen dafür die Kosten erstatten.
 
-Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Arbeit an einem Thema erhält niemand das Expert-Level-Zertifikat.
+Auch Koryphäen müssen in Themenarbeitsgruppen mitarbeiten. Ohne Arbeit an einem Thema erhält niemand das Expert Level-Zertifikat.
 ====
 
 
@@ -86,15 +86,15 @@ Applicants justify their suitability for the topic by summarizing their knowledg
 | Criterion | Description
 
 |Advanced Level Certifications
-|Applicants must confirm that they have the expert level certification.
+|Applicants must confirm that they have the Expert Level certification.
 
-The topic of the Expert-Level certification must align in content with the specialization the applicant selected as part of the Advanced-Level certification.
+The topic of the Expert Level certification must align with the specialization the applicant selected as part of the Advanced Level certification.
 
 |Practical Experience
 |Applicants can demonstrate at least 7 years of professional experience in the role of software architect within complex software projects. In particular, experience in architectural work that spans systems, domains, or organizational boundaries is required.
 
 |Knowledge
-|A solid understanding and practical application of the core concepts of software architecture, as outlined in the iSAQB curricula for the Foundation and selected Advanced-Level topics. Specialization typically takes place in specific focus areas such as domain driven design, cloud architecture, architecture evaluation, documentation, or modernization, depending on the individual’s expertise and project context.
+|A solid understanding and practical application of the core concepts of software architecture, as outlined in the iSAQB curricula for the Foundation and selected Advanced Level topics. Specialization typically takes place in specific focus areas such as Domain-Driven Design, cloud architecture, architecture evaluation, documentation, or modernization, depending on the individual's expertise and project context.
 
 |Knowledge Transfer and Community Contribution
 |Proof of knowledge transfer or community contribution, such as training and mentoring less experienced developers or architects, leading architecture or development teams, co-developing in open-source projects, as well as through publications or presentations.
@@ -117,18 +117,18 @@ The topic of the Expert-Level certification must align in content with the speci
 |Applicants must confirm that they are willing to travel at their own expense to work together in the topic group.
 
 |Disclosure of contact data
-|The applicants grant permission to iSAQB^®^ to forward the following contact details to the other members of the topic groups: first name, second name, e-mail address, and telephone number.
+|The applicants grant permission to iSAQB^®^ to forward the following contact details to the other members of the topic groups: first name, last name, e-mail address, and phone number.
 
 |===
 
 ===== Why Are These Requirements Important?
 
-The CPSA-Expert Level validates technical expertise and recognizes the ability to serve as a thought leader and expert within the software architecture community. Applicants must demonstrate their capacity to contribute to the evolution of the profession, going beyond  architectural practice, and show that they can tackle complex challenges in dynamic and demanding environments.
+The CPSA Expert Level validates technical expertise and recognizes the ability to serve as a thought leader and expert within the software architecture community. Applicants must demonstrate their capacity to contribute to the evolution of the profession, going beyond  architectural practice, and show that they can tackle complex challenges in dynamic and demanding environments.
 
 [NOTE]
 .The following criteria may come into operation in the future
 ====
-iSAQB® may accept individuals as candidates for the expert level if they meet one of the following requirement:
+iSAQB® may accept individuals as candidates for the Expert Level if they meet one of the following requirement:
 
 - People who are distinguished experts on the topic.
 - Members of iSAQB^®^ who are not permitted to participate in the iSAQB^®^ Advanced Level Certification since they know the examination question.

@@ -20,15 +20,15 @@ Wenn die Prüfer:innen feststellen, dass die Ergebnisse den Kriterien nicht ents
 
 ==== Assessment by Two Examiners
 
-The certifying body assigns two examiners to assess the content of the results. The examiners use the subsequent content criteria to assess the results.
+The certifying body appoints two examiners to assess the content of the results. The examiners use the following content criteria to assess the results.
 
 include::../05-criteria/07-criteria-content.adoc[{include_configuration}]
 
-At least 20 of the 30 points must be achieved. 4 out of 10 points must be achieved in each category. The examiners can provide justification for each criterion.
+A minimum of 20 out of 30 points must be achieved. At least 4 out of 10 points must be achieved in each category. The examiners can provide justification for each criterion.
 
 ==== One-Time Retry
 
-If the examiner finds out that the results don't meet the criteria, the topic worker or topic working group can improve the results once and submit them again to the certification body. The certification body is free to charge for the extra effort.
+If the examiners find that the results do not meet the criteria, the topic worker or topic working group can improve the results once and submit them again to the certifying body. The certifying body is free to charge for the extra effort.
 
 
 // end::EN[]

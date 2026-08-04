@@ -1,11 +1,11 @@
 // tag::DE[]
 === Voraussetzungen
 
-Das CPSA-Expert Level (CPSA-E) ist die höchste Qualifizierungsstufe des iSAQB und richtet sich an äußerst erfahrene Softwarearchitekt:innen. Die Anforderungen und Voraussetzungen sind entsprechend anspruchsvoll und fokussieren sich auf fundierte Erfahrung, tiefgehende Expertise sowie die Fähigkeit, neue Lösungswege zu entwickeln und die Community zu bereichern.
+Das CPSA Expert Level (CPSA-E) ist die höchste Qualifizierungsstufe des iSAQB und richtet sich an äußerst erfahrene Softwarearchitekt:innen. Die Anforderungen und Voraussetzungen sind entsprechend anspruchsvoll und fokussieren sich auf fundierte Erfahrung, tiefgehende Expertise sowie die Fähigkeit, neue Lösungswege zu entwickeln und die Community zu bereichern.
 
-Eine Bewerber:in muss erfolgreich die iSAQB-Advanced-Level-Zertifizierung erlangt haben. Eine Mindestzeit zwischen Advanced- und Expert-Level-Zertifizierung wird nicht gefordert.
+Eine Bewerber:in muss erfolgreich die iSAQB-Advanced Level-Zertifizierung erlangt haben. Eine Mindestzeit zwischen Advanced- und Expert Level-Zertifizierung wird nicht gefordert.
 
-Das Thema der Expert-Level-Zertifizierung muss inhaltlich zu der Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced-Level-Zertifizierung gewählt hat.
+Das Thema der Expert Level-Zertifizierung muss inhaltlich zu der Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced Level-Zertifizierung gewählt hat.
 
 Eine Bewerber:in muss langjährige Projekterfahrung in der Softwarearchitektur haben und tiefgreifendes Wissen im Bereich des gewählten Themas haben.
 
@@ -15,13 +15,13 @@ Eine Bewerber:in muss langjährige Projekterfahrung in der Softwarearchitektur h
 
 === Preconditions
 
-The CPSA-Expert Level (CPSA-E) is the highest qualification level awarded by the iSAQB. It is aimed at highly skilled and experienced software architects. The requirements for applicants are demanding: they must demonstrate long-term experience, have a clear area of expertise, be capable of developing innovative approaches and solution strategies, and actively contribute to the professional community.
+The CPSA Expert Level (CPSA-E) is the highest qualification level awarded by the iSAQB. It targets highly skilled and experienced software architects. Applicants must meet demanding requirements: long-term experience, a clear area of expertise, the ability to develop innovative approaches and solutions, and active contributions to the professional community.
 
-An applicant must have successfully obtained the iSAQB Advanced Level certification. There is no minimum time requirement between obtaining the Advanced Level and Expert Level certifications.
+Applicants must have successfully obtained the iSAQB Advanced Level certification. There is no minimum time requirement between obtaining the Advanced Level and Expert Level certifications.
 
-The topic of the Expert-Level certification must align in content with the specialization the applicant selected as part of the Advanced-Level certification.
+The topic of the Expert Level certification must align with the specialization the applicant selected as part of the Advanced Level certification.
 
-An applicant must have many years of project experience in software architecture and in-depth knowledge of the chosen topic.
+Applicants must have many years of project experience in software architecture and in-depth knowledge of the chosen topic.
 
 // end::EN[]
 

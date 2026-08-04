@@ -13,14 +13,14 @@ Der Zertifizierer lässt nur jene Mitglieder zur Zertifizierung zu, welche die K
 
 // tag::EN[]
 === Formal Check
-The topic worker or the topic working group ensures that the roadmap’s objectives have been met and that the results meet the formal criteria.
+The topic worker or topic working group ensures that the roadmap's objectives have been met and that the results meet the formal criteria.
 
 The results can then be submitted to the certifying body, which also reviews them against the following formal criteria:
 
 include::../05-criteria/06-criteria-formal.adoc[{include_configuration}]
 
-After the topic moderator approves the results, the topic working group can submit them to the certifying body.
+After the examiner approves the results, the topic working group may submit them to the certifying body.
 
-The certifying body only accepts those members for certification who have fulfilled the criteria for participation. If a member fails to meet the criteria, they will not be reimbursed.
+The certifying body only admits to certification those members who have fulfilled the criteria for participation. If a member fails to meet the criteria, the certifying body will not reimburse them.
 
 // end::EN[]
