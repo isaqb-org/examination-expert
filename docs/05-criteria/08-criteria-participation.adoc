@@ -112,5 +112,6 @@ The following criteria also apply to topic working groups:
 ** Prepare a conference paper
 ** Give a presentation at a conference
 
+|===
 
 // end::EN[]
