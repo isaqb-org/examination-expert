@@ -31,26 +31,39 @@ $ git submodule update --init
 Create an issue, a merge- or pull-request
 
 == How to build the documents
-Prerequisite: You need a Java Runtime(tm) installed.
+Prerequisite: You need Docker installed. The toolchain itself lives in the prebuilt
+`ghcr.io/isaqb-org/curriculum-builder` image, so nothing else has to be set up locally.
 
-You build the output documents with gradle:
 [source,console]
-$ ./gradlew buildDocs
-
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
-
-In case you want to change that, adjust the following part of `build.gradle`:
-
-[source,groovy]
 ----
-task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderDE", "renderEN"
-}
+$ ./curriculum-build.sh          # Linux/macOS
+> curriculum-build.bat           # Windows
 ----
 
-In the task "renderDE", certain attributes (aka variables) are defined that configure the corresponding output.
+That renders both documents – the examination regulations and the criteria – as PDF and
+HTML in German (DE) _and_ English (EN) into `build/`.
+
+This repository has two AsciiDoc root documents, `docs/examination-regulations.adoc` and
+`docs/examination-criteria.adoc`. The builder image renders exactly one root per run, so
+the wrapper scripts read the list from `build.config` and invoke the image once per
+document:
+
+[source,sh]
+----
+: "${CURRICULUM_FILES:=examination-regulations examination-criteria}"
+----
+
+Everything else (languages, suffix tags, print layout) is shared between the two
+documents and configured in the same `build.config`.
+
+To narrow a build down, pass a format and language, and/or pick a single document:
+
+[source,console]
+----
+$ ./curriculum-build.sh pdf DE                                # both documents, PDF/German only
+$ CURRICULUM_FILE=examination-criteria ./curriculum-build.sh   # criteria only
+$ ./curriculum-build.sh clean                                 # remove build/ outputs
+----
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
