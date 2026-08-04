@@ -90,7 +90,7 @@ The following criteria also apply to topic working groups:
 
 | Validation
 | Required
-| During joint meetings, the members of a topic working group review the plausibility of their colleagues’ recorded activities.
+| During joint meetings, the members of a topic working group review the plausibility of their colleagues' recorded activities.
 
 | Deviation from the Group Average
 | Required

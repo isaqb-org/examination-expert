@@ -16,15 +16,15 @@ Erst wenn die Prüfer:innen die Roadmap freigegeben haben, kann der/die Themenbe
 
 // tag::EN[]
 === Step 4: Create Roadmap
-The topic worker or the topic working group creates a roadmap in which they set out their plan for how to proceed, including both content and timelines.
+The topic worker or topic working group must create a roadmap outlining their plan, including both the content and timelines.
 
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-The topic worker or the topic working group submits the roadmap to the certifying body, which forwards it to the examiner. The examiner verify whether the deliverables described in the roadmap are clearly and sufficiently defined and measurable. If necessary, the reviewers make additions to the roadmap.
+The topic worker or the topic working group submits the roadmap to the certifying body, which forwards it to the examiner. The examiners verify whether the deliverables described in the roadmap are clearly and sufficiently defined and measurable. If necessary, the examiner may request additions to the roadmap.
 
-If the examinters are not satisfied with the roadmap, the topic worker or topic working group revise the roadmap once.
+If the examiners are not satisfied with the roadmap, the topic worker or topic working group revise the roadmap once.
 
-The topic worker or topic working group can only start working after the examiners have approved the roadmap.
+The topic worker or topic working group may only begin work after the examiners have approved the roadmap.
 
 // end::EN[]

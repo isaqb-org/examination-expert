@@ -103,7 +103,7 @@
 . Authors
 [loweralpha]
 .. Are the authors named?
-.. Are the authors’ e-mail addresses listed?
+.. Are the authors' e-mail addresses listed?
 . Abstract
 [loweralpha]
 .. Is the problem described briefly?

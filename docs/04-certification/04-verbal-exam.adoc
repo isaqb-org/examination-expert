@@ -14,9 +14,9 @@ include::../05-criteria/09-criteria-verbal-exam.adoc[{include_configuration}]
 // tag::EN[]
 === Oral Exam
 
-If the examiners have assessed the results positively, they invite the topic worker or each member of the topic working group to an individual verbal exam (interview). The verbal exam takes thirty to sixty minutes and can be done online.
+If the examiners positively assess the results, they invite the topic worker or each member of the topic working group to an individual verbal exam (interview). The verbal exam lasts between 30 and 60 minutes and may be conducted online.
 
-The examinee has to defend the results and must show that he/she has sufficient understanding of the topic.
+The examinee must defend the results and demonstrate sufficient understanding of the topic.
 
 The following table lists the schedule and criteria used by the examiners for evaluation:
 

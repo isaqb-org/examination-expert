@@ -6,10 +6,10 @@
 | Name der Rolle | Beschreibung, Funktion, Aufgabe
 
 | Bewerber:in
-| Advanced-Level-Architekt:in, der/die das Expert-Level-Zertifikat CPSA-E anstrebt
+| Advanced Level-Architekt:in, der/die das Expert Level-Zertifikat CPSA-E anstrebt
 
 | iSAQB
-| The International Standard for Training and Certification in Software Architecture. iSAQB akkreditiert Zertifizierer und Trainingsanbieter.
+| The International Standard for Training and Certification in software architecture. iSAQB akkreditiert Zertifizierer und Trainingsanbieter.
 
 | iSAQB AG Expert Level
 | Arbeitsgruppe der iSAQB, welche den Expert Level entwickelt und betreut.
@@ -27,7 +27,7 @@
 | Einzelperson, die ein Thema bearbeitet
 
 | Themeneinreicher:in
-| Reicht ein (mögliches) Thema ein, das im Rahmen einer Expert-Level-Zertifizierung bearbeitet werden soll.
+| Reicht ein (mögliches) Thema ein, das im Rahmen einer Expert Level-Zertifizierung bearbeitet werden soll.
 
 | Themenverwalter:in
 | Der/die Themenverwalter:in ist Mitglied der AG Expert Level, prüft neue Themen und gibt diese für Themenbearbeiter:innen und Themenarbeitsgruppen frei.
@@ -51,37 +51,37 @@ People involved in the examination process
 |Name of the role | Description, position, task
 
 | Candidate
-| Advanced-Level architect aiming for the Expert Level certificate.
+| Advanced Level architect aiming for the Expert Level certificate.
 
 | iSAQB
-| The International Standard for Training and Certification in Software Architecture. iSAQB accredits certification bodies and training providers.
+| The International Standard for Training and Certification in software architecture. The iSAQB accredits certifying bodies and training providers.
 
-| iSAQB Expert Level WG
+| iSAQB Expert Level Working Group
 | Working group of the iSAQB that develops and maintains the Expert Level.
 
 | Examiner
-| Examiners are appointed by the Expert Level Working Group and work for the certifying bodies.
+| Examiners must be appointed by the Expert Level Working Group and work for the certifying bodies.
 
 | Examinee
 | An individual who is going through the certification process.
 
 | Topic working group
-| Working group formed to work together on an expert level topic.
+| Working group formed to work together on an Expert Level topic.
 
 | Topic worker
 | Individual who works on a topic alone.
 
 | Person submitting a topic
-| Submits a (possible) topic, which should be worked on within the scope of an Expert Level certification.
+| Submits a possible topic to be worked on within the scope of an Expert Level certification.
 
 | Topic administrator
-| The topic administrator checks new topics and manages topics in the list of topics. They are an active member of iSAQB.
+| The topic administrator checks new topics and manages the topic list. A topic moderator must be an active member of the iSAQB.
 
 | Training provider
-| Training providers are “training facilitators” accredited by iSAQB who appoint the topic moderator.
+| Training providers are "training facilitators" accredited by the iSAQB who appoint the topic moderator.
 
 | Certifying body
-| Certifying bodies are institutes accredited by the iSAQB. They organize the entire examination process and issue the certificate.
+| Certifying bodies are institutions accredited by the iSAQB. They organize the entire examination process and issue the certificate.
 
 |===
 
