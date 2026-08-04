@@ -112,6 +112,10 @@ The following criteria also apply to topic working groups:
 ** Prepare a conference paper
 ** Give a presentation at a conference
 
+| Travel time does not count
+| Required
+| Travel time does not count as an activity.
+
 |===
 
 // end::EN[]
