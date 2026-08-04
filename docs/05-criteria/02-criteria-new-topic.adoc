@@ -7,11 +7,9 @@ Ein neues Thema muss folgende Kriterien erfüllen:
 |===
 | Kriterium | Pflicht | Beschreibung
 
-|Originalität
-|Muss
-| Muss die Themengruppe neues Wissen oder Ergenntnisse erarbeiten?
-
-Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wikipedia)?
+| Originalität
+| Muss
+| Können Erkenntnisse erzielt werden, die im Bereich der Softwarearchitektur bisher nicht allgemein bekannt sind?
 
 |Relevanz
 |Muss
@@ -19,11 +17,11 @@ Ist das Thema noch nicht vollständig und öffentlich bearbeitet (z.{nbsp}B. Wik
 
 |Innovation
 |Muss
-|Bringt das Thema neue Ideen und neues Wissen hervor, die von allgemeinem Interesse sind?
+|Bringt das Thema neue Ideen und neues Wissen hervor, das von allgemeinem Interesse ist?
 
 |Kreativität
 |Soll
-|Zeigt das Thema Kreativität, z.{nbsp}B. durch Synergien, Analogien, Ideen?
+|Zeigt das Thema Kreativität, z. B. durch Synergien, Analogien, Ideen?
 
 |Effektivität
 |Soll
@@ -54,9 +52,9 @@ A new topic must meet the following criteria:
 
 |Originality
 |Must
-| Will the topic group provide new knowledge or insights to the community?
+| Is it possible to gain insights that are not yet widely known in the field of software architecture?
 
-Is the topic not yet completely and publicly worked on (e.{nbsp}B. Wikipedia)?
+Is the topic not yet completely and publicly worked on (e.g. Wikipedia)?
 
 |Relevance
 |Must
@@ -68,7 +66,7 @@ Is the topic not yet completely and publicly worked on (e.{nbsp}B. Wikipedia)?
 
 |Creativity
 |Shall
-|Does the topic show creativity, e.g. through synergies, analogies, ideas?
+|Does the topic show creativity, e.g. through synergies, analogies, or ideas?
 
 |Effectiveness
 |Shall

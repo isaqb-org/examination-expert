@@ -1,20 +1,20 @@
 // tag::DE[]
-=== Schritt 2: Themenarbeitsgruppe zusammenstellen
+=== Schritt 2: Themenarbeitsgruppe zusammenstellen (optional)
 
-Damit eine Themenarbeitsgruppe zustande kommt, müssen sich ausreichend Bewerber für ein Thema beim Zertifizierer anmelden.
+Dieser Schritt ist nur nötig, wenn jemand ein Thema nicht alleine, sondern in einer Themenarbeitsgruppe ausarbeiten möchte.
 
-Die Bewerber:innen können in ihrem Bekanntenkreis nach weiteren Teilnehmern werben. Auch der iSAQB wird für offene Themen werben.
+Damit eine Themenarbeitsgruppe zustande kommt, müssen sich ausreichend Bewerber:innen für ein Thema beim Zertifizierer anmelden.
 
-Sobald die Mindestanzahl von Bewerber:innen für ein Thema erreicht wurde, informiert der Zertifizierer die Bewerber:innen über den Start der Themenarbeitsgruppe und sendet ihnen die Kontaktdaten der anderen Bewerber:innen.
+Die Bewerber:innen können in ihrem Bekanntenkreis nach weiteren Teilnehmer:innen werben. Auch der iSAQB wird für offene Themen werben.
 
-Die Themenarbeitsgruppe wählt einen Trainingsprovider aus und informiert den Zertifizierer über die Auswahl. iSAQB veröffentlicht dazu eine List von akkreditierten Trainingsprovidern.
-
-Der Trainingsprovider stellt der Themenarbeitsgruppe eine:n Themenmoderator:in zur Verfügung.
+Sobald die Mindestanzahl an Bewerber:innen für ein Thema erreicht wurde, informiert der Zertifizierer die Bewerber:innen über den Start der Themenarbeitsgruppe und sendet ihnen die Kontaktdaten der anderen Bewerber:innen.
 
 // end::DE[]
 
 // tag::EN[]
-=== Step 2: Assemble Topic Working Group
+=== Step 2: Assemble Topic Working Group (optional)
+
+This step is only necessary if someone wants to develop a topic not on their own, but as part of a topic working group.
 
 The certification body ensures that there are sufficient candidates in the topic working group.
 
@@ -22,7 +22,4 @@ The candidates are welcome to promote the topic among colleagues and acquaintanc
 
 As soon as enough candidates for the topic working group are available, the certification body will inform the candidates about the start of the topic working group and send all the members` contact details to the topic working group.
 
-The topic working group chooses a training provider and informs the certification body about the selection. iSAQB publishes a list of accredited training provider.
-
-The training provider will provide a topic moderator for the topic working group.
 // end::EN[]

@@ -1,16 +1,42 @@
 // tag::DE[]
 === Schritt 5: Thema ausarbeiten
-Die Themenarbeitsgruppe kommt zu Symposien zusammen, wo sie sich gemeinsam abstimmen und Aufgaben aus der Roadmap erarbeiten.
-Dabei wird sie von dem/der Themenmoderator:in unterstützt. Symposien können auch online durchgeführt werden.
 
-Die Themenarbeitsgruppe muss einen Speicher einrichten, um ihre Arbeitsergebnisse abzulegen (z. B. Git-Repository, Wiki). Der/die Themenmoderator:in, Prüfer:innen und auf Anfrage auch der Zertifizierer müssen auf den Speicher zugreifen können.
+==== Roadmap umsetzen
 
-Die Themenarbeitsgruppe trägt ihre Erfahrung zu dem gewählten Thema zusammen, konsolidiert dieses und leitet daraus neue Erkenntnisse ab.
-Zu den nötigen Ausarbeitungen gehören Erhebungen von Daten, Literaturrecherchen oder Verschriftlichungen.
-Themenarbeitsgruppen wird empfohlen, ihre Ergebnisse auf Konferenzen oder Fachzeitschriften zu veröffentlichen.
+Der/die Themenbearbeiter:in oder die Themenarbeitsgruppe setzt die in der Roadmap beschriebenen Arbeitspakete um. Zu den nötigen Ausarbeitungen gehören Datenerhebungen, Literaturrecherchen oder Verschriftlichungen.
+
+Bei Gruppenarbeit konsolidieren und diskutieren die Teilnehmer:innen ihre Erfahrungen und leiten daraus Erkenntnisse ab.
+
+==== Teilnahme an Seminaren
+
+Themenbearbeiter:innen und Themenarbeitsgruppen müssen an mindestens zwei Seminaren teilnehmen, wobei zumindest ein Seminar zur Sparte des Themas passen muss.
+
+Die Seminare werden von iSAQB-akkreditierten Trainingsanbietern durchgeführt.
+
+Die Themenbearbeiter:innen und Themenarbeitsgruppen können die Seminare bei unterschiedlichen Trainingsanbietern buchen.
+
+Seminare können online oder in Präsenz stattfinden.
+
+Bei einem Seminar müssen verschiedene Themenbearbeiter:innen bzw. Themenarbeitsgruppen teilnehmen, um den Austausch untereinander zu fördern.
+
+Beim Seminar stellen die Themenbearbeiter:innen und Themenarbeitsgruppen ihre (Zwischen-)Ergebnisse vor, geben sich gegenseitig Feedback und bekommen Tipps vom Seminarleiter.
+
+Trainingsanbieter können die Seminare von Koryphäen leiten lassen und damit aktiv werben.
+
+Den Trainingsanbietern wird empfohlen, den Seminarteilnehmer:innen auch Wissen zur Sparte zu vermitteln. Form und Umfang obliegen den Trainingsanbietern.
+
+Trainingsanbieter können den Preis eines Seminars selbst bestimmen.
+
+==== Veröffentlichung der Ergebnisse
+Themenbearbeiter:innen und Themenarbeitsgruppen wird empfohlen, ihre Ergebnisse auf Konferenzen oder in Fachzeitschriften zu veröffentlichen. Die Einreichung soll im Zuge der Themenausarbeitung erfolgen.
+
 Das iSAQB wird die Veröffentlichungen unterstützen und fördern.
 
-Damit sich jedes Mitglied ungefähr im gleichen Umfang in die Themenarbeitsgruppe einbringt, müssen alle Mitglieder ihre Tätigkeiten aufzeichnen. Dafür gelten diese Kriterien:
+
+==== Tätigkeitsnachweis
+Der/die Themenbearbeiter:in oder die Themenarbeitsgruppe muss ihre Arbeitsergebnisse versioniert ablegen (z. B. Git, Wiki) und Prüfer:innen müssen darauf Zugriff bekommen. Dadurch können Prüfer:innen nachvollziehen, dass die Themen tatsächlich von Themenbearbeiter:innen ausgearbeitet wurden und nicht durch künstliche Intelligenz.
+
+Damit die Prüfer:innen feststellen können, dass die Ausarbeitung des Themas nicht trivial war und jedes Mitglied ungefähr im gleichen Umfang mitgearbeitet hat, müssen die Tätigkeiten aufgezeichnet werden. Dabei gelten die folgenden Kriterien:
 
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
@@ -18,13 +44,44 @@ include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
 // tag::EN[]
 === Step 5: Develop Topic
-The topic working group comes together for meetings, where they coordinate with each other and work on tasks from the roadmap. They are supported in this by the topic moderator. Meetings can also be held online.
 
-The topic working group must set up a central repository where it saves all working results, for example a GIT repository or a Wiki. The topic moderator, the examiner and, on request, also the certifying body must have access to this repository.
+==== Working on the Roadmap
 
-The topic working group brings together its experience on the selected topic, consolidates it, and derives new insights from it. The necessary work includes collection of data, literature research or writing. It is recommended that topic working groups publish their results at conferences or in professional journals. iSAQB will support and promote the publications.
+The topic worker or the topic working group implements the work packages described in the roadmap. The necessary tasks include data collection, literature reviews, and writing reports.
 
-To ensure that each member contributes to the working group to approximately the same extent, all members must record their activities. These criteria must be met:
+In group work, participants consolidate and discuss their experiences and draw conclusions from them.
+
+==== Participation in Seminars
+
+Topic worker and topic working groups must participate in at least two seminars, at least one of which must be relevant to their topic area.
+
+The seminars are conducted by iSAQB-accredited training providers.
+
+Topic worker and topic working groups may book the seminars at different training providers.
+
+Seminars can be held online or in person.
+
+Each seminar must include participants from different topic workers or topic working groups to promote mutual exchange.
+
+During the seminar, the topic worker and topic working groups present their (interim) results, provide each other with feedback, and receive tips from the seminar leader.
+
+Training providers can have the seminars led by leading experts and actively promote this feature.
+
+Training providers are encouraged to also impart knowledge about the field to seminar participants. The training providers decide what the format and scope will be.
+
+Training providers can set the price of a seminar themselves.
+
+==== Publication of Results
+Topic workers and topic working groups are encouraged to publish their results at conferences or in journals. Submissions should be made as part of the topic development process.
+
+The iSAQB will support and promote these publications.
+
+
+==== Proof of Activity
+The topic workers and topic working groups must store their work results in a version-controlled system (e.g., Git, Wiki), and examiners must be granted access to them. This allows examiners to verify that the topics were actually developed by the topic workers and not by artificial intelligence.
+
+To enable examiners to determine that the development of the topic was not trivial and that each member contributed to approximately the same extent, the activities must be documented. The following criteria apply:
+
 
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 

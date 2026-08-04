@@ -1,6 +1,6 @@
 // tag::DE[]
-==== Trainingsprovider
-Trainingsprovider müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB die Akkreditierung bekommen:
+==== Trainingsanbieter
+Trainingsanbieter müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB die Akkreditierung bekommen:
 
 [cols="<4,<8,<8a"]
 |===
@@ -11,13 +11,13 @@ Trainingsprovider müssen nachfolgende Kriterien erfüllen, damit sie von iSAQB 
 |iSAQB verfügt über eine Liste aller akkreditierter Organisationen
 
 |Themenmoderator:in
-|Der Trainingsprovider muss mindestens eine:n erfolgreich zertifizierte:n Themenmoderator:in vorweisen können.
+|Der Trainingsanbieter muss mindestens eine:n erfolgreich zertifizierte:n Themenmoderator:in vorweisen können.
 |Die Akkreditierung einer Themenmoderatorin/eines Themenmoderators ist abgeschlossen.
 |===
 
 
 ==== Themenmoderator:innen
-Ein akkreditierter Trainingsprovider stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
+Ein akkreditierter #Trainingsanbieter# stellt einer Themenarbeitsgruppe eine:n akkreditierte:n Themenmoderator:in zu Verfügung.
 Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 
 [cols="<4,<8,<8a"]
@@ -32,13 +32,13 @@ Zur Akkreditierung muss ein:e Themenmoderator:in folgende Kriterien erfüllen:
 |Ein:e Themenmoderator:in muss die sozialen Kompetenzen haben, um eine Gruppe zu moderieren.
 |Bewerber:in für die Rolle listet ihre/seine Kompetenzen auf. Diese können einen der folgenden Punkte umfassen:
 
-- Bewerber:in hält Schulungen oder Seminare ab (z.{nbsp}B. iSAQB^®^-Seminare oder an einer Universität)
-- Bewerber:in kann nachweisen, dass sie/er seit mindestens einem Jahr eine Gruppe leitet (z.{nbsp}B. Verein, Entwicklungsteam).
+* Bewerber:in hält Schulungen oder Seminare ab (z.{nbsp}B. iSAQB^®^-Seminare oder an einer Universität)
+* Bewerber:in kann nachweisen, dass sie/er seit mindestens einem Jahr eine Gruppe leitet (z.{nbsp}B. Verein, Entwicklungsteam).
 
 |Wissen
 |Ein:e Themenmoderator:in muss über ausreichend Wissen zum Thema Softwarearchitektur verfügen.
-|- Bewerber:in hat mindestens das Zertifikat CPSA^(R)^ Foundation Level.
-- Bewerber:in arbeitet bereits seit mindestens 5 Jahren als Softwareentwickler:in oder Softwarearchitekt:in.
+|* Bewerber:in hat mindestens das Zertifikat CPSA^(R)^ Foundation Level.
+* Bewerber:in arbeitet bereits seit mindestens 5 Jahren als Softwareentwickler:in oder Softwarearchitekt:in.
 
 |===
 // end::DE[]
@@ -77,15 +77,15 @@ A topic moderator must fullfill the following criteria to get the accreditation 
 |A topic moderator must have social skills to be able to manage a group.
 |The applicant must prove one or more of the following competences:
 
-- The applicant has taken training courses or seminars, such as iSAQB® trainings or lectures at a university.
-- The applicant must substantiate that he has held the position of group leader for a minimum of one year, such as in an association, club, or development team.
+* The applicant has taken training courses or seminars, such as iSAQB® trainings or lectures at a university.
+* The applicant must substantiate that he has held the position of group leader for a minimum of one year, such as in an association, club, or development team.
 
 |Knowledge
 |A topic moderator must know enough about software architecture.
 |The applicant must meet the following requirements:
 
-- The applicant has at least the CPSA^(R)^ Foundation Level certification.
-- The applicant has been working as software developer or software architect for five years.
+* The applicant has at least the CPSA^(R)^ Foundation Level certification.
+* The applicant has been working as software developer or software architect for five years.
 
 |===
 

@@ -1,28 +1,30 @@
 // tag::DE[]
 === Schritt 4: Roadmap erstellen
-Die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlicht. Der/die Themenmoderator:in unterstützt dabei und prüft, ob die Roadmap diese Kriterien erfüllt:
+
+Der/die Themenbearbeiter:in beziehungsweise die Themenarbeitsgruppe erstellt eine Roadmap, in der sie inhaltlich und zeitlich ihren Plan für ihr Vorgehen verschriftlichen. 
+
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-Hat der/die Themenmoderator:in festgestellt, dass die Roadmap diesen Kriterien entspricht, leitet er/sie die Roadmap an die Prüfer weiter. Diese überprüfen, ob die in der Roadmap beschriebenen Arbeitsergebnisse verständlich und ausreichend beschrieben, sowie messbar sind. Die Prüfer ergänzen gegebenenfalls die Roadmap.
+Der/die Themenbearbeiter oder die Themenarbeitsgruppe reicht die Roadmap beim Zertifizierer ein, welcher sie an die Prüfer weiterleitet. Diese überprüfen, ob die in der Roadmap beschriebenen Arbeitsergebnisse verständlich, ausreichend beschrieben sowie messbar sind. Die Prüfer:innen ergänzen gegebenenfalls die Roadmap.
 
-Sind die Prüfer mit der Roadmap nicht zufrieden, kann die Themenarbeitsgruppe einmalig die Roadmap nachbessern.
+Sollten die Prüfer:innen mit der Roadmap nicht zufrieden sein, kann der/die Themenbearbeiter:in oder die Themenarbeitsgruppe die Roadmap einmalig nachbessern.
 
-Die Themenarbeitsgruppe kann mit der Arbeit beginnen, sobald der/die Themenmoderator:in, sowie die Prüfer die Roadmap freigegeben haben.
+Erst wenn die Prüfer:innen die Roadmap freigegeben haben, kann der/die Themenbearbeiter:in bzw. die Themenarbeitsgruppe mit der Arbeit beginnen.
+
 // end::DE[]
 
 // tag::EN[]
 === Step 4: Create Roadmap
-The topic working group creates a roadmap, in which they put down in writing their plan for their procedure in terms of content and timescale. The topic moderator provides support and checks whether the roadmap fulfills these criteria:
+The topic worker or the topic working group creates a roadmap in which they set out their plan for how to proceed, including both content and timelines.
+
 
 include::../05-criteria/05-criteria-roadmap.adoc[{include_configuration}]
 
-After the topic moderator confirms that the roadmap meets the criteria, he/she forwards the roadmap to the examiners.
+The topic worker or the topic working group submits the roadmap to the certifying body, which forwards it to the examiner. The examiner verify whether the deliverables described in the roadmap are clearly and sufficiently defined and measurable. If necessary, the reviewers make additions to the roadmap.
 
-The examiners verify that the intended results are measurable and adequately and clearly described. The examiners can adapt the roadmap if needed.
+If the examinters are not satisfied with the roadmap, the topic worker or topic working group revise the roadmap once.
 
-If the examiners are not satisfied, the topic working group has one chance to submit an improved version of the roadmap.
-
-The topic working group can start working after the topic moderator and the examiners approved the roadmap.
+The topic worker or topic working group can only start working after the examiners have approved the roadmap.
 
 // end::EN[]
