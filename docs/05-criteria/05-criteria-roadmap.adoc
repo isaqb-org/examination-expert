@@ -34,8 +34,8 @@
 | - Wird der verpflichtende Artikel diskutiert?
 - Wird zumindest ein weiteres Ergebnis angeführt (z.{nbsp}B. Anleitung, Beispiel, ...)?
 - Wird für jedes Ergebnis die Form und Struktur behandelt?
-- Versucht die Themenarbeitsgruppe, die Ergebnisse bei mindestens einer Konferenz zu präsentieren?
-- Versucht die Themenarbeitsgruppe, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
+- Wird versucht, die Ergebnisse bei mindestens einer Konferenz zu präsentieren?
+- Wird versucht, die Ergebnisse in zumindest einer Fachzeitschrift zu publizieren?
 
 |===
 
@@ -77,8 +77,8 @@
 | - Is the mandatory article discussed?
 - Is at least one additional result stated (e.g., instructions, example, ...)?
 - Are the form and structure discussed for each result?
-- Does the topic working group attempt to present the results at at least one conference?
-- Does the topic working group attempt to publish the results in at least one trade publication?
+- Is there an attempt to present the results at at least one conference?
+- Is there an attempt to publish the results in at least one trade publication?
 
 |===
 

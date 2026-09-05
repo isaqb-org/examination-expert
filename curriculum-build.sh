@@ -67,4 +67,7 @@ for curriculum in $files; do
   run_builder "$curriculum" "$@"
 done
 
+mkdir -p "$REPO_ROOT/build"
+cp -R "$REPO_ROOT/templates/." "$REPO_ROOT/build/"
+
 echo "Done. Output in $REPO_ROOT/build/"
