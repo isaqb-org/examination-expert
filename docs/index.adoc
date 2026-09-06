@@ -21,10 +21,10 @@ Maintainers and volunteer reviewers collaborate on https://github.com/isaqb-org/
 | link:examination-regulations-en.html[HTML],  link:examination-regulations-en.pdf[PDF]
 
 | Roadmap Template
-| link:iSAQB_CPSA_Expert_Level_Template_Roadmap_EN.docx[DOCX]
+| link:roadmap-EN.md[Markdown]
 
 | Field Report Template
-| link:iSAQB_CPSA_Expert_Level_Field_Report_EN.docx[DOCX]
+| link:field-report-EN.md[Markdown]
 
 | Criteria
 | link:examination-criteria-en.html[HTML],  link:examination-criteria-en.pdf[PDF]
@@ -41,10 +41,10 @@ Maintainers and volunteer reviewers collaborate on https://github.com/isaqb-org/
 | link:examination-regulations-de.html[HTML],  link:examination-regulations-de.pdf[PDF]
 
 | Vorlage für die Roadmap
-| link:iSAQB_CPSA_Expert_Level_Template_Roadmap_DE.docx[DOCX]
+| link:roadmap-DE.md[Markdown]
 
 | Vorlage für Erfahrungsbericht
-| link:iSAQB_CPSA_Expert_Level_Field_Report_DE.docx[DOCX]
+| link:field-report-DE.md[Markdown]
 
 | Kriterien
 | link:examination-criteria-de.html[HTML],  link:examination-criteria-de.pdf[PDF]
