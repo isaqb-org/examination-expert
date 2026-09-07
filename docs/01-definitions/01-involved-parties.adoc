@@ -15,7 +15,7 @@
 | Arbeitsgruppe der iSAQB, welche den Expert Level entwickelt und betreut.
 
 | Prüfer:in
-| Prüfer:innen werden von der AG Expert Level ernannt und arbeiten für Zertifizierer.
+| Prüfer:innen geben die Roadmap frei, prüfen die Ergebnisse und führen die individuellen Prüfungsgespräche durch. Sie werden von der AG Expert Level ernannt und arbeiten im Auftrag der Zertifizierer.
 
 | Prüfling
 | Einzelperson, die den Zertifizierungsprozess durchläuft.
@@ -60,7 +60,7 @@ People involved in the examination process
 | Working group of the iSAQB that develops and maintains the Expert Level.
 
 | Examiner
-| Examiners must be appointed by the Expert Level Working Group and work for the certifying bodies.
+| Examiners approve the roadmap, evaluate the results, and conduct the individual assessment interviews. They are appointed by the Expert Level Working Group and work on behalf of certifying bodies.
 
 | Examinee
 | An individual who is going through the certification process.

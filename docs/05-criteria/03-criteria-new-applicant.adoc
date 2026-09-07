@@ -14,7 +14,7 @@ Bewerber:innen begründen ihre Eignung für das Thema, indem sie ihr Wissen und 
 |Advanced Level
 |Bewerber:innen müssen bestätigen, dass sie über das Advanced Level-Zertifikat verfügen.
 
-Das Thema der Expert Level-Zertifizierung muss inhaltlich zur Sparte passen, die ein:e Bewerber:in im Rahmen der Advanced Level-Zertifizierung gewählt hat.
+Das Thema der Expert Level-Zertifizierung muss inhaltlich zur Spezialisierung passen, die ein:e Bewerber:in im Rahmen der Advanced Level-Zertifizierung gewählt hat.
 
 |Praxiserfahrung
 |Bewerber:innen können mindestens 7 Jahre Berufserfahrung in der Rolle der/des Softwarearchitekt:in in komplexen Softwareprojekten vorweisen. Dabei sind insbesondere Erfahrungen in der system-, domänen- oder organisationsübergreifende Architekturarbeit notwendig.
@@ -40,7 +40,7 @@ Das Thema der Expert Level-Zertifizierung muss inhaltlich zur Sparte passen, die
 |Bewerber:innen müssen einwilligen, dass die Ergebnisse der Themenarbeit von iSAQB^®^ veröffentlicht und verwertet werden dürfen.
 
 |Reisebereitschaft
-|Bewerber:innen müssen sich bereit erklären, für die Arbeit in der Themenarbeitsgruppe Reisen auf eigene Kosten zu unternehmen.
+|Bewerber:innen müssen sich bereit erklären, für die Arbeit in der Themenarbeitsgruppe Reisen auf eigene Kosten zu unternehmen. Themenarbeitsgruppen bestimmen eigenständig, wie sie die Arbeit organisieren und ob sie sich persönlich treffen.
 
 |Weitergabe von Kontaktdaten
 |Bewerber:innen erteilen dem iSAQB^®^ die Berechtigung, folgende Daten an andere Mitglieder der Themenarbeitsgruppe weiterleiten zu dürfen: Vorname, Nachname, E-Mail-Adresse, Telefonnummer.
@@ -114,7 +114,7 @@ The topic of the Expert Level certification must align with the specialization t
 |Applicants must agree that iSAQB^®^ is allowed to publish and exploit the results of the topic group.
 
 |Willingness to travel
-|Applicants must confirm that they are willing to travel at their own expense to work together in the topic group.
+|Applicants must confirm that they are willing to travel at their own expense to work together in the topic group. Topic working groups determine for themselves how to organize their work and whether to meet in person.
 
 |Disclosure of contact data
 |The applicants grant permission to iSAQB^®^ to forward the following contact details to the other members of the topic groups: first name, last name, e-mail address, and phone number.
