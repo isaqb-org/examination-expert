@@ -8,7 +8,7 @@
 
 ## Changes in 2025.7
 * The examiners review and adopt the roadmap. Having clear criteria for judging the work of the topic working group will help avoid disagreements.
-* The certification result is solely determined by the individual verbal exam.
+* The certification result is solely determined by the individual oral exam.
 
 
 ## Changes in 2025.5

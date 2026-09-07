@@ -1,11 +1,11 @@
 // tag::DE[]
 === Schritt 3: Vertrag mit Zertifizierer abschließen
-Bewerber schließen einen Vertrag mit dem Zertifizierer ab.
+Jeder Bewerber schließt einen Vertrag mit einem Zertifizierer ab.
 
 // end::DE[]
 
 // tag::EN[]
-=== Step 3: Contract Certifying Body and Training Provider
-Applicants conclude a contract with the certifying body.
+=== Step 3: Contract Certifying Body
+Each applicant concludes a contract with a certifying body.
 
 // end::EN[]

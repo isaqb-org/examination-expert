@@ -42,7 +42,7 @@ include::08-criteria-participation.adoc[{include_configuration}]
 
 <<<
 
-include::09-criteria-verbal-exam.adoc[{include_configuration}]
+include::09-criteria-oral-exam.adoc[{include_configuration}]
 
 <<<
 

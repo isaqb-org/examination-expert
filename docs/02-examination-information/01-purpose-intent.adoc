@@ -5,11 +5,12 @@ Beim CPSA Expert Level (CPSA-E) verwenden Sie Ihr Wissen aus Foundation und Adva
 Durch Veröffentlichung Ihrer Arbeitsergebnisse tragen Sie aktiv dazu bei, dass Expert:innenwissen in die Breite getragen wird und sich die Qualität der Softwarearchitekturen in anderen Organisationen verbessert.
 
 Ziele:
-- Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
-- Sie erarbeiten mit anderen Expert:innen neues Wissen.
-- Sie zeigen, dass Sie teamfähig sind.
-- Sie tauschen sich mit anderen Expert:innen aus und bauen so ein berufliche Netzwerk auf.
-- Sie präsentieren die Ergebnisse bei Konferenzen oder publizieren in Fachmagazinen.
+
+* Sie zeigen, dass Sie in einem Fachgebiet der Softwarearchitektur Expert:in sind.
+* Sie erarbeiten mit anderen Expert:innen neues Wissen.
+* Sie zeigen, dass Sie teamfähig sind.
+* Sie tauschen sich mit anderen Expert:innen aus und bauen so ein berufliche Netzwerk auf.
+* Sie präsentieren die Ergebnisse bei Konferenzen oder publizieren in Fachmagazinen.
 
 // end::DE[]
 
@@ -20,11 +21,12 @@ At the CPSA Expert Level (CPSA-E), you will apply the knowledge you've gained at
 By publishing your results, you actively contribute to the wider dissemination of expert knowledge and help improve the quality of software architectures in other organizations as well.
 
 Objectives:
-- You demonstrate that you are an expert in a specialist field of software architecture.
-- You develop new knowledge with other experts.
-- You demonstrate the ability to work in a team.
-- You interact with other experts, thus building a professional network for your future.
-- You present the results at conferences or publish them in professional journals.
+
+* You demonstrate that you are an expert in a specialist field of software architecture.
+* You develop new knowledge with other experts.
+* You demonstrate the ability to work in a team.
+* You interact with other experts, thus building a professional network for your future.
+* You present the results at conferences or publish them in professional journals.
 
 // end::EN[]
 
