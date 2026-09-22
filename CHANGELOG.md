@@ -1,4 +1,11 @@
 # Release Notes
+
+## Changes in 2026.9
+
+* Regulate the use of generative
+* Set the size and the number of participants of seminars
+* Convert templates to Markdown format.
+
 ## Changes in 2026.8
 
 * The topic must be relevant to the area chosen by the applicant in the Advanced Level.
