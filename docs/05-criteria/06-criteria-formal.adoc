@@ -4,7 +4,20 @@
 
 [cols="<3,<1,<7a"]
 |===
-| Kriterium | Pflicht | Beschreibung
+| Ergebnis | Pflicht | Kriterien
+
+| Alle
+| Muss
+| Ursprung der Inhalte: 
+
+* Wurden die Inhalte eigenständig verfasst?
+* Wurden alle verwendeten Quellen und Hilfsmittel vollständig angegeben?
+
+Künstliche Intelligenz:
+
+* Wurden die Abschnitte markiert, die mit generativer Künstlicher Intelligenz erzeugt wurden?
+* Wurde die Kommunikation mit einer Künstlichen Intelligenz archiviert und den Ergebnissen beigelegt?
+
 
 | Artikel
 | Muss
@@ -91,7 +104,19 @@
 
 [cols="<3,<2,<7a"]
 |===
-| Criterion | Requirement | Description
+| Result | Requirement | Criterion
+
+| All
+| Essential
+| Origin of Content:
+
+* Was the content written independently?
+* Were all sources and tools used fully cited?
+
+Artificial Intelligence
+
+* Were sections generated using generative artificial intelligence marked?
+* Was the interaction with the artificial intelligence archived and included with the results?
 
 | Article
 | Essential

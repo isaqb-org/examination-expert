@@ -42,6 +42,12 @@ Damit die Prüfer:innen feststellen können, dass die Ausarbeitung des Themas ni
 
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
+=== Nutzung von Künstlicher Intelligenz
+
+Wenn generative KI-Modelle genutzt werden, müssen alle Kommunikationen mit dem generativen KI-Modell archiviert und den Ergebnissen als Anhang beigefügt werden.
+
+Text Passagen, die mit generativen KI-Modellen erstellt wurden, müssen als solche gekennzeichnet werden.
+
 // end::DE[]
 
 // tag::EN[]
@@ -80,7 +86,6 @@ Topic workers and topic working groups are encouraged to publish their results a
 
 The iSAQB will support and promote these publications.
 
-
 ==== Proof of Activity
 The topic workers and topic working groups must store their work results in a version-controlled system (e.g., Git, Wiki), and examiners must be granted access to them. This allows examiners to verify that the topics were actually developed by the topic workers and not by artificial intelligence.
 
@@ -88,5 +93,12 @@ To enable examiners to determine that the development of the topic was not trivi
 
 
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
+
+
+=== Usage of Artificial Intelligence
+
+If generative AI models are used, all communication with the generative AI model must be archived and attached to the results as an annex.
+
+Text passages generated with generative AI models must be identified as such. 
 
 // end::EN[]
