@@ -42,7 +42,7 @@ Damit die Prüfer:innen feststellen können, dass die Ausarbeitung des Themas ni
 
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
-=== Nutzung von Künstlicher Intelligenz
+==== Nutzung von Künstlicher Intelligenz
 
 Wenn generative KI-Modelle genutzt werden, müssen alle Kommunikationen mit dem generativen KI-Modell archiviert und den Ergebnissen als Anhang beigefügt werden.
 
@@ -95,7 +95,7 @@ To enable examiners to determine that the development of the topic was not trivi
 include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
 
-=== Usage of Artificial Intelligence
+==== Usage of Artificial Intelligence
 
 If generative AI models are used, all communication with the generative AI model must be archived and attached to the results as an annex.
 
