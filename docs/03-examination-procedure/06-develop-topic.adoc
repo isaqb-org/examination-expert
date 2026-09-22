@@ -46,7 +46,7 @@ include::../05-criteria/08-criteria-participation.adoc[{include_configuration}]
 
 Wenn generative KI-Modelle genutzt werden, müssen alle Kommunikationen mit dem generativen KI-Modell archiviert und den Ergebnissen als Anhang beigefügt werden.
 
-Text Passagen, die mit generativen KI-Modellen erstellt wurden, müssen als solche gekennzeichnet werden.
+Textpassagen, die mit generativen KI-Modellen erstellt wurden, müssen als solche gekennzeichnet werden.
 
 // end::DE[]
 
